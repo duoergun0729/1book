@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/liu.yan/Desktop/code/book/code/model_resnet_mnist-215"
+all_model_checkpoint_paths: "/Users/liu.yan/Desktop/code/book/code/model_resnet_mnist-215"
