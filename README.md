@@ -1,6 +1,14 @@
 ![img](https://github.com/duoergun0729/1book/raw/master/photo/%E6%B5%B7%E6%8A%A5.jpg)
 # 京东链接
 [https://item.jd.com/12158965.html](https://item.jd.com/12158965.html)
+# 目录
+
+![img](https://github.com/duoergun0729/1book/raw/master/photo/1.jpeg)
+![img](https://github.com/duoergun0729/1book/raw/master/photo/2.jpeg)
+![img](https://github.com/duoergun0729/1book/raw/master/photo/3.jpeg)
+![img](https://github.com/duoergun0729/1book/raw/master/photo/4.jpeg)
+![img](https://github.com/duoergun0729/1book/raw/master/photo/5.jpeg)
+
 # 前言
 
 ​	近几年，人工智能无疑成为人们口中的热点话题。先是Google的AlphaGo，后有百度的度秘、无人车，微软必应搜索推出的小冰也是新闻不断。这一系列人工智能产品的推陈出新，令人眼花缭乱，一时间给人的感觉是人工智能遍地开花。无论人们接受还是不接受，人工智能都在迅速渗透各行各业。安全作为一个传统行业，基于规则以及黑白名单的检测技术已经发展到了一定的瓶颈，而利益驱动的黑产团伙，其技术的发展已经远远超乎我们的想象。如何借助人工智能的力量，提升安全行业的整体检测与防护能力，成为各大安全厂商研究的课题。国内安全行业，随着BAT3以及大量新兴的创业企业进入企业安全领域，他们凭借着自身数据搜集、处理、积累以及人工智能方面优势，正在逐渐改变着整个安全行业，安全产品的形态从硬件盒子逐步走向混合模式以及云端SaaS服务，安全技术从重防御逐步走向数据以及智能驱动。传统安全企业也凭借其强大的安全人才储备，迅速推进人工智能在安全产品的落地。
@@ -29,12 +37,7 @@
 
 ![img](https://github.com/duoergun0729/4book/raw/master/photo/logo/i%E6%98%A5%E7%A7%8B.png)
 
-#目录
-![img](https://github.com/duoergun0729/1book/raw/master/photo/1.jpeg)
-![img](https://github.com/duoergun0729/1book/raw/master/photo/2.jpeg)
-![img](https://github.com/duoergun0729/1book/raw/master/photo/3.jpeg)
-![img](https://github.com/duoergun0729/1book/raw/master/photo/4.jpeg)
-![img](https://github.com/duoergun0729/1book/raw/master/photo/5.jpeg)
+
 
 
 
