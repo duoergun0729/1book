@@ -1,0 +1,8 @@
+md5=file1,domain=domain1
+md5=file1,domain=domain2
+md5=file1,domain=domain3
+md5=file1,domain=domain6
+md5=file2,domain=domain2
+md5=file2,domain=domain3
+md5=file2,domain=domain4
+md5=file2,domain=domain5

@@ -1,0 +1,4 @@
+hid=1,uid=mike,app=app1
+hid=2,uid=tony,app=app1
+hid=1,uid=john,app=app2
+hid=2,uid=john,app=app2

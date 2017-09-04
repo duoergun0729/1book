@@ -1,0 +1,5 @@
+mail=mail1,domain=domain1,ip=ip1
+mail=mail1,domain=domain3,ip=ip2
+mail=mail2,domain=domain2,ip=ip1
+mail=mail2,domain=domain4,ip=ip2
+mail=mail2,domain=domain5,ip=ip3

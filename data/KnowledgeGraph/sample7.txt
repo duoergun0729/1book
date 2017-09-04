@@ -1,0 +1,12 @@
+ip=ip1,ua=ua1,target=url1
+ip=ip2,ua=ua1,target=url1
+ip=ip3,ua=ua1,target=url1
+ip=ip1,ua=ua1,target=url2
+ip=ip2,ua=ua1,target=url2
+ip=ip3,ua=ua1,target=url2
+ip=ip4,ua=ua2,target=url2
+ip=ip5,ua=ua3,target=url2
+ip=ip5,ua=ua6,target=url6
+ip=ip6,ua=ua3,target=url4
+ip=ip7,ua=ua4,target=url4
+ip=ip8,ua=ua5,target=url5

@@ -1,0 +1,6 @@
+uid=mike,ip=ip1,tel=tel1,activesyncid=1
+uid=mike,ip=ip2,tel=tel1,activesyncid=2
+uid=mike,ip=ip3,tel=tel1,activesyncid=2
+uid=john,ip=ip1,tel=tel2,activesyncid=2
+uid=john,ip=ip4,tel=tel2,activesyncid=2
+uid=john,ip=ip5,tel=tel2,activesyncid=2

@@ -1,0 +1,9 @@
+uid=mike,ip=ip1,login=yes,ua=ua1
+uid=mike,ip=ip1,login=no,ua=ua1
+uid=lily,ip=ip1,login=yes,ua=ua1
+uid=willy,ip=ip1,login=no,ua=ua1
+uid=tony,ip=ip1,login=yes,ua=ua1
+uid=charly,ip=ip1,login=yes,ua=ua1
+uid=steven,ip=ip1,login=no,ua=ua1
+uid=mery,ip=ip1,login=no,ua=ua1
+uid=john,ip=ip1,login=no,ua=ua1
