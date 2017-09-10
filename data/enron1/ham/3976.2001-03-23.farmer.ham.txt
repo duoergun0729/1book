@@ -1,0 +1,8 @@
+Subject: volume changes
+o ' neal ,
+the following volume changes were made today :
+deal # meter # zone from to effective
+439825 9797 6 626 1000 3 / 24 - 3 / 31
+439837 3543 3 808 1000 3 / 24 - 3 / 31
+377169 9842 7 8034 0 3 / 23 - 3 / 26
+bob

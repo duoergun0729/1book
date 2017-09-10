@@ -1,0 +1,3 @@
+Subject: enron / hpl actuals for june 20 , 2000
+teco tap 120 . 000 / hpl iferc ; 30 . 000 / enron
+ls hpl lsk ic 30 . 000 / enron

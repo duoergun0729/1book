@@ -1,0 +1,54 @@
+Subject: re : error repairs
+the pricing for the base deal is based on the gd , but it ' s the average of the gas daily plus . 02 , right ? and i was told that sitara could not handle this pricing structure , that it had to be calculated and entered as a fixed price . is this correct ?
+- - - - - original message - - - - -
+from : farmer , daren j .
+sent : friday , august 17 , 2001 3 : 19 pm
+to : vela , valerie
+subject : re : error repairs
+valerie ,
+the pricing on the base deal should also be based on gd . i have changed the price to gdp . let me know if that doesn ' t correct that piece . jay is currently looking into the volume issue .
+d
+- - - - - original message - - - - -
+from : vela , valerie
+sent : friday , august 17 , 2001 2 : 55 pm
+to : smith , joseph
+cc : farmer , daren j .
+subject : re : error repairs
+jay ,
+for june , i need a couple of things changed in sitara :
+deal 819592 - the commodity price needs to be 3 . 6318
+deal 819594 - the commodity price needs to be waha . hub . gdp . d . a + . 02
+and for july . . . . . . . . . . . .
+it looks like we ' re missing some volume . . . . . . . . . . . .
+deal 895651 - baseload deal - should have 55 , 000 per day allocated . and in sitara this deal should be priced at $ 3 . 0505 .
+deal 895691 - swing deal - currently has 234 , 000 in the scheduled column and it should be 441 , 000 based on the spreadsheet i sent . did you have some conflicting volumes ? i ' m resending what the volumes should be . and the pricing for this should be at waha . hub . gdp . d . a + . 02 .
+>
+i think that should do if for now . i ' ll wait to see how these changes come across . please notify me when these changes have been made . thanks !
+- - - - - original message - - - - -
+from : vela , valerie
+sent : tuesday , august 14 , 2001 3 : 44 pm
+to : smith , joseph
+subject : re : error repairs
+thanks !
+- - - - - original message - - - - -
+from : smith , joseph
+sent : tuesday , august 14 , 2001 3 : 44 pm
+to : vela , valerie
+subject : re : error repairs
+the errors have also been repaired for the month of july .
+- - - - - original message - - - - -
+from : vela , valerie
+sent : tuesday , august 14 , 2001 12 : 58 pm
+to : smith , joseph
+subject : re : error repairs
+thank you - - - i ' ll look for this change to come across .
+- - - - - original message - - - - -
+from : smith , joseph
+sent : tuesday , august 14 , 2001 1 : 56 pm
+to : vela , valerie
+subject : error repairs
+valerie ,
+in reference to a note sent to darren farmer : houston pipleline mistake on june 18 th
+the volume of 50 , 000 for deal 819594 was a mistake . the proper value was 30 , 000 just as you had mentioned . everything should now be fixed . please let me know if you need anything else .
+thanks ,
+jay smith

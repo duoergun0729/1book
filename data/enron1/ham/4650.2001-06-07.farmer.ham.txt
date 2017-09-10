@@ -1,0 +1,6 @@
+Subject: tenaska iv agency fee
+can you clarify for me how the agency fee is suppose to be calculated ? i am getting mixed information . i know that we use the higher of the two volumes ( receipts vs . deliveries ) . the question is do we use the nom volume or the actual volume . last month ( march ) , we left the volume at the nom of 45 , 000 / day . in the past , we have changed the volume to the actual daily volume . for april , the actuals are higher than the nom and we would need to bump the volume up to 47 , 089 / day . james armstrong is using the actual volume . the deal for the fee is 514353 .
+my other problem is that the spreadsheet is choosing the max of three volumes , receipts , deliveries and transport . should the transport volume be in the calculation ? also , mark added some payback volume to the spreadsheet and it is being included in the receipt volume . do i include the payback volume in the calculation of the agency fee if we use the nom ? if you have a copy of the contract that addresses the agency fee , i would like to have a copy . you can fax it to 713 - 571 - 3141 . if none of this makes sense , give me a call and i can try and explain further .
+thanks ,
+megan
+713 - 571 - 3261

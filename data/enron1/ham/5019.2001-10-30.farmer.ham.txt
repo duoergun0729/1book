@@ -1,0 +1,27 @@
+Subject: re : tglo status
+cost centers 11814 and 27117 are rolling to texas gas trading .
+- - - - - original message - - - - -
+from : coffey jr . , jim
+sent : tuesday , october 30 , 2001 10 : 05 am
+to : parker , megan ; boyt , eric ; farmer , daren j .
+cc : bryan , gary ; pond , jim ; helton , susan ; east , laynie ; roberts , linda
+subject : re : tglo status
+megan
+as i mentioned to you yesterday , it still looks like the volumes for gas delivered to tx glo do not have linda robert ' s origination fee deducted . do we need to execute a pma with txglo to deduct those volumes from the next delievery ?
+also isn ' t there an entry that is missing in your file to capture the $ cost of gas for the gas delivered to txglo ? is that being captured in unify or is it being manually entered by gas accounting ?
+darren
+do we need to execute a seperate deal ticket for the origination deduct ?
+susan / laynie
+what busines unit are these cost centers rolling up to ( 11814 coffey jr . , jim
+subject : tglo status
+eric :
+i reviewed the gas deals on franks ' spreadsheet and they agree with what is in sitara . as soon as i have the october gas numbers , i will forward them to you .
+attached is a spreadsheet of the tglo deals booked to the gl to help you with our current settlement position . it is divided by debit / credit entries . when the sales are booked , a debit hits the customer account to create the open sale to apply the cash to and a credit hits the revenue account ( 40004000 third party ; 40005000 intercompany ) for the profit center .
+below is a summary of where we are on the sale dollars to egm . i have already sent an email to risk to update the demand fees for the prior months and to book aug and sept crude . i will wait for the go ahead from frank before i final them to the gl . let me know if you have any questions .
+megan
+status of sales to egm
+cleared invoices $ 3 , 905 , 963 . 20
+open invoices $ 1 , 177 , 587 . 60
+to be booked $ 3 , 093 , 424 . 22
+$ 8 , 176 , 975 . 55
+>

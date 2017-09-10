@@ -1,0 +1,72 @@
+Subject: information regarding batch noms on aug 5 , 6 & 7 , 2000
+daren :
+i am having trouble with 8 / 00 . the first issue is day 1 of the purchase at
+fuels cotton . we have two deals in sitara , spot deal 348951 and exchange
+deal 157288 . you had said previously that we would know a spot deal had
+occurred by the new deal ticket and the different pricing . since there was a
+spot deal , we put all of the volume for day 1 on deal 348951 . duke says that
+day 1 was not a spot and that it should be on the exchange deal and priced at
+gd - 0 . 10 . the exchange deal is currently price at index - 0 . 05 . please let
+me know which deal we are suppose to use and what the price should be .
+the second issue is the sale volume on deal 157278 for 8 / 00 . duke is telling
+me that we sold them a batch of gas on the 7 th , which we see , but that we are
+suppose to prorate the gas over the 5 th , 6 th , and 7 th for the exchange . this
+is a problem since gas was not confirmed for the 5 th and 6 th and pipeline
+shows all of the gas on the 7 th . this is a daily swing meter which
+electronically feeds into settlements . we don ' t normally change these
+meters . if you intended for us to prorate this gas , i will need your ok . the
+emails below are from marta at duke notifying us of the change .
+megan
+- - - - - - - - - - - - - - - - - - - - - - forwarded by megan parker / corp / enron on 10 / 10 / 2000
+03 : 50 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mkhenderson @ duke - energy . com on 10 / 10 / 2000 02 : 25 : 30 pm
+to : stacey . neuweiler @ enron . com , megan . parker @ enron . com
+cc : djdobb @ duke - energy . com
+subject : information regarding batch noms on aug 5 , 6 & 7 , 2000
+read information below and see if this helps one of the unresolved problems
+for august .
+megan can you tell me how you arrived at the price for august 1 ? i do not
+know why august 1 would be priced differently than the other days of the
+month when we had over deliveries for the fuel cotton valley gas . this is
+priced at hsc daily - . 10 per paragraph 3 of the contract . if a different
+price was worked out with darren , i do not have record of it . darren is
+out until next week .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by marta k henderson / houston / pefs / pec on
+10 / 10 / 2000 02 : 16 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+marta k henderson
+08 / 03 / 2000 11 : 26 am
+to : darrel f . bane / easttexas / pefs / pec @ pec , john a . bretz / gcs / cec / pec @ pec ,
+chad w . cass / gcs / cec / pec @ pec , michael r .
+cherry / easttexas / pefs / pec @ pec , bruce mcmills / ftworth / pefs / pec @ pec ,
+william e . speckels / gcs / cec / pec @ pec , donna c .
+spencer / gcs / cec / pec @ pec , julia a . urbanek / gcs / cec / pec @ pec , dora j .
+levy / gcs / cec / pec @ pec , briley @ enron . com , dfarmer @ enron . com ,
+carlos . j . rodriguez @ enron . com , sharon beemer / ftworth / pefs / pec @ pec ,
+connie wester / easttexas / pefs / pec @ pec
+cc :
+subject : more changes to eastrans nomination changes effective 8 / 4 / 00
+please disregard the memo below and the following will apply for 8 / 4 / 00 :
+deliveries to eastrans will be 7 , 800 mmbtu / dy
+redeliveries into hpl from fuels cotton valley
+for 8 / 5 , 8 / 6 , & 8 / 7 ( saturday , sunday & monday ) deliveries to eastrans will
+be 7 , 800 mmbtu / dy ( 23 , 400 mmbtu for 3 days ) . the deliveries of this gas
+will occur in a batch on monday , 8 / 7 .
+redeliveries into hpl from fuels cotton valley
+- - - - - - - - - - - - - - - - - - - - - - forwarded by marta k henderson / houston / pefs / pec on
+08 / 03 / 2000 11 : 21 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+marta k henderson
+08 / 03 / 2000 08 : 58 am
+to : darrel f . bane / easttexas / pefs / pec @ pec , john a . bretz / gcs / cec / pec @ pec ,
+chad w . cass / gcs / cec / pec @ pec , michael r .
+cherry / easttexas / pefs / pec @ pec , bruce mcmills / ftworth / pefs / pec @ pec ,
+william e . speckels / gcs / cec / pec @ pec , donna c .
+spencer / gcs / cec / pec @ pec , julia a . urbanek / gcs / cec / pec @ pec , dora j .
+levy / gcs / cec / pec @ pec , briley @ enron . com , dfarmer @ enron . com ,
+carlos . j . rodriguez @ enron . com , sharon beemer / ftworth / pefs / pec @ pec ,
+connie wester / easttexas / pefs / pec @ pec
+cc :
+subject : eastrans nomination changes effective 8 / 4 / 00
+please increase deliveries to eastrans to 30 , 000 mmbtu / dy effective 8 / 4 / 00
+the redeliveries will be :
+7 , 800 from fuels cotton valley
+22 , 200 to pg & e

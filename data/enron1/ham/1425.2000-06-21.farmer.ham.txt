@@ -1,0 +1,11 @@
+Subject: desk summary report
+the cpr report named desk summary is currently being reviewed for an
+upgrade . i have been told that this report is used during bidweek to check
+positions on a particular pipe ( for a particular zone ) . if you do not need
+additional data , this report could very easily be added to the report
+selection in the sitara reporting application . if anyone would like to see
+more detailed information on the report , please let me know . there may be a
+report that is already in production that they can access .
+please let me know if the format currently in cpr is sufficient as soon as
+possible .
+chao !

@@ -1,0 +1,6 @@
+Subject: lyondell - - # 1063
+the gas looks like it is not allocating correctly in jan .
+i have not researched as to why , but if you like i can come down and go over
+some things to help identify and correct these kinds of problems .
+let me know .
+ken

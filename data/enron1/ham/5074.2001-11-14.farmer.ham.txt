@@ -1,0 +1,16 @@
+Subject: zero path termination in path manager
+matt / ben :
+i am responding to your request for comments on revising path manager by expanding the parameters of the path termination process to include zero volume paths on the last day of the month as a way to speed up unify response and retrieve times .
+based on my interviews of various desks including aep and calgary and our recent discussions , we find a legitimate business need to allow zero volume paths to roll from month to month ( requirements contracts on wellhead gas ) . following is a recap of what is proposed to be done regarding zero path termination .
+1 . all paths that are zero on the last day of a month ( exception noted in # 2 below ) will terminate on that day and will no longer roll into the following month .
+this path termination out function will run every night . any paths changed to zero retroactively will zero out future month ' s paths unless a volume
+is on that path in the future month .
+2 . zero paths marked as " always send nominations " will continue to roll from month to month until changed to some other nomination option . it appears that hpl
+( 736 paths ) and nigas ( 1136 paths ) might have some paths rolling that no longer need to . a special one time handling of these paths will be coordinated with the
+scheduler when you are ready .
+3 . zero paths which roll from month to month using the " volume management - do not send " function will cease to do so . this was agree to by patti in regards to
+paths for oba tracking .
+all :
+please respond via e - mail with any comments .
+richard
+x 37339

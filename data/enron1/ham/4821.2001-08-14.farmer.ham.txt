@@ -1,0 +1,23 @@
+Subject: fw : section 311
+just so you know , this is what i sent redmond about that 311 case .
+- - - - - original message - - - - -
+from : hull , bryan
+sent : tuesday , august 14 , 2001 7 : 16 am
+to : redmond , brian
+subject : fw : section 311
+brian , this is a pretty good explanation of the case thus far . . . . . .
+commissioner wood is aware of the conflict between pg & e ( now epgt ) and southern union , probably because of lobbying by southern union , and that is why he raised the issue . southern union states in its initial brief ( # 9 below ) that it opposes the high demand rates that it says epgt proposes to charge for a service that does not incorporate the consumer protections of order no . 636 and argues that ferc should impose order no . 636 standards on pg & e . i was watching a video stream of the meeting , and the whole discussion seemed to come out of nowhere .
+here are the facts in this case .
+1 ) on december 20 , 1999 , pg & e texas pipeline , lp ( the predecessor to epgt texas pipeline , lp ) filed a petition with ferc for approval of transportation rates under section 311 along , as they were required to do . ( all intrastate pipelines that perform section 311 service must either have their rates approved by ferc or they must charge rates that are approved by a state regulatory body for a similar service . ) pg & e ' s filing proposed , in addition to the usual interruptible service , a firm section 311 service as well as an interruptible parking and lending service . pg & e also filed a revised statement of operating conditions to reflect the new services .
+2 ) on february 25 , 2000 , southern union gas company , an intrastate transportation customer of pg & e , filed a late motion to intervene and raised issues which it stated should be addressed in a hearing . pg & e opposed the late intervention , but ferc granted it on april 14 , 2000 . ( pg & e stated that southern union was intervening in order to gain leverage in renegotiating its contract for intrastate service . )
+3 ) southern union submitted data requests to pg & e on april 13 and april 17 . pg & e attempted to get a protective order issued , but ferc rejected their request .
+4 ) a settlement conference was held on september 7 , 2000 .
+5 ) a staff panel was convened on october 2 , 2000 , in order to conduct an advisory , non - evidentiary proceeding for oral arguments on the issues , with instructions to make recommendations to the commission within 90 days .
+6 ) on november 1 , 2000 , ferc requested 5 pages of additional information from pg & e in order to complete the application in the proceeding , which pg & e provided on november 8 th . on december 8 th , pg & e provided additional information in response to a ferc data request .
+7 ) on january 10 , 2001 , southern union submitted a proposed alternative to the cost of service and rate design that was filed by pg & e .
+8 ) on january 17 , el paso field services informed ferc that pg & e texas pipeline , lp had been acquired by el paso on december 22 , 2000 , and that the name was changed to epgt texas pipeline , lp .
+9 ) on january 24 , 2001 , epgt texas and southern union filed initial briefs .
+10 ) on july 17 , 2001 , epgt filed supplemental comments in response to the discussion at ferc summarized below , where commissioner wood inquired about the extension of some order no . 636 and 637 provisions to section 311 service providers . epgt stated that , if ferc proceeds with this policy , it should do so in a generic rulemaking and not in an individual pipeline proceeding . on july 30 , 2001 , southern union filed reply comments opposing epgt ' s supplemental comments .
+11 ) on august 3 , epgt filed an amended statement of operating conditions , which provides for electronic nominations , two additional nomination cycles , bumping , clarified and updated credit provisions , modified quality provisions to protect system integrity , and more clearly defined authorized overrun service .
+the ngpa gives ferc authority over intrastate pipeline rates for section 311 service and requires that such service be provided on a non - discriminatory basis , but there is some question as to whether it gives ferc authority to require , for example , compliance with order nos . 636 and 637 .
+please let me know if this is enough detail ( or maybe it ' s more than you wanted ! ! ) .

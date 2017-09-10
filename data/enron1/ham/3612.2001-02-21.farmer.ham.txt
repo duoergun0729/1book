@@ -1,0 +1,35 @@
+Subject: eol deal ids in path manager
+thought you might want to see this .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by edward terry / hou / ect on 02 / 21 / 2001 09 : 19
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : matt pena / enron @ enronxgate on 02 / 21 / 2001 09 : 11 am
+to : edward terry / hou / ect @ ect , george f smith / hou / ect @ ect , patti
+sullivan / hou / ect @ ect , katherine l kelly / hou / ect @ ect , robert
+superty / hou / ect @ ect , victor lamadrid / hou / ect @ ect , beverly beaty / hou / ect @ ect ,
+donna greif / hou / ect @ ect , richard pinion / hou / ect @ ect
+cc : chris schomer / enron @ enronxgate , brian ripley / enron @ enronxgate , bob m
+hall / na / enron @ enron , bryce baxter / hou / ect @ ect
+subject : eol deal ids in path manager
+as you ' re aware , we ' re having to bridge houston street ids into unify from
+sitara .
+we are being asked , as a requirement , to not display the eol id on statements
+that are identified as " broker eol trade " deals originating from eol . we
+have two options to accomodate this requirement :
+option 1 is to have the modify the bridge code to not bridge over the eol
+deal id if the deal is a " broker eol trade " deal . one of the drawbacks of
+this option is that you won ' t be able to referenence the eol id on the path
+manager for these related deals . all other deals will have the eol deal id ,
+if applicable . the eol id would not show up on the statements because it
+wouldn ' t be populated .
+option 2 is to modify several areas of code in the settlements area which may
+be more time consuming . the obvious code change would be in the statement
+generation area as well as other report type information .
+option 2 allows you the greatest flexibility while option 1 may be quicker to
+implement .
+please pass this along to others in your group and get feedback . please
+share your thoughts . . . .
+i ' ve attached an email explaining the broker eol trades . this is not to be
+confused with broker deals done at a given point with not transportation .
+these will continue to come across as you ' d normally expect .
+any questions , please ask . . .
+thanks !

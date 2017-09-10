@@ -1,0 +1,9 @@
+Subject: revision - black marlin - meter 986782 for 8 / 98 - ua 4
+revision - according to measurement , there is flow of 7 , 394 in 8 / 98 , however ,
+there is nothing to indicate this is gas that was received on hpl in oss . i
+checked mips and there is a measurement statement that supports the flow rate
+of 7 , 394 mmbtu .
+daren is there a deal in cpr which may not have fed over to oss ? i checked
+oss for the whole year of 1998 and there are no other deals in oss . it does
+seem strange that this is the only month of flow .
+thanks , stella

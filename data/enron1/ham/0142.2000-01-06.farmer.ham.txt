@@ -1,0 +1,38 @@
+Subject: columbia energy history data
+fyi - we will probably be asked what historical information is needed in our
+shop from a logistics perspective . i would suggest asking the new ces
+employees to give us a list of what they know we would probably need to deal
+with historical questions on pipeline and customer physical imbalances as
+well as any other information that helps support some of the large customer
+and asset transactions .
+have each of them put together a list that we can consolidate and forward to
+the it folks .
+thanks - bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert superty / hou / ect on 01 / 06 / 2000
+07 : 56 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron technology
+from : inja chun 01 / 05 / 2000 01 : 21 pm
+to : susan harrison / hou / ect @ ect , bryce baxter / hou / ect @ ect , sheri
+thomas / hou / ect @ ect
+cc : brent a price / hou / ect @ ect , brenda f herod / hou / ect @ ect , robert
+superty / hou / ect @ ect , tommy j yanowski / hou / ect @ ect , sally beck / hou / ect @ ect ,
+larrissa sharma / hou / ect @ ect , anthony dayao / hou / ect @ ect , lawrence r
+daze / hou / ect @ ect , richard burchfield / hou / ect @ ect , jpeople @ columbiaenergy . com ,
+tommy j yanowski / hou / ect @ ect , beth s perlman / lon / ect @ ect , philippe a
+bibi / hou / ect @ ect , mark friedman / hou / ect @ ect , mary solmonson / hou / ect @ ect , bob
+klein / hou / ect @ ect , georgeanne hodges / hou / ect @ ect , lisa csikos / hou / ect @ ect ,
+rita wynne / hou / ect @ ect
+subject : columbia energy history data
+the following summarizes the decisions made during our user & it joint
+meeting today regarding the handling of ces historical data .
+a . bryce baxter will coordinate with all user groups to identify ces reports
+that need to be actually printed as hard copy or transfered to files that
+will be accessed via the electronic document management system .
+b . jeff peoples will be working with bryce baxter to produce reports using
+ces system via isdn line at enron building - this will continue to be part of
+his duty until the job is done ( jeff joined ena as a member of sitara group ) .
+c . larry daze will be working with jeff peoples and bryce baxter to ensure
+all reports are loaded on our edms with proper indexing .
+d . no need for manupulating ces history data is necessary ( i . e . downloading
+on spreadsheets ) . therefore , no data will be kept on the disk other than
+edms .

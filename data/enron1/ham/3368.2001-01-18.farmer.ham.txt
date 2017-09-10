@@ -1,0 +1,8 @@
+Subject: tenaska 10 / 00 and 11 / 00
+please adjust the following demand fees for tenaska for 11 / 00 and 10 / 00 .
+deal 529856 , day 11 / 01 - change from 493 , 365 . 75 to 409 , 145 . 72
+deal 529856 , day 10 / 01 - change from 2 , 405 , 706 . 50 to 2 , 349 , 906 . 50
+deal 529856 , day 10 / 02 - change from 184 , 138 . 99 to 128 , 338 . 99
+deal 514353 - change demand volume from 45 , 016 to 44 , 350
+thanks ,
+megan

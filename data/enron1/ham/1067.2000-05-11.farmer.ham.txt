@@ -1,0 +1,15 @@
+Subject: entex volumes and price for 1999 - 2000 contract year
+the following represents daily volume and price information for entex ' s first
+contract year . the citygate volumes were retreived out of business objects
+and represent entex ' s meter 2000 volumes . the midcon volumes are based on
+daily nominated ( not allocated ) volumes . the customer price represents a
+weighted average of entex total billed volume ( industrial and residential )
+against the dollar amount billed to them . i ' ve put together charts that graph
+the following :
+1 . entex ' s total volume ( citygate and midcon ) v . daily price
+2 . midcon volumes v . daily price
+3 . daily price v . customer price
+4 . first of the month index v . gas daily price
+5 . percent change in daily price v . percent change in daily volume
+thanks ,
+ami

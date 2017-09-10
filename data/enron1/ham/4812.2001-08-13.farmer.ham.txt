@@ -1,0 +1,33 @@
+Subject: re : entex may 2001
+howard ,
+can you please respond to daren ' s question ? howard after we talked i thought you were going to just make the change effective 6 / 2001 . even if they do add these meters to the deals ena does not have a transport contract on unit to sell the gas to entex .
+- - - - - original message - - - - -
+from : farmer , daren j .
+sent : monday , august 13 , 2001 9 : 24 am
+to : schumack , sherlyn ; olsen , michael
+cc : jacobs , charles
+subject : re : entex may 2001
+we haven ' t had those meters on these deals for the entire year . why do we need to add them on the last month we have the deal ?
+d
+- - - - - original message - - - - -
+from : schumack , sherlyn
+sent : monday , august 13 , 2001 8 : 41 am
+to : farmer , daren j . ; olsen , michael
+cc : jacobs , charles
+subject : fw : entex may 2001
+daren or mike ,
+can you add these meters to the deals below ?
+- - - - - original message - - - - -
+from : hbcamp @ aep . com @ enron [ mailto : imceanotes - hbcamp + 40 aep + 2 ecom + 40 enron @ enron . com ]
+sent : thursday , august 09 , 2001 12 : 37 pm
+to : schumack , sherlyn
+cc : hbcamp @ aep . com ; ttnguyen @ aep . com ; ccernosek @ aep . com
+subject : entex may 2001
+sherlyn ,
+the pops meters 7107 , 7108 , and 7109 need to stay non allocatable and need to be allocated on unit gas pipeline . you will need daren or michael at enron to do the following
+add meters 7107 , 7108 and 7109 on unit pipeline to sitara deals 70550
+70549
+70119
+then you can run the pops 53 report for these meters or use your allocation to properly allocate to the meters on unit pipeline .
+once this is done , let me know and i will zero out the pops meters .
+hc

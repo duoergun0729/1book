@@ -1,0 +1,87 @@
+Subject: re : basin production from ga 213
+bob ,
+as mentioned earlier , houston exploration is also delivering gas to us at
+this meter . the following production is now on - line and a ticket should be
+created and entered into sitara based on the following :
+counterparty meter volumes price period
+houston exploration 9696 8000 mmbtu / d 100 % gd less $ 0 . 16 2 / 1 - 2 / 28
+fyi , i will create and submit a committed reserves firm ticket if and when
+the gas buyer terms the deal up . additionally , this is a producer svcs . deal
+and should be tracked in the im wellhead portfolio . . . attached to the
+gathering contract .
+thanks ,
+vlt
+x 3 - 6353
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vance l taylor / hou / ect on 02 / 09 / 2001
+02 : 46 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : robert cotten 01 / 26 / 2001 08 : 47 am
+to : daren j farmer / hou / ect @ ect
+cc : vance l taylor / hou / ect @ ect
+subject : re : basin production from ga 213
+daren / vance ,
+deal # 586954 has been created and entered in sitara :
+date meter # volume price
+2 / 1 / 01 - 2 / 28 / 01 9696 5 , 000 100 % gas daily less $ 0 . 16
+bob
+daren j farmer
+01 / 26 / 2001 08 : 25 am
+to : robert cotten / hou / ect @ ect
+cc :
+subject : re : basin production from ga 213
+- - - - - - - - - - - - - - - - - - - - - - forwarded by daren j farmer / hou / ect on 01 / 26 / 2001
+08 : 24 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vance l taylor
+01 / 25 / 2001 01 : 58 pm
+to : daren j farmer / hou / ect @ ect
+cc : john peyton / hou / ect @ ect
+subject : re : basin production from ga 213
+daren ,
+i ' ve just received word from basin to bring production on sometime today or
+tomorrow ( they expect to get up to b / t 10 , 000 - 15 , 000 d ) ; if our facility
+planning engineer determines that we can take the gas , then it will flow for
+all of february and be priced at 100 % gas daily less $ 0 . 16 .
+vlt
+daren j farmer
+01 / 25 / 2001 01 : 47 pm
+to : vance l taylor / hou / ect @ ect
+cc :
+subject : re : basin production from ga 213
+i need for you , or the producer services group , to determine if you think the
+gas will flow for the month and at what price . i will use your decision for
+our bidweek postion .
+d
+vance l taylor
+01 / 25 / 2001 11 : 53 am
+to : daren j farmer / hou / ect @ ect , robert cotten / hou / ect @ ect
+cc : susan smith / hou / ect @ ect , melissa graves / hou / ect @ ect
+subject : basin production from ga 213
+fyi ,
+how would you want to handle for february nomination ?
+vlt
+x 3 - 6353
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vance l taylor / hou / ect on 01 / 25 / 2001
+11 : 55 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : brad blevins 01 / 25 / 2001 10 : 56 am
+to : john peyton / hou / ect @ ect
+cc : nick cocavessis / corp / enron @ enron , steve - hpl - schneider / hou / ect @ ect , pat
+flavin / gco / enron @ enron , vance l taylor / hou / ect @ ect , buck
+thomas / gco / enron @ enron
+subject : basin production from ga 213
+i have reviewed the gas composition analysis from spl of the basin production
+from ga 213 . while spl ' s analysis does show a dewpoint of around 20 degrees
+f at 400 psig , it is both my and john handley ' s opinion that the gas from the
+wellbore had stratified by the time that this sample was taken . we expect
+the dewpoint of the flowing gas to be higher . however , this was the best
+sample that could be obtained at the time . we have conferred with steve
+schneider and we are willing to take this gas on a conditional basis over the
+next couple of days . once the 6 " line has been pigged , the production flows
+stablilized and mitchell ' s conditioning equipment lined out over the next
+couple of days , hms will need to take another sample at the meter run and
+have spl run an extended analysis with a dewpoint curve on an expedited
+basis . should this sample indicate a dewpoint over 45 degrees f , then this
+production will be shut in again until hydrocarbon dewpoint conditioning
+equipment has been installed . in the meantime , hms needs to keep a close
+watch on all southern union city gates on galveston island to monitor for
+liquids fallout .

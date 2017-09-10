@@ -1,0 +1,7 @@
+Subject: meter # : 6599
+deal 138049 is committed reserve long term gas totaling 1 , 350 mm per day
+which is a good deal .
+however , deal # : 348446 is a duplicate deal which was overstated and
+should be zeroed out { bad deal } .
+this is vance response to an inquiry made by bob .
+daren , do you want me to zero out deal # : 348446 ?

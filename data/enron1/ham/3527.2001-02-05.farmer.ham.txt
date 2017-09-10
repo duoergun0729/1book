@@ -1,0 +1,7 @@
+Subject: enron / hpl actuals for february 2 - 4 , 2001
+february 2 , 2001
+teco tap nom . 30 . 000 ; actual 30 . 518 / enron
+february 3 , 2001
+no flow
+february 4 , 2001
+teco tap nom . 41 . 250 ; actual 37 . 142 / enron

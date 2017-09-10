@@ -1,0 +1,36 @@
+Subject: re : bridge errors
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary m smith / hou / ect on 08 / 09 / 2000 04 : 30
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : heidi withers 08 / 09 / 2000 04 : 12 pm
+to : mary m smith / hou / ect @ ect
+cc :
+subject : re : bridge errors
+this is fixed as of right now . don ' t see it in the bridge monitor as
+erroring out .
+mary m smith
+08 / 09 / 2000 12 : 31 pm
+to : heidi withers / hou / ect @ ect
+cc :
+subject : bridge errors
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary m smith / hou / ect on 08 / 09 / 2000 12 : 30
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+daren j farmer
+08 / 08 / 2000 09 : 07 am
+to : mary m smith / hou / ect @ ect
+cc :
+subject : bridge errors
+mary ,
+these are transport related tickets . is this something that your group would
+look into ?
+d
+- - - - - - - - - - - - - - - - - - - - - - forwarded by daren j farmer / hou / ect on 08 / 08 / 2000
+09 : 04 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : thomas engel 08 / 08 / 2000 06 : 55 am
+to : daren j farmer / hou / ect @ ect , steve venturatos / hou / ect @ ect , hillary
+mack / corp / enron @ enron
+cc :
+subject : bridge errors
+keep an eye on the bridge - these are still erroring out .

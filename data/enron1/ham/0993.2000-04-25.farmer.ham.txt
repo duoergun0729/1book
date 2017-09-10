@@ -1,0 +1,36 @@
+Subject: re :
+i have inputted the spot deals into system and added the sitara ticket no to
+the below list . i have yet to do the gasper rice deal ticket .
+vance l taylor @ ect
+04 / 25 / 2000 05 : 23 pm
+to : tom acton / corp / enron @ enron
+cc : julie meyers / hou / ect @ ect , lisa hesse / hou / ect @ ect , susan
+smith / hou / ect @ ect , donald p reinhardt / hou / ect @ ect , melissa graves / hou / ect @ ect
+subject :
+tom ,
+hplc will be purchasing wellhead gas from the producers listed below for the
+production month of may . this production will be purchased on a " spot " basis
+and deal tickets should be created and entered into sitara based on the
+following information :
+counterparty meter volume price
+engage energy us , lp 5839 # 252058 598 mmbtu / d 100 % if / hsc less $ 0 . 20
+engage energy us , lp 5848 # 252059 285 mmbtu / d 100 % if / hsc less $ 0 . 20
+engage energy us , lp 5923 # 252060 671 mmbtu / d 100 % if / hsc less $ 0 . 20
+engage energy us , lp 6801 # 252061 1 , 157 mmbtu / d 100 % if / hsc less $ 0 . 20
+el sordo gathering 6315 # 252062 103 mmbtu / d 70 % if / hsc
+swift energy 2630 # 252063 21 mmbtu / d 90 % if / hsc less $ 0 . 258
+eex corporation 6500 # 252064 1 , 778 mmbtu / d 95 % if / hsc
+eex corporation 5999 # 252065 14 , 000 mmbtu / d 95 % if / hsc
+additionally , samson lone star lp reduced its working interest in contract
+( # 96016761 ) to 33 . 375 % effective 3 / 1 / 00 . the remaining 66 . 625 % working
+interest was sold to gasper rice , ltd . hplc amended and ratified the
+contract effective 3 / 1 / 00 . the term of the contract has not been extended as
+of yet and is currently in an " evergreen " status with 100 % of the volumes
+allocated to samson lone star .
+based on the aforementioned information , please create a sitara deal ticket
+for the following :
+gasper rice , ltd . 6722 lmmbtu / d 95 % if / hsc less $ . 09 apr & may months
+evergreen price
+thanks ,
+vlt
+x 3 - 6353

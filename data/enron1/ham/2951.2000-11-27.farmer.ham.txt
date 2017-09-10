@@ -1,0 +1,40 @@
+Subject: implementation of the gas message board application
+please see the following instructions for the new messenging board . if you
+have any trouble entering into this site , please let me know . everyone
+should now be setup and ready to go . you will have to add this site to one of
+your favorites .
+the gas message board application can run on both ie 5 . 0 and ie 5 . 5 now .
+attached is the url for user to run the application .
+http : / / gasmsgboard . dev . corp . enron . com
+please feel free to forward above url to people who like to test the
+application .
+here is the steps they should do :
+1 ) launch internet explorer
+2 ) type : http : / / gasmsgboard . dev . corp . enron . com ( or just open this email and
+click on above url )
+3 ) users should see the messages if there is any new messages for today . if
+they don ' t see any messages , there are two reasons :
+( 1 ) they are not valid users . their names have not been added into the nt
+web _ gastraders group yet . please contact chrysti hardy to add their names
+into the group .
+( 2 ) there is no new messages added yet .
+4 ) click on " comments " button to add messages : there will be a popup window
+when user clicks on " comments " button . there are two ways to send the
+messages after typing the
+messages into the text box :
+( 1 ) just simply press enter to send the message . or
+( 2 ) click on " send " button to send the message .
+5 ) after the message has been sent , the message will be displayed on the main
+window immediately , the rest people who are online will get the new message
+in less than 30 seconds . this time can be reduced to as less as 1 second .
+however , i would not recommend to reduce the time interval less than 10
+second . because each time the browser refreshes the screen , the screen will
+be blink . users don ' t want the screen blink every second while they read the
+messages .
+6 ) all messages will be cleaned up daily at 6 : 00 pm . if they like to clean
+them up later than 6 : 00 pm , please let me know . i can reset the time .
+note : right now the application is under test environment . if they like it , i
+will move it into production environment soon .
+let me know any feedbacks .
+thanks ,
+fangming

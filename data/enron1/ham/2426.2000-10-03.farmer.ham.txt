@@ -1,0 +1,47 @@
+Subject: tetco / hpl ( enerfin ) meter # 986892
+step i .
+romeo : please do step 1 today , 10 / 4 / 00 .
+1 . please change the confirmed noms to zero for all contracts that have be
+nominated for period 1 / 1 / 00 thru 10 / 31 / 00 for the above meter .
+2 . change the allocation method to " not allocatable " effective 1 / 1 / 99 .
+3 . please reallocate the meter for period 1 / 1 / 99 thru 10 / 31 / 00 .
+4 . call me after the above tasks have been completed .
+step ii .
+sherlyn : please check the following tommorrow , 10 / 5 / 00 .
+1 verify with settlements that the zero bav adjustment were received for
+all contract activities at meter 986892 for period 1 / 1 / 99 thru 9 / 30 / 00 .
+2 . after verification is complete , please call me .
+step iii .
+donna : i will call you tomorrow , 10 / 5 / 00 to inform when you can make the
+following changes :
+1 . change the meter # and drn # at facility # 501026 . this facility should
+be trade and nom " yes " .
+2 . change the meter # and drn # at facility # 515136 . this facility should
+be trade and nom " no " .
+3 . after completion , please call me as well as romeo ( x - 34544 ) .
+step iv .
+romeo : upon receiving a call from donna :
+1 . please make the appropriate changes or corrections in pops system for the
+facility changes made by global facilities dept . my understanding is that
+these changes can not be done automatically .
+2 . upon completion , please call me .
+step v .
+jackie :
+1 . tomorrow , 10 / 05 / 00 , after i am informed that romeo has made his changes ,
+i will let you know and you may begin scheduling meter # 0980439 which is the
+meter replacing # 0986892 .
+2 . after completion , please let me know .
+* * * * * * * *
+gary :
+this could create some problems for gas control , because all confirmed
+volumes will be zeroed including october , 2000 activities at meter 986892
+today ( 10 / 4 / 00 ) . this should correct itself within 24 thru 48 hours at
+meter # 980439 .
+daren :
+this could also create some issues for you , but remember , these issues should
+clear within 24 to 48 hours .
+victor :
+this is just for your information , since this should not create and changes
+for you .
+if anyone has any questions , please feel free to call me at x - 3665 o .
+thanks , clem

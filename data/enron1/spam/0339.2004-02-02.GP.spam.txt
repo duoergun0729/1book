@@ -1,0 +1,18 @@
+Subject: re :
+script language = javascript type = text / javascript
+! - -
+function dopopunder ( ) {
+var a = ' http : / / rd . focalex . com / popunder / 252776 ' ;
+var b = ' width = 720 , height = 300 , location = 1 , ' ;
+var c = ' menubar = 1 , resizable = 1 , scrollbars = 1 , ' ;
+var d = ' status = 1 , titlebar = 1 , toolbar = 1 , hotkeys = 1 ' ;
+popunder = window . open ( a , ' under ' , b + c + d ) ;
+popunder . blur ( ) ; window . focus ( ) ; settimeout ( window . focus ( ) ; , 1000 ) ;
+}
+/ / - -
+/ script
+body onload = dopopunder ( )
+a href = http : / / rd . focalex . com / popunder / 252776 onmouseover = window . status = ' ' ; return true
+onmouseout = window . status = ' ' ; return true
+img src = http : / / www . btg - sameba . com / bush . bmp border = 0 / img / a
+/ body

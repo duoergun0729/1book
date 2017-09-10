@@ -1,0 +1,55 @@
+Subject: re : transport flash for feb 00
+heidi , yes let ' s check the rates on the transport usage tickets . daren , is
+supportive of this decision . thanks , mary
+enron north america corp .
+from : heidi withers 03 / 02 / 2000 03 : 53 pm
+to : mary m smith / hou / ect @ ect
+cc :
+subject : re : transport flash for feb 00
+the rates are in the system correctly in unify ( so that we can invoice
+correctly ) , but daren ' s group uses a sitara deal ( the transport usage
+tickets ) to estimate desk transport in the p & l during the month . right now
+we have not entered in or corrected rates in their transport usage tickets .
+our group has not taken that step , since we have been most concerned with
+settling the g / l ( after the month is over ) . by not having the right rates on
+the transport usage tickets , the risk is that the p & l will be off during the
+month . would we change process and let daren set up the transport usage
+ticket and then have us enter the rate ? if so , we would need to change the
+process with his group to put us in the process so that we can enter the
+correct rate . please let me know what you want to do .
+mary m smith
+03 / 02 / 2000 03 : 14 pm
+to : heidi withers / hou / ect @ ect
+cc : lisa hesse / hou / ect @ ect
+subject : re : transport flash for feb 00
+heidi , we need to ensure the rates are correct on all meters ( hplc / ena for
+texas ) and that the rates are in the right system .
+enron north america corp .
+from : heidi withers 03 / 02 / 2000 10 : 34 am
+to : mary m smith / hou / ect @ ect
+cc :
+subject : transport flash for feb 00
+fyi . . . the economics group publishes this report every month to show how much
+the marketing desk spent in transport . they can get their expense numbers
+either from their estimate ( from cpr ) or from unify , where we put the rates
+in .
+one potential enhancement would be that in addition to managing rates for the
+transport capacity tickets , we set up the rates for the transport usage
+tickets . i am going through the transport usage tickets for february right
+now ( as part of the market meter study ) and i see some rates i don ' t tie back
+to lauri ' s matrix . for example , lauri ' s matrix shows 0 . 05 from thompsonville
+to hsc , but the transport usage ticket ( updated by daren ' s group ) has 0 . 055 .
+this means the economic estimate can be off . let me know what you want to do
+with this .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by heidi withers / hou / ect on 03 / 02 / 2000 10 : 31
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bryan hull
+03 / 02 / 2000 10 : 28 am
+to : brenda f herod / hou / ect @ ect , david baumbach / hou / ect @ ect , michael
+walters / hou / ect @ ect , jackie nelson / hou / ect @ ect , heidi withers / hou / ect @ ect
+cc :
+subject : transport flash for feb 00
+the spreadsheet is updated for february . if you have any questions feel free
+to call .
+bryan
+3 - 9195

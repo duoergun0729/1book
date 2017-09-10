@@ -1,0 +1,53 @@
+Subject: re : path manager rewrite / optimization project
+since lisa used fuchsia , i ' ll use lavender . .
+on # 1 i would eliminate that processing . in addition , can we delete / hide / not access old paths that haven ' t been used in gas production in lets say a year or so . would this help performance ? this would also force the schedulers to path / think about the way they are pathing their transactions and not rely on old paths that may no longer be accurate ! ! we ' ve seen old bad , zero paths be re - used accidentally .
+on # 2 , the scheduling position window is the weakest link . . . . . goodbye !
+on # 3 , contract reference i know is used alot in the supply and market list . nomlogic is also slated to use these contract reference fields for comments . do we need it in the inventory list ? probably not as much as the supply and market list but i still believe it ' s necessary for pools and imbalance accounts .
+on # 4 , we use this functionality alot on cgas , tenn , trco and sab . . . when we path one to many or many to one in " chunks , " it does seem to go faster than one path at a time .
+on # 5 , brokered paths could really just be slammed in there . no need for the extra processing that occurs for service contracts .
+thanks
+- - - - - original message - - - - -
+from : sullivan , patti
+sent : friday , october 12 , 2001 9 : 50 am
+to : pena , matt
+cc : warner , john ; ripley , brian ; d ' souza , romeo ; rao , ramesh ; lamadrid , victor ; sullivan , mary ; staab , theresa ; farmer , daren j . ; jaquet , tammy ; superty , robert ; bussell l , kathryn ; kinsey , lisa ; heal , kevin ; pinion , richard
+subject : re : path manager rewrite / optimization project
+i also agree with richard and lisa .
+- - - - - original message - - - - -
+from : heal , kevin
+sent : friday , october 12 , 2001 9 : 28 am
+to : kinsey , lisa ; pinion , richard ; pena , matt
+cc : warner , john ; ripley , brian ; d ' souza , romeo ; rao , ramesh ; lamadrid , victor ; sullivan , mary ; sullivan , patti ; staab , theresa ; farmer , daren j . ; jaquet , tammy ; superty , robert ; bussell l , kathryn
+subject : re : path manager rewrite / optimization project
+i agree with richard and lisa . especially important is to keep # 4 . we do a lot of many to one and one to many pathing , especially on nova .
+- - - - - original message - - - - -
+from : kinsey , lisa
+sent : wednesday , october 10 , 2001 3 : 56 pm
+to : pinion , richard ; pena , matt
+cc : warner , john ; ripley , brian ; d ' souza , romeo ; rao , ramesh ; lamadrid , victor ; sullivan , mary ; sullivan , patti ; heal , kevin ; staab , theresa ; farmer , daren j . ; jaquet , tammy ; superty , robert ; bussell l , kathryn
+subject : re : path manager rewrite / optimization project
+my comments are in fuschia .
+lisa
+- - - - - original message - - - - -
+from : pinion , richard
+sent : wednesday , october 10 , 2001 2 : 35 pm
+to : pena , matt
+cc : warner , john ; ripley , brian ; d ' souza , romeo ; rao , ramesh ; kinsey , lisa ; lamadrid , victor ; sullivan , mary ; sullivan , patti ; heal , kevin ; staab , theresa ; farmer , daren j . ; jaquet , tammy ; superty , robert ; bussell l , kathryn
+subject : re : path manager rewrite / optimization project
+following are my comments . the managers cc ' d might have some additional thoughts .
+- - - - - original message - - - - -
+from : pena , matt
+sent : monday , october 08 , 2001 4 : 26 pm
+to : pinion , richard ; jaquet , tammy ; superty , robert ; pena , matt
+cc : warner , john ; ripley , brian ; d ' souza , romeo ; rao , ramesh
+subject : path manager rewrite / optimization project
+importance : high
+all :
+we ' re currently identifying processes that are inefficient and could possibly benefit from being rewritten or not even performed . going foward , i would like bob to appoint a lead business person to whom we could ask questions and or suggest ideas to so that they could in turn validate this information with the desk managers / schedulers . we had this approach with nomlogic and having clarissa work the issues worked quite nicely . who ever you choose , we would need about 15 % of their time for now . later on , with coordination efforts and testing , it may go up to 75 % . i don ' t see that happening for a while though .
+the sooner we get someone to devote to this , the better off we will be . i expect these changes that we ' ll be looking into should improve performance quite a bit .
+that being said , we ' ve identified three items that would speed up processing the retrieval of path manager .
+1 ) currently , the path manager attempts to reuse path ids . i can ' t think of any reason why we need to perform this extra step ? it runs through this processing on the application and generally doesn ' t find a match . i know patti has mentioned this several times and i can ' t think of a valid reason for performing this work . i talked with dave nommensen , and according to him , what used to happen is that sometimes schedulers would get duplicate paths out there which is why they put this code in place ? ? ? from a scheduling perspective , my understanding of what your main concern is to just maintain your position and be able to change it . if you were overpathed , you ' d see it in the path manager either way . [ pinion , richard ] to restate the question for clarity , in path manager a scheduler pulls down a supply , market and a service , adds any up / downstream contract information and / or duns or drn override and then saves it . unify looks for an old path with those exact variables and if it finds it re - uses it and if it does not find an exact match creates a new path and path id . i had been told that to do away with this function would create an unacceptably high amount of paths since any path once nominated on could not be deleted . has this changed ? ? ? at one time there were some schedulers that looked for the same path / activity number match for nominations . texas eastern was the only pipeline that needed the old activity numbers no matter how long it had been since they were used . i spoke with chris ordway and the new link system no longer needs this to occur . transco uses activity numbers but uses the activity number cross reference table to that function and therefore should not be affected . therefore , if it does not create a space or memory problem for unify , i don ' t think that this constant old path look up is needed . [ kinsey , lisa ] get rid of this .
+2 ) the scheduling position window : does anyone use this ? if not , we ' ll remove the code logic that populates this window . i have never seen a scheduler use this . please verify . [ pinion , richard ] originally such a window was in use by everyone in the legacy system " autonoms " so it was duplicated in unify by request . it is not used in unify now because of the other sophisticated tools unify provides which obviate it ' s use . the only value would be notification of bridge errors or contract imbalances but there are other ways to determine those problems . as voted on in a previous meeting of the managers - lose it ! [ kinsey , lisa ] why is this still here ?
+3 ) on the inventory pool list , does anyone need to see the contarct references list ? again , this code is called every retrieval time and doesn ' t appear to be used from my observations . if they do need this information , we could provide it , but if not , i ' d prefer to remove the functionality . [ pinion , richard ] this function is still very much in use by those with point based pipelines that must use the imbalance pool to facilitate balancing nomination volumes where multiple pipeline external pools exist and are pathed through the same contract imbalance pool . keep it ! [ kinsey , lisa ] yes . we use this functionality a lot when pathing pools .
+4 ) when pathing a one to many or many to one set of paths , what ' s the average number of paths they create at one time ? what about updates ? i know that anr and nigas are big users of this feature since they have small packages of gas that they are limited in size to . does the system seem faster when you update one record at a time or chunks of records ? my real question is how often they do this and for what number of paths on both updates and inserts . by update , i mean , going to the path list and changing an upstream / downstream contract or a psna which in turn forces a new path to be created . [ pinion , richard ] this one to many or many to one pathing goes on every day on every pipeline . there is no ' average ' . they typically update a path with up / downstream meters or duns or dnb numbers one at a time however . i hope this answers your question . i see no change to this process at this time [ kinsey , lisa ] on some pipes this function is used more than others . when it is used we try and do as many paths as possible . at this time i do not see a need to change this process .
+5 ) on brokered paths , do you want to utilize the same logic we have for service ? in other words , when updating brokered arrangements , we don ' t incorporate the same logic for zeroing out the path and recreating a new arrangment link and hence sending it to be renominated ? why do we do this for service ? is it because we have to renominate it ? i assume that ' s what it ' s for since we don ' t send brokered paths to the pipe . anyway , with the nomlogic implmentation ( two way interface ) , we were planning on having it behave the same way as service . we need this verified . [ pinion , richard ] we don ' t perform the same logic for brokered paths because these are not nominated to the pipeline and hence do not need a zero path to be resent to the pipeline when a significant change is made to the already nominated path . i don ' t see a need to change the way brokered paths are behaving at this time . [ kinsey , lisa ] agree with richard .

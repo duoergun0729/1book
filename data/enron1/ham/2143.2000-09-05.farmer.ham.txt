@@ -1,0 +1,67 @@
+Subject: re : meter 984132 for 1 / 16 / 99
+10 , 000 should be allocated to adonis # 51862 on the 5 th only . nothing should
+be allocated or confirmed for adonis on the 16 th . additionally , it looks
+like 5000 was confirmed as a receipt from mitchell ( track id 3167 ) on the
+16 th . this should be - 0 - also . by taking the conf / allocation for adonis
+( track id 6155 ) and mitchell ( track id 3167 ) to zero on the 16 th , the meter
+balance remains the same and the bridge errors will be cleared .
+d
+jackie young
+08 / 24 / 2000 08 : 33 am
+to : karen lindley / corp / enron @ enron , sherlyn schumack / hou / ect @ ect
+cc : daren j farmer / hou / ect @ ect
+subject : re : meter 984132 for 1 / 16 / 99
+karen / sherlyn ,
+gary has placed this in daren ' s lap . please read the below information that
+was requested of me from daren .
+this is the latest .
+i ' ll get back as soon as i hear from daren again about my response to him .
+- jackie -
+3 - 9497
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jackie young / hou / ect on 08 / 24 / 2000 08 : 32
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+jackie young
+08 / 23 / 2000 04 : 27 pm
+to : daren j farmer / hou / ect @ ect
+cc :
+subject : re : meter 984132 for 1 / 16 / 99
+on day 5 in mops ( hpl / ena ) there is a delivery nom of 10 . 0 pathed to the ena
+201 k . on day 16 in mops ( hpl / ena ) there is not a deal ( which is strange
+because day 16 in pops references adonis ) . the deal on the 5 th was a swing
+deal .
+daren j farmer
+08 / 23 / 2000 12 : 59 pm
+to : jackie young / hou / ect @ ect
+cc :
+subject : meter 984132 for 1 / 16 / 99
+jackie ,
+what does mops show for the days in question ? it would be incorrect to add
+any days to the adonis ticket mentioned below . it sounds as if the meter was
+allocated incorrectly in pops and / or a deal was not pathed correctly in
+mops . let me know what you find in mops .
+d
+- - - - - - - - - - - - - - - - - - - - - - forwarded by daren j farmer / hou / ect on 08 / 23 / 2000
+12 : 54 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : gary w lamphier 08 / 22 / 2000 02 : 51 pm
+to : daren j farmer / hou / ect @ ect
+cc :
+subject : meter 984132 for 1 / 16 / 99
+- - - - - - - - - - - - - - - - - - - - - - forwarded by gary w lamphier / hou / ect on 08 / 22 / 2000
+02 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : sherlyn schumack 08 / 22 / 2000 02 : 07 pm
+to : jackie young / hou / ect @ ect , karen lindley / corp / enron @ enron
+cc : gary w lamphier / hou / ect @ ect
+subject : meter 984132 for 1 / 16 / 99
+here is the issue for 1 / 16 / 99 at meter 984132 .
+20 , 000 mmbtu were confirmed for adonis in pops . 10 , 000 mmbtu on day 5 and
+day 16 . day 16 is not valid for deal 51862 ( track id 6155 ) , which is where
+10 , 000 was confirmed . the actual sale to adonis was 10 , 000 which was
+invoiced and paid by adonis . we are trying to clear the feedback error
+report . my question is why was 10 , 000 confirmed on 1 / 16 / 99 if the date is
+not valid for the deal ?
+when karen allocates the actual 10 , 000 it is prorating 5 , 000 for each day
+that is confirmed ( the 5 th and 16 th ) .
+should the whole 10 , 000 be allocated to the 5 th or should 5 , 000 be allocated
+to each day ? if 5 , 000 should be allocated to each day , the 16 th needs to be
+added to the deal .

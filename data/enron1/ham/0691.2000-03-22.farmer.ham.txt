@@ -1,0 +1,10 @@
+Subject: new turn - ons
+tom ,
+production commenced to flow as stated below ; please create a base load
+ticket in sitara based upon the following information :
+counterparty meter no . volumes price period
+union gas corp . 9827 3 , 000 mmbtu / d 100 % gas daily less $ 0 . 10 3 / 9 - 3 / 31
+cico oil & gas co . 9828 1 , 200 mmbtu / d 100 % gas daily less $ 0 . 095 3 / 15 - 3 / 31
+thanks ,
+vlt
+x 3 - 6353

@@ -1,0 +1,11 @@
+Subject: enron / hpl actuals for december 29 , 2000 - january 1 , 2001
+december 29 , 2000
+teco tap 30 . 000 / enron ; 120 . 000 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron
+december 30 , 2000
+teco tap 120 . 000 / hpl gas daily
+december 31 , 2000
+teco tap 120 . 000 / hpl gas daily
+january 1 , 2001
+teco tap 30 . 000 / enron
+ls hpl lsk ic 30 . 000 / enron

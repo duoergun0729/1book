@@ -1,0 +1,39 @@
+Subject: interconnect / intercompany issues
+below is a list of the major items that are still outstanding on the
+interdesk / interconnect report for 1999 and 2000 that is impacting the
+intercompany cleanup for sap implementation . these issues have been
+addressed in earlier e - mails and this is an updated list of issues that need
+to be completed by june 19 , 2000 .
+1 ) king ranch interstates - fred and stella are working with exxon to
+reconcile from oct 1999 - apr 2000 the interstate nominations for tennessee
+and ngpl and also for tejas .
+2 ) tetco meter 6892 - question of who has custody transfer at the meter .
+ena is using tetco ' s volume and hplc is using the hpl measurement volume ,
+causing a desk to desk variance .
+clem and pat are working on .
+3 ) transco bammel meter 74 - transco and hpl ' s nominations are out of
+balance at meter 74 . charlotte needs to work with transco to resolve .
+4 ) dow meter 4486 - the sale to entex needs to be taken off of hplc meter
+4486 and the sale needs to be at dow meter 4486 .
+a desk to desk between ena ( buyer )
+and hplc ( seller ) needs to be set up on dow meter 4486 .
+ami needs to set up the deals and
+thu needs to coordinate the months involved .
+once this is done and thu
+reallocates to dow pipeline , jackie needs to zero out the confirmed noms and
+make the meter non allocatable in pops .
+clem verified with steve schneider
+that this meter is not on hpl ' s system .
+5 ) east texas gas / devon - devon invoicing ena entire flow at carthage .
+meter 4607701 east texas keeping hplc whole on
+nominations
+desk to desk
+deal is out of balance because of this
+karen is working
+with pennzoil and east texas to reach agreement on how to handle this issue
+between them
+6 ) pgev - actuals on swing meters ( hpl ) not matching expense volumes being
+allocated by pgev .
+sherlyn is working with stacey and charlotte to resolve .
+7 ) pan energy sales issues - discrepancies on pgev . katherine and sherlyn
+are working with stacey to resolve .

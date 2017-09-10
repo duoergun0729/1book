@@ -1,0 +1,16 @@
+Subject: seac / hpl - freeport meter # 98 - 0435
+the following deals have been created and entered in sitara effective 11 / 1 / 00
+at meter # 98 - 0435 :
+counterparty deal # nom price ( ifhsc less )
+amerada hess 465994 2 , 822 0 . 065
+anadarko petroleum 465995 1 , 148 0 . 065
+apache corp 465998 1 , 379 0 . 065
+barrett resources 466000 1 , 597 0 . 06
+crosstex energy svcs 466003 682 0 . 065
+mariner energy 466008 350 0 . 055
+ocean energy 466014 3 , 750 0 . 065
+seneca resources 466016 3 , 195 0 . 06
+st . mary land & expl 466017 3 , 299 0 . 065
+walter oil & gas 466021 6 , 778 0 . 055
+dummy 456228 25 , 000 killed
+bob

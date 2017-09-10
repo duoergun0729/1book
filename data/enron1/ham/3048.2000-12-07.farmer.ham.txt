@@ -1,0 +1,14 @@
+Subject: tenaska iv 10 / 00
+we have actuals . the larger of the two volumes is 1 , 395 , 000 , which is
+45 , 000 / day , so the demand rate in deal 514353 is fine . i am having a
+problem , though , with the way it is coming to settlements . it is showing up
+with a jan 2003 delivery date . i think the demand fee needs to be on 10 / 1
+only . right now , it is on a line with a date of 10 / 1 / 00 to 12 / 31 / 36 . i
+think this is confusing the system some how . also , we still need the
+purchase deal for tenaska iv . it should be for a demand fee of $ 2 , 571 , 135 . 73
+booked to the cleburne desk . we actually owe $ 1 , 798 , 389 . 73 , but i need to
+net the tenaska iv sales with the purchase to clear those receivables . james
+is calling me every day asking for an update . do you know when we will be
+able to get this in the system ? i have attached my spreadsheet so you can
+see the numbers .
+megan

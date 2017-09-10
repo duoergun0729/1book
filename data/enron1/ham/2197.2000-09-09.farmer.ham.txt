@@ -1,0 +1,30 @@
+Subject: re : equistar buybacks
+the only valid " buyback " ticket for meter # : 1373 is sitara ticket # :
+246408 . s . ticket # : 156342 is an old ticket which was used to set up
+buyback
+ticket across equistar ' s meters { 1552 , 1384 , 1062 , 1553 } . if you recall
+this process was done to enable client services to automate equistar
+allocation / billing . the project took place around april 2000
+production retroactive back to jan . 1999 . the link to compute the buyback is
+set up
+on s . ticket # 246408 .
+since equistar has begun doing business via ena , it was necessary to
+establish a " buyback ticket " on ena ' s matrix .
+thus , to answer your question , yes there should only be one " buyback
+ticket " for meter # : 1373 on hpl and ena .
+ena activity is kept whole and the swing is on hpl .
+i hope i have addressed all of your questions below however , i am
+available for follow up discussion if needed .
+it has been a pleasure working with you . i learned a lot about the
+business while scheduling industrials and thanks for the opportunity .
+daren j farmer
+09 / 07 / 2000 08 : 32 am
+to : robert e lloyd / hou / ect @ ect
+cc : pat clynes / corp / enron @ enron
+subject : equistar buybacks
+robert ,
+there are three buy back tickets in sitara for equistar at mtr 1373 . two for
+hpl and one under ena . shouldn ' t we have only one buyback for each company ?
+also , how do you have the meter set up to allocate between the ena contract
+and hpl contract ?
+d

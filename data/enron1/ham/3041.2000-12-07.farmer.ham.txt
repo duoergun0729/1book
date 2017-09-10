@@ -1,0 +1,29 @@
+Subject: txu lone star
+i am working on clearing an old txu lone star / gas distribution balance from
+8 / 99 and 9 / 99 . we originally billed txu on nominated quantities and they
+have shortpaid us due to meter adjustments . these are brokered deals where
+we sold to txu and purchased from exxonmobil and highland . txu has provided
+meter support since the deals were on lone star pipeline , however , i am
+unsure how to have volume management reallocate .
+for example , we originally sold 10 , 000 mmbtu on 8 / 3 / 99 to txu and purchased
+1 , 200 mmbtu from highland energy and 8 , 800 mmbtu from exxonmobil . txu shows
+the total amount of gas on 8 / 3 / 99 was 9 , 240 mmbtu . how should the purchase
+piece be allocated between exxonmobil and highland since this was a brokered
+deal ?
+august 1999 :
+sale
+txu electric & gas deals # 104975 , 104256 , 104738
+lone star gas co . deal # 101985
+purchase
+exxonmobil corp . deal # 101522
+highland energy co . deal # 101530
+september 1999 :
+sale
+txu electric & gas deal # 109046
+purchase
+exxonmobil corp . deals # 101522 , 108564
+highland energy co . deals # 101530 , 108146
+please let me know if i need to speak with someone else about this . thanks
+for your help .
+thanks ,
+rebecca

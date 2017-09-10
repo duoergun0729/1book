@@ -1,0 +1,15 @@
+Subject: activation of price limit orders
+in preparation for going live with the new version of enrononline , please set
+your products to allow price limit orders . you can do this by :
+1 ) highlighting the product and selecting " product properties "
+2 ) in the lower right hand corner , verify that the :
+- price tick size is where you want it ( the price tick controls the minimum
+price increments which a customer can specify )
+- " allowed " box is ticked under the " orders " section
+- the max volume in the " orders " section is set where you want it .
+if you do not do this , customers will not be able to place price limit orders
+on your products
+if you have any questions , please call the enrononline help desk ( north
+america : 713 853 4357 , europe : + 44 20 7783 7783 , australia / asia : + 61 2 9229
+2300 )
+dave

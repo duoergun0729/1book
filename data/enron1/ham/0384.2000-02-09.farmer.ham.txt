@@ -1,0 +1,15 @@
+Subject: pathing procedures for buybacks
+to path a buyback { mop ; supply list } with an existing market deal
+{ typically baseload } please follow these steps :
+theory # 1 : example ; supply deal = 5 . 0 / d supply deal = 7 . 0 / d & market deal = 10 . 0 / d
+1 ) follow steps 1 & 2 in theory # 1 .
+2 . ) additionally , create a service transportation contract { i . e . k - 215 } in
+the path list .
+2 . ) path 7 . 0 on the " buy / sell " path list contract and 10 . 0 on the
+transport { i . e . k - 215 } contract .
+this procedure will eliminate an out - of - balance in mop for both the " supply
+deal and the market deal " and send 3 . 0 to pop via x - port k - 215 .
+note : never path a buyback { supply deal } using a receipt transport contact
+and the { market deal } using a delivery transport contract .
+pop ' s should only reflect the " net " on these two transactions { buyback
+and baseload deal } .

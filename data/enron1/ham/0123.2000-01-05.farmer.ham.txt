@@ -1,0 +1,6 @@
+Subject: bridge back error
+meter 980068 has a bridge back error for 9 / 99 production . this meter is
+linked to deal 76365 which started on 4 / 16 / 99 and ended on 4 / 30 / 99 .
+please let me know what deal should be use for this meter for 9 / 99 . i need
+to have this error clear off by thursday .
+thanks .

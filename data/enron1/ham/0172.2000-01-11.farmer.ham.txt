@@ -1,0 +1,21 @@
+Subject: upcoming sitara risk assignment release
+in order to prepare for the upcoming sitara release to production scheduled
+on 01 / 24 , sitara will be unavailable as follows :
+production 01 / 21 ( fri . ) 7 : 00 pm ( cst ) thru 01 / 23 ( sun . ) 12 : 00 pm ( cst )
+conversion and checkout of data for risk assignment release
+( sitara and cpr )
+parallel 01 / 14 ( fri . ) 7 : 00 pm ( cst ) thru 02 / 01 ( tue . ) 8 : 00 am ( cst ) parallel
+environment will be used as hot back - up , view access only
+( sitara )
+i wanted to make sure everyone had plenty of advance notice . i would like
+each of you to review these times with your staff . the production release is
+the largest to date and the time required to convert the data cannot be
+shortened any more . production users will not be impacted by the lack of the
+parallel environment - we will continue to bridge deal updates to unify
+parallel as we do now for the period stated above ; however access to sitara
+parallel will be kept to view only . a list of items included in this release
+will be forthcoming , as well as training for groups impacted by the risk
+assignment change .
+i appreciate your help in making this happen . any questions , please do not
+hesitate to call myself or the sitara hotline ( x 37049 )
+scott mills ( x 33548 )

@@ -1,0 +1,3 @@
+Subject: flow w / no nom
+meter 1601 last deal 412219 for 10 / 00 flowed 11 / 9
+meter 5192 last deal 454057 for 10 / 00 . flowed 11 / 3 - 4

@@ -1,0 +1,17 @@
+Subject: fw : ercot load comparison
+- - - - - original message - - - - -
+from : gilbert - smith , doug
+sent : tuesday , may 22 , 2001 8 : 38 am
+to : tmartin @ enron . com
+subject : ercot load comparison
+tom ,
+here is an answer for you vis a vis load growth .
+hope it helps ,
+doug
+- - - - - - - - - - - - - - - - - - - - - - forwarded by doug gilbert - smith / corp / enron on 05 / 22 / 2001 08 : 35 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : kevin cline / enron @ enronxgate on 05 / 21 / 2001 03 : 26 pm
+to : doug gilbert - smith / corp / enron @ enron
+cc : eric saibi / corp / enron @ enron
+subject : ercot load comparison
+please find attached spreadsheet that compares hot days from may 2000 and may 2001 . there are two tabs , one tab contains the days may 16 - 18 , 2000 and the other tab contains the days may 14 - 18 , 2001 . each tab contains both the load data and temp data particular to the days in question . the days most directly comparable are may 17 , 2001 ( thursday ) and may 18 , 2000 ( thursday ) , although the two days preceding may 18 , 2000 were slightly warmer than the two days preceding may 17 , 2001 . the peak on 5 / 17 / 2001 , 44 , 923 mw , is 2 . 78 % higher than the peak on 5 / 18 / 2000 , 43 , 709 mw . with similarly warm days before 5 / 17 / 2001 as there were before 5 / 18 / 2000 , the peak would obviously have been even higher . this would put the year - over - year growth in excess of 3 % . i believe this falls right in line with the growth rate year - over - year from an earlier analysis , somewhere in the range of 3 . 5 % to 4 % .
+let me know if you have any questions or comments .

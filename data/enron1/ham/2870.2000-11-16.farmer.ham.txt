@@ -1,0 +1,63 @@
+Subject: re : sitara positions , end of month feedback from unify
+robert superty @ ect
+11 / 16 / 2000 09 : 02 am
+to : randall l gay / hou / ect @ ect , edward terry / hou / ect @ ect , victor
+lamadrid / hou / ect @ ect , tricia spence / hou / ect @ ect , george smith / hou / ect @ ect ,
+beverly beaty / hou / ect @ ect , pat clynes / corp / enron @ enron , patti
+sullivan / hou / ect @ ect , donna greif / hou / ect @ ect , richard pinion / hou / ect @ ect
+cc : dave nommensen / hou / ect @ ect , matt pena / na / enron @ enron , bob m
+hall / na / enron @ enron
+subject : re : sitara positions , end of month feedback from unify
+please take note of dave ' s very important message regarding sitara
+positions . we absolutely cannot afford to go through this again and need to
+do everything possible to help limit the exposure . with prices where they
+are and winter weather upon us we will most likely have a very challenging
+bid week .
+that being said i want each of you to make sure we adhere to the " daily
+clean " process . you should pull all the necessary reports each day and keep
+after the schedulers to make sure they are up to date . if you wish , donna and
+richard can make these available each day and distribute to the group . we
+don ' t have much time so this needs to happen immediately .
+donna , please provide me with a daily summary of all the desks for the
+remainder of the month .
+let me know if you have any questions or concerns , thanks - bob
+from : dave nommensen 11 / 16 / 2000 08 : 31 am
+to : robert superty / hou / ect @ ect , randall l gay / hou / ect @ ect , george
+smith / hou / ect @ ect , edward terry / hou / ect @ ect , victor lamadrid / hou / ect @ ect ,
+tricia spence / hou / ect @ ect , beverly beaty / hou / ect @ ect , pat
+clynes / corp / enron @ enron , patti sullivan / hou / ect @ ect , carlos j
+rodriguez / hou / ect @ ect , kevin heal / cal / ect @ ect , anita k patton / hou / ect @ ect
+cc : matt pena / na / enron @ enron , donna greif / hou / ect @ ect , richard
+pinion / hou / ect @ ect , kathryn bussell / hou / ect @ ect , jeff
+johnson / corp / enron @ enron , bob m hall / na / enron @ enron , jayant
+krishnaswamy / hou / ect @ ect , scott mills / hou / ect @ ect , tommy j
+yanowski / hou / ect @ ect , richard burchfield / hou / ect @ ect
+subject : sitara positions , end of month feedback from unify
+bob , et al ,
+as i am sure you recall , we had a problem with sitara positions earlier in
+the month and had to cease trading early and revert to cpr for positions .
+although i have not gotten very far in my transition off of unify and onto
+sitara and tds , we do see some potential for this happening again towards the
+end of this month and the beginning of next month .
+the problem with managing positions is a combination of sheer deal counts ,
+along with updates to those deals . a large portion of these updates come to
+sitara via the unify bridge back process . it would be ideal if we could
+continue to have the unify data " cleaned / scrubbed " week to week and try to
+avoid having the bulk of the month being updated / bridged in the final
+week / days of the month . i know this is the goal of logistics , but i just
+want to help reinforce that goal due to the performance impact it can have on
+the gas trading systems . perhaps a few extra pair of eyes on the pipeline
+exception summary and the bridge back pipeline summary in unify this month
+would help .
+another area that causes these transaction counts to increase is the need to
+have 2 months " active " at a time . in other words , when november is over and
+we are in the first week or two of december , sitara continues to maintain
+positions for november . this november data degrades the ability to update
+december positions in a timely manner . we may find ourselves having to
+remove the november deals from the sitara positions sooner than we have in
+the past .
+i will be trying to work with the sitara team in the coming days / weeks to
+implement some combination of quick fixes , as well as look into the long term
+changes necessary to support our increased trading business .
+please let me know if you have any questions or comments in this area .
+thanks , d . n .

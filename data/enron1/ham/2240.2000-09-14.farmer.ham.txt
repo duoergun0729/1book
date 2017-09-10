@@ -1,0 +1,9 @@
+Subject: request submitted : access request for liz . bellamy @ enron . com
+please review and act upon this request . you have received this email because
+the requester specified you as their manager . please click
+approval to approve the request .
+request id : 000000000002858
+request create date : 9 / 14 / 00 8 : 57 : 26 am
+requested for : liz . bellamy @ enron . com
+resource name : exceed
+resource type : applications

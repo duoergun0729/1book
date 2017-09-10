@@ -1,0 +1,38 @@
+Subject: spot deals
+i have created and entered the following deals in sitara as hplc - im
+wellhead purchases for december , 2000 production :
+deal # counterparty meter # volume
+500590 amerada hess 435 2 , 822
+500591 anadarko petr . 435 1 , 148
+500592 apache corp . 435 1 , 379
+500593 barrett res . 435 1 , 597
+500595 crosstex energy 435 682
+500596 mariner energy 435 350
+500597 ocean energy 435 3 , 750
+500598 seneca res . 435 3 , 195
+500599 st . mary land 435 3 , 299
+500600 walter oil & gas 435 6 , 778
+500601 whiting petr . 6523 117
+500658 cavalier oil & gas 6850 500
+500662 cavalier oil & gas 9800 166
+500664 cody energy 5333 2 , 169
+500665 cokinos natural 9676 1
+500666 crosstex energy 9843 122
+500667 crosstex energy 6789 2 , 500 ( 9868 not set up )
+500668 crosstex energy 9858 2 , 800
+500669 crosstex energy 6519 1
+500670 ctl oil & gas 6821 300
+500671 duke energy 6347 168
+500672 eex oper . 6500 1 , 789
+500673 embassy nat . 6598 1
+500674 coastal merchant 5848 195
+500675 coastal merchant 5923 667
+500676 george alcorn 9746 1
+500677 heatherloch mun . 6879 226
+500678 richardson prod . 9807 7 , 646
+500680 sanchez oil & gas 9760 10 , 038
+500681 sanchez oil & gas 9760 5 , 379
+500682 swift energy 2630 223
+500683 tri - union devel . 2697 990
+500730 etoco , inc . 0393 3 , 802 ( 9738 ? )
+bob

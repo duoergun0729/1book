@@ -1,0 +1,97 @@
+Subject: new version of stack manager
+introduction
+in response to feedback received from enron traders worldwide , we have
+upgraded and improved the stack manager to include new functionality which we
+hope will improve its effectiveness and usefulness in the management of your
+products .
+this new release will be automatically installed within the next few days .
+please ensure you log out at night in order to receive the upgrade .
+summary of new features
+multiple children - a " child " product can be the " parent " of another child
+( multiple links in a chain ) and different types of links can be placed
+against a single parent .
+static product bar prices - when you change a price in the product bar and
+hit the " + " or " - " button , the price stays - it does not reset to the amount
+in product properties until you logout .
+sorting - you can sort by any field on the products tab simply by clicking on
+the title of the field . for multiple sorts , hold down your " shift " key .
+parent products which are at the top of a stack do not have their basis
+relationship identified . ( e . g . the product bar might before have said : " basis
+link - parent " and now would say " stand alone , parent " ) .
+detailed feature descriptions
+multiple children
+the new version of enrononline allows you to link several products together
+in a long chain . for example , child product a can be linked to parent product
+b , which is in turn linked to parent product c .
+warning : although there is no absolute limit to the number of links in a
+chain , system performance is degraded by large chains . this is because when a
+customer attempts a transaction , the database must " lock " each and every
+product in the chain before it can process the transaction request . the
+database must then update the stack for each product before releasing the
+locks . " vertical " chains ( multiple parents and children in one long link ) are
+much slower to process than " flat " chains ( one parent with many children ) .
+large vertical chains should be avoided .
+related to this feature is the ability to have several types of links on the
+same parent . for example , child product a can have a basis link to parent
+product b . at the same time , child product c can have a syncopated basis link
+to the same parent product b . parent b is the parent for both a syncopated
+basis link and a regular basis link .
+static product bar prices
+the new version of enrononline provides for " sticky " product bar price and
+volume changes . when you change a number on the product bar , it does not
+reset to the number contained in the product properties menu until after you
+have logged out . this makes it easier to update prices , volumes , spreads or
+offsets in a changing market without repeated hits to the " + " or " - " buttons .
+one of the benefits of setting these numbers to appropriate levels is that it
+reduces repeated price movements . with the old version of stack manager , if
+the price delta was too small , traders would often repeatedly hit the price
+movement buttons . each of these price changes must be communicated across the
+website to customers and consumes valuable bandwidth . this makes it harder
+for customers to transact with us - each time they try , a new price update
+moves the price , resulting in an increased transaction failure rate . entering
+an appropriate price into the price delta field and then pressing the price
+movement button means that fewer ( but larger ) price movements are necessary ,
+improving overall system response and reducing customer transaction failure
+rate .
+you may also notice a new addition to the product bar prices - a new field
+for offset to last trade . this allows you to update the offset for products
+which have offset to last trade selected from the product properties menu .
+sorting / selecting
+the new version of enrononline provide significant additional sorting
+functionality over the old . you can now choose any field heading ( type ,
+location , reference period , etc . ) and sort by that item . you can do multiple
+sorts by holding down the shift key . example : if you select type and then
+location while holding the shift key , you will see your products sorted first
+by product type and then within each product type , by location ( in
+alphabetical order ) .
+if you right click on the product menu , you can choose from the same sort
+criteria , plus you can select " sort by web order " , which allows you to see
+your products in the same order as they would appear to a customer on the
+website ( note however , that a customer on the website might be also seeing a
+number of products in addition to the ones you are managing ) .
+when you select products , you can drag your mouse while holding down the left
+mouse button as always , but now you can also hold down the key while
+making your selections . this allows you to highlight products which are not
+necessarily adjacent to one another .
+parent products and f / x products
+one of the differences in the way that the new version works is in its
+treatment of how parent products are displayed . the old version showed the
+type of link associated with the parent in the product bar ( to the left of
+the main product bar update buttons above the products tabs ) . the new version
+does not show the type of link . this is because the new version allows for
+more than one type of link on each parent product .
+some traders may notice that their products which have f / x links are now
+identified with a stylised " fx " in the product list . this is to enable easy
+identification of products which are run as a foreign exchange link to the
+parent , rather than managed individually .
+assistance
+as always , if you have any problems with any enrononline functionality ,
+please contact the 24 hour help desk ( houston : 713 853 4357 , london : + 44 ( 0 )
+20 7783 7783 , australia : + 61 2 9229 2300 ) .
+general feedback
+if you have any comments on the new functionality , or suggestions for further
+functionality , please call david forster on 713 853 1861 . if you had
+previously suggested new functionality which didn ' t make it into this
+release , rest assured that you have not been forgotten - we are working hard
+to improve all elements of enrononline and will try to incorporate your
+requests into the next release of the enrononline stack manager .

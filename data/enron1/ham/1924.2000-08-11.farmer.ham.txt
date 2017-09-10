@@ -1,0 +1,27 @@
+Subject: sitara / cpr availability
+to all sitara users :
+the sitara system will be brought down early this evening ( aug 11 th - 9 pm
+central time )
+to change the event transmission software to tibco . this software is used to
+send data change events to
+sitara applications that are using portfolios ( position manager , deal ticker ,
+facility assignment , deal manager ) .
+significant changes :
+new deal level fees : transport reimbursement , demand reimbursement , transport
+reimbursement
+new required field for storage service deal type : physical , synthetic
+added help file for on - line user guide ( still being edited for content )
+additional live link buttons to service deals ( for future use )
+additional warnings and hints for primary and secondary service deals
+improved audit for deleted data and d 2 d deals
+changed price warning to $ 9 . 01 ( from $ 5 . 01 )
+contract auto attaching matrix changed to exclude single transaction
+contracts for on - line deals
+added gst exempt flag to agency
+changed default date for new efp to begin next month
+if you experience any problems with the release , please call the sitara
+hotline .
+cpr will be available during the outage .
+sitara will be available early saturday morning .
+please call the sitara hotline ( ( 713 ) - 853 - 7049 ) if you have any questions or
+concerns .

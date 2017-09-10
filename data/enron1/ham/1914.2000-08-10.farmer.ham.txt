@@ -1,0 +1,14 @@
+Subject: revision # 1 - enron / hpl actuals for july 23 , 2000 10 . 000 / enron
+ls hpl lsk ic 30 . 000 / enron
+corrected numbers :
+teco tap 45 . 000 / hpl iferc ; 10 . 000 / enron
+ls hpl lsk ic 30 . 000 / enron
+july 28 , 2000
+previous numbers :
+teco tap 10 . 000 / enron ; 61 . 250 / hpl iferc ; 8 . 750 / hpl gas
+daily
+ls hpl lsk ic 30 . 000 / enron
+corrected numbers :
+teco tap 10 . 000 / enron ; 66 . 250 / hpl iferc ; 3 . 750 / hpl gas
+daily
+ls hpl lsk ic 30 . 000 / enron

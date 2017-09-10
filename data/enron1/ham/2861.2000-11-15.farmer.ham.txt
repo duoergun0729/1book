@@ -1,0 +1,21 @@
+Subject: re : prelminary findings on deals not bridging
+matt pena
+11 / 15 / 2000 12 : 09 pm
+to : robert superty / hou / ect @ ect
+cc : edward terry / hou / ect @ ect , victor lamadrid / hou / ect @ ect , pat
+clynes / corp / enron @ enron , donna greif / hou / ect @ ect , richard pinion / hou / ect @ ect ,
+patti sullivan / hou / ect @ ect , george smith / hou / ect @ ect , randall l
+gay / hou / ect @ ect , tricia spence / hou / ect @ ect , carlos j rodriguez / hou / ect @ ect ,
+tom acton / corp / enron @ enron
+subject : prelminary findings on deals not bridging
+i ' ve attached a spreadsheet showing deals that were not bridged to unify for
+november . please don ' t let this alarm you , this is how the bridge has always
+worked . if you have questions or would like to discuss , please let me know .
+every instance i ' ve found looks okay because of the following :
+* a transport ut ticket on the same pipe was the deal
+* the deal was killed
+* the deal was entered as a mistake buy and should of been a sell hence the
+inactive state in unify
+* the deal was a demand based deal price with no volumes
+* the deal didn ' t have a point assigned to it , only a zone
+thanks

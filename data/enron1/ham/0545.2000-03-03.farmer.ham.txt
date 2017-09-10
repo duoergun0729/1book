@@ -1,0 +1,10 @@
+Subject: oasis jan 00
+stacy ,
+oasis only show a delivery of 330 , 000 at point 1427 . we have two deals
+pathed for this volume : deal 158220 lower colorado - 300 , 000 ( mtrl 472 ) , and
+deal 157279 30 , 000 ( mtr 1472 ) . my issue is that the original lower colorado
+deal was for 310 , 000 . the additional 10000 is pathed on mtr 1516 . do i cut
+deal 157279 by 10000 to make up to lower colorado ? if so , could you please
+path it at point 1427 so that i will tie back to oasis . please let me know
+as soon as you decide what to do . thanks
+thu

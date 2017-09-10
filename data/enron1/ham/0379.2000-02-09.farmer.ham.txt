@@ -1,0 +1,16 @@
+Subject: sitara updates
+this is a note to update you guys on the progress i ' m making concerning
+cleaning - up and combining well - head deals . . . so far , i have completed :
+eog :
+deal 126358 reflects 0 volumes on meter 6067 march 2000 forward
+deal 126281 reflects volumes on meter 6296 as well as volumes moved from
+sitara deal 126358 ; all volumes are at meter 6296
+forest :
+deal 132832 reflects 0 volumes march 2000 forward
+deal 139397 reflects the combined volumes from both deals on meter 6396
+suemaur :
+deal 138658 reflects 0 volumes march 2000 forward
+deal 138658 reflects the combined volumes from both deals on meter 9766
+a similar effort will be made for : saxet ( deals 154608 / 138546 ) ; comstock
+( deals 125827 / 125828 / 125899 ) ; and costilla ( deals 125783 / 125900 )
+o ' neal 3 - 9686

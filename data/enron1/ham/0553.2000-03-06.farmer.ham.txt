@@ -1,0 +1,19 @@
+Subject: 98 - 1052 and 98 - 1534 ( k extensions )
+daren ,
+i ' m attempting to clean up my allocations , due to this being allocation close
+week for volume management .
+98 - 1534 ( delivery meter ) overflowed into march , day 1 only , for . 30
+decatherms ( sitara deal # 163005 - start date 2 / 1 / 2000 and stop daate
+2 / 29 / 2000 ) . the 215 k is the only one at this meter for feb . 2000
+production . i don ' t see a new sitara deal number being referenced nor do i
+see the evergreen flag applied here . please apprise if you can extend the
+ticket for this small amount for 3 / 1 / 2000 or if you want it handled
+differently .
+98 - 1052 ( delivery meter ) , allocated flow for 2 / 21 - 2 / 24 / 2000 with no k
+applied . days 22 and 23 for february references the 215 k ( sitara deal
+# 168884 start date 2 / 22 / 2000 stop date 2 / 23 / 2000 . sitara deal # 201636 has
+the same start and stop date as 168884 and neither references an evergreen
+flag or a new deal number ) .
+thanks
+- jackie -
+3 - 9497

@@ -1,0 +1,25 @@
+Subject: re : meter 984229 - roos common point - trade zone 18
+vance :
+per our conversation , we have two possible options to resolve this deal ,
+depending on whether the wellheads are producing or not .
+producing : if that is the case , the purchase from calpine , and any contracts
+hedged to it will need to be backed up in the system to a wellhead level .
+once that is done , i will need to research in the system how those wellheads
+were allocated and paid and reallocate to your calpine deal . this will
+probably have to go back to hplc ' s ownership of hplr ' s gathering assets .
+non - producing : should we determine that the common point and any wells
+behind it have been shut - in , or p & a ' d , we will need to reallocate this deal
+to zero , and unwind any hedges against it ( or , move the hedges to another
+deal , if possible . since the deal is older , we probably sold lower priced
+contracts against the production and a buy - back today would possibly result
+in a financial loss ) .
+in either case , the deal needs to be cleaned up back to the date of last flow
+at meter 4229 , which i am currently looking into . i will email you as soon
+as i ascertain that date .
+in lieu of the past couple of days , we may need to look at all of the deals
+which were impacted by hplc ' s aquisition of hplr ' s gathering to ensure that
+they are being captured properly , both at a book level and at a state filing
+level . please let me know what your thoughts are as to how to accomplish
+this .
+thank you again for all of your hard work in this area ,
+mary

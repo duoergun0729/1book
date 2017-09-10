@@ -1,0 +1,15 @@
+Subject: midtex
+after comparing hpl ' s numbers with pg & e ' s numbers i have found a few
+discrepancies with the tufco volumes .
+hpl pg & e
+5 / 8 137 . 500 139 . 583
+5 / 11 103 . 750 100 . 833
+5 / 19 108 . 333 8 . 333
+days 8 and 11 have small discrepancies . i got with carlos on the 5 / 19
+discrepancy . he checked the numbers sent to him by tufco . he verified that
+it should be 8 . 333 . i also checked with steve in gas control regarding what
+flowed for tufco . steve told me 8 . 300 . i have gone back into mops and
+corrected these volumes . this should impact the ua 4 number . also , this
+decreases the midtexas cumulative imbalance . as of 5 / 23 pg & e owes hpl
+4 . 649 . if you have any questions , please let me know .
+- aimee

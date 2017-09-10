@@ -1,0 +1,88 @@
+Subject: re : prime operating company , uribe # 1 , jennings ranch field , zapata
+county , tx
+melissa ,
+deal # 362921 has been created and entered in sitara .
+bob
+enron north america corp .
+from : melissa graves 08 / 10 / 2000 02 : 54 pm
+to : robert cotten / hou / ect @ ect , jennifer blay / hou / ect @ ect
+cc : donald p reinhardt / hou / ect @ ect , susan smith / hou / ect @ ect , vance l
+taylor / hou / ect @ ect , tom acton / corp / enron @ enron , mary jo johnson / hou / ect @ ect ,
+christy sweeney / hou / ect @ ect , elizabeth l hernandez / hou / ect @ ect , lisa
+hesse / hou / ect @ ect , trisha hughes / hou / ect @ ect
+subject : re : prime operating company , uribe # 1 , jennings ranch field , zapata
+county , tx
+bob / jennifer : ,
+bob ,
+the following production is now on - line ( behind an existing meter ) . please
+create and enter a ticket into sitara based on the following :
+counterparty meter period volumes price
+prime operating company 6388 8 / 1 / 00 - 8 / 31 / 00 400 mmbtu / d 85 % if / hsc
+this is a producer svcs . deal and should be tracked in the im wellhead
+portfolio , attached to the gathering contract .
+once the paper is signed and reserves are published , susan smith will prepare
+a formal deal ticket for the full term .
+jennifer ,
+please prepare and transmit to prime operating company , a first purchaser gtc
+based on the following
+information :
+counterparty : prime operating company
+contract date : 8 / 1 / 00
+term expires : 8 / 31 / 00
+contract type : first purchaser gtc
+contract price : 85 % if / hsc
+sitara no . : to be assigned
+tagg no . : to be assigned
+meter : 098 - 6388 , facility 17385
+wells :
+facility no . facility name meter county
+50693 uribe , a . a . # 1 098 - 6388 zapata
+mailing address :
+2900 wilcrest drive , suite 475
+houston , texas 77042 - 6009
+attention : mr . vern elmore
+payment information : by check to the above address
+telephone number : ( 713 ) 735 - 0000
+fax number : ( 713 ) 735 - 0090
+please provide me with a copy of the gtc for our files once completed .
+please call if you have any questions or need additional information .
+thank you ,
+melissa
+x 39173
+- - - - - - - - - - - - - - - - - - - - - forwarded by melissa graves / hou / ect on 08 / 10 / 2000 11 : 42
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : robert cotten 08 / 10 / 2000 09 : 13 am
+to : melissa graves / hou / ect @ ect
+cc : daren j farmer / hou / ect @ ect , david baumbach / hou / ect @ ect , susan
+smith / hou / ect @ ect , vance l taylor / hou / ect @ ect , tom acton / corp / enron @ enron ,
+mary jo johnson / hou / ect @ ect , jennifer blay / hou / ect @ ect , christy
+sweeney / hou / ect @ ect , hillary mack / corp / enron @ enron , lisa hesse / hou / ect @ ect ,
+trisha hughes / hou / ect @ ect
+subject : re : prime operating company , uribe # 1 , jennings ranch field , zapata
+county , tx
+melissa ,
+deal # 361155 has been created and entered in sitara .
+bob
+enron north america corp .
+from : melissa graves 08 / 09 / 2000 02 : 19 pm
+to : robert cotten / hou / ect @ ect
+cc : donald p reinhardt / hou / ect @ ect , susan smith / hou / ect @ ect , vance l
+taylor / hou / ect @ ect , tom acton / corp / enron @ enron , mary jo johnson / hou / ect @ ect ,
+jennifer blay / hou / ect @ ect , christy sweeney / hou / ect @ ect , hillary
+mack / corp / enron @ enron , lisa hesse / hou / ect @ ect , trisha hughes / hou / ect @ ect
+subject : prime operating company , uribe # 1 , jennings ranch field , zapata
+county , tx
+bob ,
+the following production is now on - line ( behind an existing meter ) . please
+create and enter a ticket into sitara based on the following :
+counterparty meter period - volumes price
+prime operating company 6388 7 / 28 - 167 mmbtu / d 85 % gas daily
+7 / 29 - 382 mmbtu / d
+7 / 30 - 370 mmbtu / d
+7 / 31 - 415 mmbtu / d
+this is a producer svcs . deal and should be tracked in the im wellhead
+portfolio , attached to the gathering contract .
+thank you ,
+melissa
+x 39173

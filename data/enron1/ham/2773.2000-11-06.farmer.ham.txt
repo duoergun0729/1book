@@ -1,0 +1,9 @@
+Subject: enron / hpl actuals for november 3 - 5 , 2000
+november 3 , 2000
+teco tap 30 . 000 / enron ; 114 . 583 / hpl gas daily
+november 4 , 200
+teco tap 139 . 167 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron
+november 5 , 2000
+teco tap 85 . 000 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron

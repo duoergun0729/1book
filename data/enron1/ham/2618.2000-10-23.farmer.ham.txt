@@ -1,0 +1,7 @@
+Subject: enron / hpl actuals for october 20 - 22 , 2000
+october 20 , 2000
+teco tap 0 / enron ; 75 . 000 / hpl gas daily
+october 21 , 2000
+teco tap 0 / enron ; 84 . 375 / hpl gas daily
+october 22 , 2000
+teco tap 0 / enron ; 115 . 625 / hpl gas daily

@@ -1,0 +1,100 @@
+Subject: re : request for application report list
+this is a follow up to the earlier email i forwarded regarding ces historical
+information . note the deadline of 1 / 15 , i believe that should be friday 1 / 14
+so i need your responses by thursday 1 / 13 .
+please fill out the spreadsheet for each area and forward back to me . i will
+consolidate our responses from a logistics perspective . lets have them add
+everything they need and if challenged we can re - review later .
+thanks - bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by robert superty / hou / ect on 01 / 06 / 2000
+08 : 24 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : bryce baxter 01 / 05 / 2000 12 : 00 pm
+to : sheri thomas / hou / ect @ ect , robert superty / hou / ect @ ect , mark
+friedman / hou / ect @ ect , mary solmonson / hou / ect @ ect , bob klein / hou / ect @ ect ,
+georgeanne hodges / hou / ect @ ect , lisa csikos / hou / ect @ ect , rita wynne / hou / ect @ ect
+cc : inja chun / hou / ect @ ect , brent a price / hou / ect @ ect , tommy j
+yanowski / hou / ect @ ect , susan harrison / hou / ect @ ect , lawrence r
+daze / hou / ect @ ect , pamela chambers / corp / enron @ enron , jpeeple @ columbienergy . com
+subject : re : request for application report list
+last month richard burchfield sent us the following list of reports that are
+available from ces ' s systems . it is working on a way to secure an electronic
+copy of the required reports and making them available to us online via the
+electronic document management system . while ena is not liable for pre - 2000
+business , we may need to assist with research as issues arise . in order to
+get the ball rolling , we need to get a list together of the reports we need .
+please fill out the attached spreadsheet and list any reports that you need
+and return it to me by friday , 1 / 15 / 2000 . if you do not want any reports ,
+please send me an email letting me know that . i have included samples of how
+to fill this out , and if you have any questions please give me a call .
+if you aren ' t sure which reports you need based on the names , please get with
+any ces employees you have hired or with a ces transition employee to get
+clarification . if you need samples of any of these reports please let my
+assistant , pam chambers , know and she will coordinate getting a sample report
+printed for you .
+in addition , i will need a list of the users and their logonid ' s who will
+need to have access to this data . please send that to me by the 15 th as
+well .
+thanks , bryce
+richard burchfield
+12 / 01 / 99 04 : 58 pm
+to : sheri thomas / hou / ect @ ect , robert superty / hou / ect @ ect , brent a
+price / hou / ect @ ect , mark friedman / hou / ect @ ect , mary solmonson / hou / ect @ ect ,
+tommy j yanowski / hou / ect @ ect , bob klein / hou / ect @ ect , bryce
+baxter / hou / ect @ ect , georgeanne hodges / hou / ect @ ect
+cc :
+subject : re : request for application report list
+all ,
+below is attached the report list for ces .
+richard
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard burchfield / hou / ect on 12 / 01 / 99
+03 : 48 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+cdeaton @ . com on 12 / 01 / 99 01 : 25 : 37 pm
+to : richard burchfield / hou / ect @ ect
+cc : " - * peeples , jeff " ,
+" - * licarione , linda "
+subject : re : request for application report list
+please see the attached for the altra gms report listing . please forward any
+additional questions relating to altra gms to linda licarione ( 713 - 693 - 2845 )
+or
+jeff peeples ( 713 - 693 - 2597 ) . thanks .
+linda licarione
+12 / 01 / 99 01 : 04 pm
+to : clay deaton / ces / columbiagas @ columbiagas
+cc :
+subject : request for application report list
+attached is a list of 210 reports from altra gms . please note that we may not
+be using all of these reports . if you need me to scale this down to those
+currently being used , i will need to do a bit of analysis . many of the base
+reports , those denoted in the spreadsheet with filename - location ( 1 st column )
+=
+master . mdb are not currently being used at ces . let me know if you have any
+questions .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by linda licarione / ces / columbiagas on
+12 / 01 / 99
+12 : 58 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+clay deaton
+11 / 30 / 99 01 : 27 pm
+to : linda licarione / ces / columbiagas @ columbiagas
+cc :
+subject : request for application report list
+can you provide me with a complete list of gms reports ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by clay deaton / ces / columbiagas on 11 / 30 / 99
+01 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+rburchf @ ect . enron . com on 11 / 30 / 99 10 : 36 : 11 am
+please respond to rburchf @ ect . enron . com
+to : clay deaton / ces / columbiagas @ columbiagas
+cc : csulliv @ ect . enron . com , bprice @ ect . enron . com
+subject : request for application report list
+clay ,
+i have had several requests from the ena business groups . now that the
+agreement has been finalized , for report lists from your key applications ,
+those
+being , altra gms and risk works ( there may be others as people become more
+aware ) . there will be a need for information for ena to manage contracts as we
+go through he transition period . we feel this would be an easier process to
+work
+through if ena knows what kind of information they can request as we go
+through
+the transition .
+thanks , richard
+- gms _ reportlisting by header . xls

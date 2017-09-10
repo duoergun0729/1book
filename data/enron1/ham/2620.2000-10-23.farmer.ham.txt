@@ -1,0 +1,53 @@
+Subject: meter 984229 - roos common point - trade zone 18
+i am not sure who should handle this , so , i shared the " wealth " . on deal
+ticket 133259 , purchase from calpine , the deal is input at meter 4229 , which ,
+per the email below , was terminated . i have an unresolvable ua 4 issue at
+meter 4229 for september and for october . i have changed the meter
+designation for november forward , however , i receive an error in sitara when
+i attempt to change either the prior or current month . this deal should have
+been changed to meter 6835 effective back in february of this year . please
+let me know what i can do to resolve this issue asap .
+thanks ,
+mary
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary poorman / na / enron on 10 / 23 / 2000 02 : 01
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : cheryl jones 10 / 03 / 2000 08 : 55 am
+to : katherine benedict / hou / ect @ ect , mary poorman / na / enron @ enron
+cc :
+subject : meter 984229 - roos common point - trade zone 18
+i just talked to the tech - bobby husky and he confirmed that meter 984229 has
+been removed . now the other roos station is 986835 .
+thanks ,
+c . j . x 67787
+- - - - - - - - - - - - - - - - - - - - - - forwarded by cheryl jones / gpgfin / enron on 10 / 03 / 2000
+08 : 51 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+katherine benedict @ ect
+09 / 20 / 2000 10 : 01 am
+to : cheryl jones / gpgfin / enron @ enron , mary poorman / na / enron @ enron
+cc :
+subject : meter 984229 - roos common point - trade zone 18
+cheryl ,
+fyi - here is the message from mary poorman in logistics .
+mary ,
+cheryl is going to call the field and find out if this meter should still be
+included on the termination list and also see if the field people see any gas
+flow on the meter .
+thanks ,
+kathy
+- - - - - - - - - - - - - - - - - - - - - - forwarded by katherine benedict / hou / ect on 09 / 20 / 2000
+09 : 56 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary poorman @ enron
+09 / 20 / 2000 09 : 48 am
+to : robert cotten / hou / ect @ ect , vance l taylor / hou / ect @ ect
+cc : katherine benedict / enron _ development @ enron _ development
+subject : meter 984229 - roos common point - trade zone 18
+kathy and i are trying to clean up an unaccounted for issue at the above
+referenced meter . the system ( pops ) does not show a bav flow or an actual
+flow for prior months . kathy phoned measurement to inquire about mips
+volumes and was informed that this meter is on a disabled status list back to
+february , 2000 . i am showing a purchase from calpine at this meter ( deal
+ticket 133259 ) on gathering agreement
+i would greatly appreciate your help in determining the current status of
+this meter and this deal . please forward any information you may have .
+thank you for your time and patience ,
+mary

@@ -1,0 +1,48 @@
+Subject: re : glo / egm gas / crude swap
+what do you think ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by julie meyers / hou / ect on 04 / 17 / 2001 10 : 16 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+joanie h ngo
+04 / 16 / 2001 10 : 07 am
+to : julie meyers / hou / ect @ ect
+cc : katherine herrera / corp / enron @ enron
+subject : re : glo / egm gas / crude swap
+julie ,
+deal 640685 for march 01 production : per daren farmer ( in the audit field in sitara ) , this was copied from deal # 547201 . this deal is the crude swap where volume stayed but price got zeroed out and booked as a demand charge under 679847 and 679848 .
+please confirm that it is the crude swap and rebook as necessary .
+if you have any questions or need additional clarification , please let me or katherine h . know .
+thanks in advance for your help on this matter .
+joanie
+x 36574
+- - - - - - - - - - - - - - - - - - - - - - forwarded by joanie h ngo / hou / ect on 04 / 16 / 2001 09 : 52 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+julie meyers
+03 / 19 / 2001 05 : 33 pm
+to : katherine herrera / corp / enron @ enron
+cc : joanie h ngo / hou / ect @ ect , george weissman / hou / ect @ ect , bryce baxter / hou / ect @ ect , donnie myers / na / enron @ enron , kam keiser / hou / ect @ ect , elizabeth l hernandez / hou / ect @ ect
+subject : re : glo / egm gas / crude swap
+547201 & 591307 has been zeroed out . 679847 & 679848 have been created between ena & hplc . 679859 has been created for the sale to egm from ena wellhead . i have placed both january and february on that deal .
+if this will not work , please let me know .
+thanks ! !
+julie
+katherine herrera @ enron
+03 / 06 / 2001 03 : 36 pm
+to : julie meyers / hou / ect @ ect
+cc :
+subject : glo / egm gas / crude swap
+fyi -
+will the price be reversed on hplc sale for janol and feb 01 prod ?
+thanks - katherine
+- - - - - - - - - - - - - - - - - - - - - - forwarded by katherine herrera / corp / enron on 03 / 06 / 2001 03 : 24 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp . from : bryce baxter @ ect 03 / 05 / 2001 06 : 33 pm
+to : george weissman / hou / ect @ ect
+cc : donnie myers / na / enron @ enron , katherine herrera / corp / enron @ enron , david baumbach / hou / ect @ ect
+subject : glo / egm gas / crude swap
+george - i ' ve done some t - accounts ( the bean counter in me ) and i think the following is the best way to handle this going forward :
+change the existing deals , 547201 and 591307 , to a zero price . this will eliminate the a / r balance on hpl ' s books for glo , but will keep the volume nom ' d to glo and will not impact ua 4 .
+enter a ticket on hpl for a sale to ena for the value of the gas that was zeroed out on the above tickets . this should be entered as a demand charge only and the amounts should be $ 974 , 144 for 1 / 01 and $ 766 , 304 for 2 / 01 .
+enter a ticket on ena where the ena - wellhead book purchases the demand from hpl . the amounts would be the same as in # 2 above .
+enter a ticket on ena where the ena - wellhead book sells demand to egm for the value of the crude oil for the prior month . for 1 / 01 , the sale would be for $ 886 , 638 . 60 ( the 12 / 00 crude oil delivered to egm by glo ) . for 2 / 01 , the sale would be for $ 839 , 008 . 29 ( the 1 / 01 crude oil delivered to egm by glo ) .
+this will require the following steps be taken monthly as this deal goes forward :
+the price on the sale from hpl to glo will need to be zeroed out monthly .
+the demand charges on steps 2 and 3 will have to be updated to reflect the value zeroed out .
+the demand charges on step 4 will have to be updated to reflect the value of the crude delivered to egm .
+once this is done , the a / r balance for glo will be cleared , the margin will be on the ena wellhead book , and the intercompany transactions will move the money from egm to hpl . this needs to be done monthly prior to flash , which will prevent any oa variances . the index for the gas value is available shortly after the lst of the month , and since the volume is firm , there shouldn ' t be a problem calculating the value . we should also know the value of the crude oil so that we can flash the sale from ena to egm . if you have any questions or see a better way to do this , please let me know . thanks .

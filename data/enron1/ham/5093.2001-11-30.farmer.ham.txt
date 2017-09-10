@@ -1,0 +1,51 @@
+Subject: fw : centana storage
+- - - - - original message - - - - -
+from : swisher , stephen
+sent : tuesday , november 27 , 2001 11 : 52 am
+to : olsen , michael
+subject : fw : centana storage
+importance : high
+mike ,
+i need a deal entered into sitra and pathed for the sale of the centana storage to aep . see below . any questions , give me a call . thanks .
+stephen r . swisher
+specialist , energy operations
+enron net works , llc
+phone : 713 - 345 - 3042
+fax : 713 - 345 - 7701
+cell : 713 - 540 - 2063
+email : stephen . swisher @ enron . com
+- - - - - original message - - - - -
+from : wynne , rita
+sent : tuesday , november 13 , 2001 1 : 30 pm
+to : pond , jim
+cc : koerselman , lisa ; lo , connie ; swisher , stephen
+subject : re : centana storage
+stephen ,
+please get with logistics to get a deal entered and pathed for this transaction . if you have any questions , please let me know . thanks !
+- - - - - original message - - - - -
+from : pond , jim
+sent : tuesday , november 13 , 2001 1 : 29 pm
+to : wynne , rita
+cc : koerselman , lisa ; lo , connie ; swisher , stephen
+subject : re : centana storage
+the gl currently has 1 , 177 , 186 mmbtu @ $ 3 , 548 , 001 . 99 .
+i believe the sale took place in the facility .
+- - - - - original message - - - - -
+from : wynne , rita
+sent : tuesday , november 13 , 2001 1 : 05 pm
+to : pond , jim
+cc : koerselman , lisa ; lo , connie ; swisher , stephen
+subject : re : centana storage
+jim ,
+where did the sale take place ? was it an in place sale at the facility ? stephen is working on the reconciliation . if he cannot have it completed by this close , then we will have unaccounted for until he finishes his reconciliation . we will do everything possible to get it cleared this close . what does the g / l currently have for the storage number ?
+- - - - - original message - - - - -
+from : pond , jim
+sent : tuesday , november 13 , 2001 12 : 57 pm
+to : wynne , rita
+cc : koerselman , lisa ; lo , connie
+subject : centana storage
+rita ,
+it looks like we will be making our bammel true - up payment to aep in the next couple of days . included in the payment to aep is a deduction for the sale of the centana storage gas . we are selling them 1 , 236 , 286 mmbtu @ $ 2 . 375 for a total of $ 2 , 936 , 179 . 25 . the sale is for september , 2001 production . we will need a deal put in sitara for that sale along with the appropriate pathing from storage by logistics . however , there is only 1 , 195 , 754 mmbtu on report 006 in unify ( for contracts 96018371 , 96014189 , and 96019236 ) . how do we account for this volumetic difference ? connie will be truing up the gl to match the current unify volume . the gl was short approx . 18 , 000 mmbtu because a beginning balance was not booked .
+this needs to happen before the upcoming close .
+thanks for you help in this matter .
+please let me know of any concerns .

@@ -1,0 +1,37 @@
+Subject: re : entex volumes
+- - - - - - - - - - - - - - - - - - - - - - forwarded by ami chokshi / corp / enron on 02 / 09 / 2000
+01 : 29 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+charles _ w _ allmon @ reliantenergy . com on 02 / 09 / 2000 11 : 44 : 58 am
+to : ami _ chokshi @ enron . com
+cc : royal _ b _ edmondson @ reliantenergy . com , ghanks @ ect . enron . com
+subject : re : entex volumes
+ami ,
+sorry that i haven ' t followed up yet , but we are in the middle of
+implementing sap ( which i ' m sure
+you have heard about ) , and haven ' t had time to put the sample report
+together .
+what i have at
+present is a report from our scada system that must be run manually each day ,
+to get a report of
+yesterday ' s volumes , beginning and ending at 7 : 00 a . m . the problem is , until
+i
+can revise it , the
+report shows all of our city gate volumes for all suppliers , and i need to
+create a new one with only the
+hpl stations . i also want to set it up for automatic creation , to run at
+approx . 8 : 00 a . m . daily . it would
+then be available to you for viewing via some type of bulletin board , such as
+is
+currently being operated
+by george perrine . i will be coordinating this effort with george in that
+regard . until i have completed the
+entire task , however , i will try to send you a daily ( 5 days per week ) report
+created manually , showing the
+previous day ' s volumes for our monitored hpl stations . i am shooting for
+starting this tomorrow .
+i have also been discussing this with royal edmondson of our gas supply
+dept . , and he wants us all
+to meet to discuss coordinating our efforts and sharing all information
+between
+all interested parties . he
+will be getting back with you on this .

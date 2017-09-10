@@ -1,0 +1,14 @@
+Subject: pg & e texoma volumes
+in reviewing some of the imbalance numbers , i discovered that valero texoma
+( # 71 ) bav volumes have not fed into pops since 3 / 14 causing an out of balance
+at the meter in excess of 500 , 000 mm month to date . the more critical part of
+this problem , however , is that pops has fed 0 volumes back to sitara on some
+of the hplc deals . this means that these purchase volumes ( expenses ) have
+not been picked up in tom ' s p & l and are , instead , sitting in ua 4 . to the
+extent that the purchase prices vary from the ua 4 value , the p & l may take a
+hit when these actual volumes flow through .
+i realize that kim is out and that you guys are stretched thin , however , a
+problem of this magnitude needs to be addressed as soon as it ' s discovered .
+someone needs to be overriding the 0 volumes so that sitara is receiving
+correct information and the p & l is kept as accurate as possible .
+please give me a call if you have any questions .

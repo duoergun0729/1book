@@ -1,0 +1,35 @@
+Subject: procedure for adding new capacity tickets for multi - desk service
+utilization
+in order to provide the ability to track transport expense by desk , sitara
+was modified to allow multiple transport capacity tickets for the same
+service contract provided that they are for different desks and only one is
+tagged as " primary " . here is the procedure for setting up new capacity
+tickets to reflect the " other " desks :
+a . you will probably first notice this via a warning / error message in path
+manager when building a new path . the message will read something like
+" source / destination 123456 for desk imct does not match service contract 3434
+and will be removed . "
+b . make note of the deal number in the service list of the service contract
+that you were using in the new path .
+c . open that transport capacity deal in sitara . then hit copy .
+d . on the new deal :
+change the buyer from the old desk to the new desk that matches the supply
+or market deal that you are pathing with . if it a contract for which we are
+agent , then don ' t change the buyer but instead change the agent to the new
+desk . the " primary " deal will carry the actual agent .
+changing the buyer causes the contract field to get blanked out . re - select
+the contract .
+just above the various exchange line items is a primary deal check box .
+un - check it .
+on each exchange line item , change the mdq to zero and for any negotiated
+rates , uncheck them as well . the " primary " deal will carry the mdq and
+any negotiated demand , commodity or fuel .
+hit release .
+e . you may need to re - retrieve path manager . you should see the deal number
+in the service list now read " multiple " . right - click / service deals will list
+the specific deals .
+f . re - build the path as you originally desired . the warning / error message
+should not appear again .
+this could occur for any combination of desk and service contract .
+please file this in your " call dave if i can ' t find this " folder .
+thanks , d . n .

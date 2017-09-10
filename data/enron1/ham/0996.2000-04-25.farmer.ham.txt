@@ -1,0 +1,12 @@
+Subject: 98 - 2601
+hi daren ,
+i ' m attempting to clear the above mentioned meter from an error report
+( revenue volume comparison report ) . howard apprised me , in a meeting last
+week , that the reason this meter is appearing in the aforementioned report is
+due to no volumes being scheduled in pops but volumes appearing in mops . the
+volumes @ this meter is for 4449 ( sitara deal tickets 240095 and 227697 . due
+to this being a " check meter " the volumes will not bridge to pops from mops .
+i ' d like to request to revise the nome of 4449 to show " 0 " instead . can you
+approve this modification ?
+thanks
+- jackie -

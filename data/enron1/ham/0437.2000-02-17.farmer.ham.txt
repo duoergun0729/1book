@@ -1,0 +1,36 @@
+Subject: cilco pathing - withdrawl and hplc transport pathing
+cilco needs to be pathed the following way on a withdrawl day or month
+the pathing that was done for december 1999 and january 2000 worked .
+source
+path
+destination
+012 - 27049 - 05 - 001 / stg / f 012 - 27049 - 05 - 001
+firm storage external
+bammel - meter 56 l
+storage
+account
+meter 56 must be attached to this pool
+external bammel - meter 56 012 - 27049 - 02 - 001
+transport
+012 - 27049 - 02 - 001 / transport / i / 1 / e
+meter 56 must be
+attached
+transport imbalance
+the hplc transport in or out of storage should be pathed as follows
+injection
+source
+path
+destination
+012 - 41500 - 02 - 015 / transport / i / 1 / e
+012 - 41500 - 02 - 015
+external bammel - meter 57
+transport
+imbalance
+meter 57 must be attached to this pool
+withdrawl
+external bammel - meter 57
+012 - 41500 - 02 - 015
+012 - 41500 - 02 - 015 / transport / i / 1 / e
+meter 57 must be attached to this
+pool
+transport imbalance

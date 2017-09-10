@@ -1,0 +1,28 @@
+Subject: deals entered 3 / 01
+julie ,
+i have entered the following deals for wellhead meters in 03 / 01 :
+deal # counterparty meter #
+631403 amerada hess 0435
+631437 anadarko petr . 0435
+631449 apache corp . 0435
+631486 barrett resour . 0435
+632586 cima energy 6284
+632651 columbus energy 9758
+632978 crosstex energy 9843
+631504 crosstex energy 0435
+633028 duke energy 6347
+633111 eex e & p 9695
+633154 el paso merchant 5923
+633184 el paso merchant 5848
+633227 four square gas 9705
+631543 meridian resource 0435
+631580 ocean energy 0435
+631662 seneca resources 0435
+633360 simray o & g 9739
+633380 swift energy 2630
+634419 swift energy 9643
+631737 tri - union devel . 0435
+633427 vintage gas 9603
+631767 walter o & g 0435
+634035 whiting petr . 6523
+bob

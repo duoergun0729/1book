@@ -1,0 +1,45 @@
+Subject: unify stress test next week with sybase 12 . 0
+yvette / pat / daren - please send this to your gas schedulers .
+hi ,
+you probably already heard . . . test of the new sybase data base release is off
+for today . testing will resume tomorrow , wed 6 / 21 at noon . people should at
+least verify their security access today . if you do not have access , please
+contact diane niestrath at 3 - 9931 or dave mcmullan at 3 - 9127 .
+diane niestrath
+from : dave nommensen 06 / 16 / 2000 05 : 25 pm
+to : susan harrison / hou / ect @ ect , brenda f herod / hou / ect @ ect , bryce
+baxter / hou / ect @ ect , rita wynne / hou / ect @ ect , pat clynes / corp / enron @ enron ,
+randall l gay / hou / ect @ ect , george smith / hou / ect @ ect , edward
+terry / hou / ect @ ect , beverly beaty / hou / ect @ ect , carrie hollomon / hou / ect @ ect
+cc : jeff johnson / corp / enron @ enron , scott williamson / hou / ect @ ect , john
+pyle / corp / enron @ enron , jim ogg / hou / ect @ ect , jaikishore bharathi / hou / ect @ ect ,
+regan m smith / hou / ect @ ect , kenneth m harmon / hou / ect @ ect , paul f
+poellinger / hou / ect @ ect
+subject : unify stress test next week with sybase 12 . 0
+we have done some preliminary testing of the latest version of sybase
+( version 12 ) . we have seen very positive results from our initial tests and
+would like to proceed with a " stress test " ( not to be confused with me
+showing up each day at work ) . we would like to do 2 tests next week due to
+hardware and business restrictions .
+the test would be similar to those from late - 1998 ( ah , those were the
+days ! ) . we will ask all users , as well as i . t . folks , to run as many of
+their usual processing during a scripted time frame from approx noon - 1 : 30 pm
+on tuesday and wednesday . be sure to order some yummy pizza or sandwiches for
+your staff !
+the sybase 12 . 0 environment can be accessed via start / programs / test
+applications / unify applications / unify gas - power stage . on the login window ,
+select server = " ase 12 test " . if you usual production password does not
+work , try " houston " . if that does not work , try a neighbor ' s ( audit says
+that fine , its just a test ) . each user should plan to run several sessions
+where permissible to simulate a heavy load on the system and to make up for
+those not able to participate during this time . please have your staff try
+to login some time monday to insure they have access .
+the test script during the time period will be :
+12 : 00 - 1 : 30 logistics : pathing , nominating , running some reports
+12 : 20 - 1 : 30 volume management : do your thing
+12 : 40 - 1 : 30 settlements / accounting : pile in
+please let me know if your area would not be able to assist in this very
+important test . the results of these 2 tests will dictate whether we should
+pursue our migration to this new release in mid - july . the less bid weeks
+with poor system performance the better !
+thanks in advance for your help , d . n .

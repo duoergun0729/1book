@@ -1,0 +1,75 @@
+Subject: re : pg & e texoma volumes
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael eiben / hou / ect on 03 / 21 / 2000 04 : 18
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+gary anderson @ enron on 03 / 21 / 2000 02 : 25 : 52 pm
+to : michael eiben / hou / ect @ ect
+cc : jeff may / gpgfin / enron @ enron , charlotte hawkins / hou / ect @ ect , robert e
+lloyd / hou / ect @ ect , gary a hanks / hou / ect @ ect , lauri a allen / hou / ect @ ect ,
+george grant / hou / ect @ ect , pat clynes / corp / enron @ enron , steve
+venturatos / hou / ect @ ect , brenda f herod / hou / ect @ ect
+subject : re : pg & e texoma volumes
+this is an outside measured volume that we don ' t receive volumes on until
+month ' s end so systematically , no information equals zero . spi , the software
+vendor for mips is investigating all of the rules currently in place for file
+transfers , particularly 0 volumes . the only possible solution is to tag all
+zero volumes sent in the nightly file process as ( i ) incomplete . i will let
+you know the outcome of this investigation and the monies required to
+complete . we may require a work order to complete based on the outcome of the
+investigation .
+michael eiben @ ect
+03 / 21 / 2000 10 : 50 am
+to : jeff may / gpgfin / enron @ enron , gary anderson / gpgfin / enron @ enron
+cc : charlotte hawkins / hou / ect @ ect , robert e lloyd / hou / ect @ ect , gary a
+hanks / hou / ect @ ect , lauri a allen / hou / ect @ ect , george grant / hou / ect @ ect , pat
+clynes / corp / enron @ enron , steve venturatos / hou / ect @ ect , brenda f
+herod / hou / ect @ ect
+subject : pg & e texoma volumes
+jeff / gary ,
+where is measurement in the process of sending pipeline operations more
+complete data ? we continue to have this problem at various bidirectional
+meters and meter 980071 below is the latest casuality . when mips sends
+pipeline operations a zero prelim , this becomes the best available number and
+overlays the estimate that gas control sends us . when this happens &
+scheduling doesn ' t catch to override the zero , the desk ' s expense is
+understated . this is causing a huge mess for texas operations . what is the
+plan to move this up on measurements priority list ? we need an answer asap ! !
+charlotte ,
+at what other meters are we having this problem ?
+mve
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael eiben / hou / ect on 03 / 21 / 2000 10 : 30
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : charlotte hawkins 03 / 21 / 2000 09 : 54 am
+to : jeff may / gpgfin / enron @ enron , michael eiben / hou / ect @ ect
+cc : pat clynes / corp / enron @ enron , george grant / hou / ect @ ect , robert e
+lloyd / hou / ect @ ect , gary a hanks / hou / ect @ ect
+subject : pg & e texoma volumes
+i spoke with romeo d ' souza this morning regarding the on - going problem of
+mips feeding zeros to pops when incomplete data is received .
+in light of the e - mail below regarding how important it is that we receive
+accurate data from mips . . . . could you please update me on the status of
+this correction .
+thank you so much .
+charlotte hawkins
+- - - - - - - - - - - - - - - - - - - - - - forwarded by charlotte hawkins / hou / ect on 03 / 21 / 2000
+09 : 35 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+lauri a allen
+03 / 21 / 2000 09 : 04 am
+to : robert e lloyd / hou / ect @ ect , tom acton / corp / enron @ enron , charlotte
+hawkins / hou / ect @ ect
+cc : daren j farmer / hou / ect @ ect , pat clynes / corp / enron @ enron , bryan
+hull / hou / ect @ ect , gary a hanks / hou / ect @ ect
+subject : pg & e texoma volumes
+in reviewing some of the imbalance numbers , i discovered that valero texoma
+( # 71 ) bav volumes have not fed into pops since 3 / 14 causing an out of balance
+at the meter in excess of 500 , 000 mm month to date . the more critical part of
+this problem , however , is that pops has fed 0 volumes back to sitara on some
+of the hplc deals . this means that these purchase volumes ( expenses ) have
+not been picked up in tom ' s p & l and are , instead , sitting in ua 4 . to the
+extent that the purchase prices vary from the ua 4 value , the p & l may take a
+hit when these actual volumes flow through .
+i realize that kim is out and that you guys are stretched thin , however , a
+problem of this magnitude needs to be addressed as soon as it ' s discovered .
+someone needs to be overriding the 0 volumes so that sitara is receiving
+correct information and the p & l is kept as accurate as possible .
+please give me a call if you have any questions .

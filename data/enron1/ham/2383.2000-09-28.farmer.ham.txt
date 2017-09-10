@@ -1,0 +1,60 @@
+Subject: re : big cowboy for august
+mary :
+is the issue below confirmed volumes versus actual flow ? the large variance
+between confirmed and actuals began in june 2000 where 30 mmbtu was scheduled
+for dix ranch and zero for the big cowboy and big cowboy # 2 wells . it
+appears that the volumes for these wells were scheduled at despain where
+985 , 350 mmbtu was confirmed . this well has never flowed this much volume ,
+and in june 2000 it flowed approximately 320 , 000 mmbtu . do we actually have
+support ( i . e we talked with someone or have a nom sheet ) for the 985 , 350
+mmbtu that was entered into mops as confirmed ? this trend of " nothing " being
+confirmed at these three wells continued until july 2000 . in august 2000
+this scenario changed and 612 , 388 was confirmed at dix ranch and nothing was
+scheduled at the big cowboy and big cowboy # 2 wells .
+from reading your memo below it also appears that more volume is flowing at
+these wells that we expected . if the issue is an actual increase in the
+volumes flowing at these wells , i would suggest that you call our gas
+measurement department and ask them to audit coral ' s charts . coral may be is
+calculating the volumes incorrectly .
+this could also be an allocations issue . the allocation as it is in the
+system today closely agrees with the allocation statement that i receive
+monthly from karen lambert at tejas . the only differences between the tejas
+schedule and what is in mops are the acock production and gain or loss which
+are not scheduled and therefore not allocated . i know that you are working
+on the acock production and tom acton and i are working on the gain / loss .
+tom will tell me how to path the gas so that i can set up accounting
+arrangements for april 1999 forward . scheduling will have analyze and
+possibly rework january through march 1999 because these months were
+originally set up in pops .
+i want to help , so if i have missed the issue ( s ) would you please clarify it
+or them for me and let me know if i need to do anything for you .
+thanks ,
+fred
+tom acton @ enron
+09 / 28 / 2000 08 : 10 am
+to : fred boas / hou / ect @ ect
+cc :
+subject : big cowboy for august
+- - - - - - - - - - - - - - - - - - - - - - forwarded by tom acton / corp / enron on 09 / 28 / 2000 08 : 09
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mary poorman
+09 / 27 / 2000 03 : 56 pm
+to : daren j farmer / hou / ect @ ect , tom acton / corp / enron @ enron
+cc : clem cernosek / hou / ect @ ect , howard b camp / hou / ect @ ect
+subject : big cowboy for august
+daren & tom ,
+beginning with august production , i noticed that big cowboy , into king ranch
+appeared to be flowing approximately 9 m over the nomination / day . per a
+conversation i had with fred boas today , i discovered that two wells with
+zero noms flowed a considerable volume .
+they are as follows :
+rocher big cowboy ( 27002 ) - 42 , 000 approx .
+big cowboy # 2 ( 27003 - 84 , 000 approx .
+total flow : 126 , 000 mm ' s , more or less
+i think that this may be part of the production increase which we are trying
+to account for , in addition to the acock production at the briscoe well which
+came on in august . please let me know what you think . i would like to make
+sure that we are capturing our purchases correctly for both accounting and
+our economics .
+thank you ,
+mary

@@ -1,0 +1,96 @@
+Subject: re : tetco / hpl ( enerfin ) meter # 986892
+steps 2 - 4 have been done .
+mary , since jackie is out tomorrow , you will need to verify the following
+information has flowed across to pops tomorrow morning ( check meter catalog ) .
+meter facility drn
+986892 515136 60217
+980439 501026 286715
+if there is a problem , then you will need to get with romeo .
+if everything is okay , you will need to let sherlyn know so she can set up
+accounting arrangements on meter 439 and you will need to enter them into
+pops .
+hc
+- - - - - - - - - - - - - - - - - - - - - - forwarded by howard b camp / hou / ect on 10 / 05 / 2000 04 : 27
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+howard b camp
+10 / 04 / 2000 01 : 06 pm
+to : sherlyn schumack / hou / ect @ ect , jackie young / hou / ect @ ect , rita
+wynne / hou / ect @ ect , donna consemiu / hou / ect @ ect , michael eiben / hou / ect @ ect ,
+rita wynne / hou / ect @ ect , daren j farmer / hou / ect @ ect , gary a hanks / hou / ect @ ect ,
+clem cernosek / hou / ect @ ect , howard b camp / hou / ect @ ect
+cc :
+subject : re : tetco / hpl ( enerfin ) meter # 986892
+step # 1 has been completed .
+sherlyn , verify step # 2 tomorrow and call me when completed .
+jackie , verify the nom on oct 4 & 5 . it appears there is still a volume for
+meter 6892 until oct 6 .
+if there are any questions or issues , contact me at 37649 . i am the contact
+person while clem is out ( through friday ) .
+hc
+- - - - - - - - - - - - - - - - - - - - - - forwarded by howard b camp / hou / ect on 10 / 04 / 2000 01 : 01
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+romeo d ' souza
+10 / 04 / 2000 12 : 40 pm
+to : clem cernosek / hou / ect @ ect
+cc : michael eiben / hou / ect @ ect , howard b camp / hou / ect @ ect
+subject : re : tetco / hpl ( enerfin ) meter # 986892
+clem ,
+i have completed setting the confirm = 0 for 986892 and reallocated
+all the days . they are all zero now , however 10 / 4 / 2000 and 10 / 5 / 2000
+still have a non - zero bav , these should get set to 0 by 10 / 6 . since
+allocation will not allocate these days till 10 / 6 gas date .
+r . d
+clem cernosek
+10 / 03 / 2000 05 : 19 pm
+to : donna consemiu / hou / ect @ ect , romeo d ' souza / hou / ect @ ect , sherlyn
+schumack / hou / ect @ ect , jackie young / hou / ect @ ect
+cc : michael eiben / hou / ect @ ect , rita wynne / hou / ect @ ect , pat
+clynes / corp / enron @ enron , daren j farmer / hou / ect @ ect , gary a
+hanks / hou / ect @ ect , victor lamadrid / hou / ect @ ect , howard b camp / hou / ect @ ect
+subject : tetco / hpl ( enerfin ) meter # 986892
+step i .
+romeo : please do step 1 today , 10 / 4 / 00 .
+1 . please change the confirmed noms to zero for all contracts that have be
+nominated for period 1 / 1 / 00 thru 10 / 31 / 00 for the above meter .
+2 . change the allocation method to " not allocatable " effective 1 / 1 / 99 .
+3 . please reallocate the meter for period 1 / 1 / 99 thru 10 / 31 / 00 .
+4 . call me after the above tasks have been completed .
+step ii .
+sherlyn : please check the following tommorrow , 10 / 5 / 00 .
+1 verify with settlements that the zero bav adjustment were received for
+all contract activities at meter 986892 for period 1 / 1 / 99 thru 9 / 30 / 00 .
+2 . after verification is complete , please call me .
+step iii .
+donna : i will call you tomorrow , 10 / 5 / 00 to inform when you can make the
+following changes :
+1 . change the meter # and drn # at facility # 501026 . this facility should
+be trade and nom " yes " .
+2 . change the meter # and drn # at facility # 515136 . this facility should
+be trade and nom " no " .
+3 . after completion , please call me as well as romeo ( x - 34544 ) .
+step iv .
+romeo : upon receiving a call from donna :
+1 . please make the appropriate changes or corrections in pops system for the
+facility changes made by global facilities dept . my understanding is that
+these changes can not be done automatically .
+2 . upon completion , please call me .
+step v .
+jackie :
+1 . tomorrow , 10 / 05 / 00 , after i am informed that romeo has made his changes ,
+i will let you know and you may begin scheduling meter # 0980439 which is the
+meter replacing # 0986892 .
+2 . after completion , please let me know .
+* * * * * * * *
+gary :
+this could create some problems for gas control , because all confirmed
+volumes will be zeroed including october , 2000 activities at meter 986892
+today ( 10 / 4 / 00 ) . this should correct itself within 24 thru 48 hours at
+meter # 980439 .
+daren :
+this could also create some issues for you , but remember , these issues should
+clear within 24 to 48 hours .
+victor :
+this is just for your information , since this should not create and changes
+for you .
+if anyone has any questions , please feel free to call me at x - 3665 o .
+thanks , clem

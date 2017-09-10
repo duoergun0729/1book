@@ -1,0 +1,48 @@
+Subject: texas market analysis
+team :
+i have asked troy denetsosie to be responsible for compiling and updating a detailed supply , market and infrastructure analysis of texas . this information will support both our origination and trading activities and we will use a lot of the format ( website and other ) developed by the other regions . spcifically , troy will offload a lot the analysis work that jd is currently doing on the market side and he will work closely with bryan hull to support the more immediate needs of the traders .
+the deliverables from troy will be : ( 1 ) a texas section on the gas fundamentals webpage modeled after the central region , ( 2 ) a daily report on gas flows , deals , basis positons , etc . , ( 3 ) a detailed infrastructure analysis ( maps , flows , etc ) that will support the development of our supply / market hub positions . please give him your support .
+regards ,
+brian
+- - - - - original message - - - - -
+from : bryan , gary
+sent : friday , september 21 , 2001 10 : 42 am
+to : redmond , brian
+subject : fw : crm database
+as you know , much of jd , mark and my time to date has been geared around finding what companies , customers , phone numbers and past business that we may have done with the customers we started with and move forward from that starting point . in the few short weeks we have addressed , uncovered and started down the road to what i hope to be a very profitable 2001 - 2002 .
+the crm database should be a great tool for those that follow . it appears that the originators would log in calls , meetings and any other business that gets discussed with the customer . this would have been a great tool for our group to have had in starting from ground zero .
+there still appears to be some developmental issues around this program . in the meantime , we are using a number of spreadsheets to keep up with our business . should the crm database not be approved or delayed , we have decided to populate the act 2000 ! database . this is currently supported by enron but is not as user friendly as the crm would be . the cost for act 2000 ! is relatively free !
+if you have any questions , please let me know .
+- - - - - original message - - - - -
+from : buss , jd
+sent : friday , september 21 , 2001 9 : 14 am
+to : bryan , gary ; knippa , mark ; redmond , brian
+subject : crm database
+on thursday of this past week i went to a meeting regarding the crm database which is designed by siebel for the purpose of handling customer information .
+the crm database has only been implemented with trading / origination groups within enron and provides the following capabilities :
+1 . account & contact management
+2 . activity tracking & planning
+3 . potential deal management
+4 . outlook synchronization
+5 . remote connectivity / synchronization
+6 . e - mail from siebel and records activity
+the current enron groups that use this system are the enron industrial markets that was implemented in may 2001 and the freight markets that was implemented in august 2001 . the following is a list of how these groups have been utilizing the system :
+industrial mkts freight mkts
+users 175 45
+counterparties 8 , 200 20 , 000
+contacts 14 , 000 20 , 000
+activities 1 , 200 900
+quotes 150
+opportunities 361 11
+the following groups have also inquired about this system and having it implemented :
+eol
+global mkts
+ees
+transportation
+east power orig
+insolvent debt
+some of the basic costs and timeline for this system are $ 120 - $ 150 , 000 for 20 - 30 users with a 5 week timeline for implementation . this is a basic implementation that may not include all of the functionality shown above ( i . e . , no remote connectivity ) .
+the reason that i have written this is to show a possible system that could be used by the gas floor origination and trading groups to manage contact information and share data among groups . the cost to implement this for all of the origination groups does not appear to be prohibitive and it could be implemented in a good time frame . some of the issues are coordination among the groups and the desire to share information . let me know if you think this is a viable possibility and what would be the best way to approach the other origination groups .
+colin tonks , database / system guy , within the fundamentals group was also at the meeting and thinks this would work great . he would be the individual coordinating efforts from the natural gas system side .
+thanks ,
+jd

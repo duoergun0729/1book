@@ -1,0 +1,25 @@
+Subject: hpl meter # 984179 hoff - heller unit # 22 cdp
+daren :
+during the period of 9 / 1 / 2000 through 9 / 13 / 2000 , the above meter has recorded
+flow on the following days :
+days mmbtus
+9 / 1 / 2000 4 , 873
+9 / 2 / 2000 4 , 968
+9 / 3 / 2000 4 , 970
+9 / 4 / 2000 4 , 816
+9 / 5 / 2000 5 , 039
+9 / 6 / 2000 4 , 971
+9 / 7 / 2000 4 , 971
+9 / 8 / 2000 1 , 419
+9 / 13 / 2000 58
+36 , 085
+deal # 135714 was at this meter , but the contract tied to this deal expired at
+the end of august 2000 . currently , these volumes are being booked to the
+hpl strangers gas contract . logistics need either ( 1 ) purchase contract
+# 96008903 tied to deal # 135714 extended , ( 2 ) new deal & contract , or ( 3 )
+approval to write - off these volumes to unaccounted for gas . ( please print ,
+sign , and return original to clem cernosek ) .
+deal / deal ticket # / customer ( seller / buyer ) / purchase contract
+or
+approval to write - off the volumes to unaccounted for gas loss
+thanks , clem

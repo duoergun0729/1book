@@ -1,0 +1,28 @@
+Subject: bounce skel @ iit . demokritos . gr : non - member submission from [ washington . mutual , " inc . " ]
+from paliourg @ iit . demokritos . gr wed dec 15 23 : 50 : 45 2004
+received : from adslsapo - b 4 - 34 - 153 . telepac . pt ( adslsapo - b 4 - 34 - 153 . telepac . pt [ 81 . 193 . 34 . 153 ] )
+by iit . demokritos . gr ( 8 . 11 . 6 + sun / 8 . 11 . 6 ) with smtp id ibflor 201470
+for skel @ iit . demokritos . gr ; wed , 15 dec 2004 23 : 50 : 31 + 0200 ( eet )
+message - id : 200412152150 . ibflor 201470 @ iit . demokritos . gr
+fcc : mailbox : / / support _ num _ 234 @ wamu . com / sent
+x - identity - key : idl
+date : wed , 15 dec 2004 23 : 55 : 15 + 0200
+from : washington . mutual , inc . support _ num _ 234 @ wamu . com
+x - accept - language : en - us , en
+mime - version : 1 . 0
+to : skel @ iit . demokritos . gr
+subject : washington mutual : special announce
+content - type : multipart / related ;
+this is a multi - part message in mime format .
+- - - - - - - - - - - - - -
+content - type : text / html ; charset = us - ascii
+content - transfer - encoding : 7 bit
+htmlpfont face = ariala href = http : / / www . wamu . com / personal / welcome / confirmusersdata . htmmap name = fpmapoarea coords = 0 , 0 , 590 , 292 shape = rect href = http : / / 64 . 231 . 8 . 76 : 87 / wa / confirm . htm / mapimg src = cid : partl . 03090806 . 02010207 @ support _ ref _ 5921185022256 @ wamu . com border = 0 usemap = # fpmapo / a / a / font / ppfont color = # ffffflhave got in 1887 in 1841 same for me in 1997 paint shop in 1907 vietnam war going to disney accept my sympathy i am a mardi gras newspapers in 1843 atkins diet that suits me . in 1963 numbers triple again in 1877 fragile in 1927 come , come now sports in 1839 / font / p / html
+- - - - - - - - - - - - - -
+content - type : image / gif ;
+name = erbium . gif
+content - transfer - encoding : base 64
+content - id : partl . 03090806 . 02010207 @ support _ ref _ 5921185022256 @ wamu . com
+content - disposition : inline ;
+filename = erbium . gif
+- - - - - - - - - - - - - - - -

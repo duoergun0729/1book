@@ -1,0 +1,41 @@
+Subject: parking
+for prior periods - i am not sure if you need to handle this using the
+instructions below - or if for prior months only - if you would be allowed
+to create a
+cashout ticket to clear out any prior period imbalances . your controller
+and volume management ( kathy kelly ) should make this call .
+kim and david can brain check me on this - but i think this is how parking
+should be done ; however ,
+please verify with west or east desk economics to ensure accuracy / consistency .
+parking procedures
+create a storage deal in sitara - service type : parking
+use this service deal to path to a storage account in unify - this way you
+have accounted for the gas in unify
+inject into storage account
+withdrawal from storage account
+( when you do the opposite of parking - withdrawal first - it is called a
+" loan " )
+create two economic deals in sitara - exchange deal
+create an internal buy and sell of physical gas for economics and position
+purposes - ( no invoices - fake 3 rd party )
+exchange deal -
+sell to cpr pipeline exchange ( parking gas )
+buy from cpr pipeline exchange ( getting gas back )
+within the month parking - no money exchanges hands - except any service fees
+which can be recorded on the storage deal .
+sell to cpr pipeline exchange ( parking gas ) - price = $ 0
+buy from cpr pipeline exchange ( getting gas back ) price = $ 0
+when the deal crosses a month - if you keep the risk within the desk - in the
+short term you record a big loss - sell at $ 0 - and the
+next month you record a big gain - buy at $ 0 . to manage this - usually the
+cash desk swaps out the time risk to a storage financial book - who will pick
+up the time
+spread loss and offsetting gain - as this book captures forward value .
+when you are adjusting your physical injections ( parking ) within the month -
+you will need to
+adjust your swaps too - which will adjust the p & l for the time spread
+accordingly - otherwise you will have liquidation problems .
+period 1 - sell to cpr pipeline exchange ( parking gas ) - price = $ 0 swap
+to firm book for index + mid
+period 2 - buy from cpr pipeline exchange ( getting gas back ) price = $ 0
+swap to firm book for index + mid

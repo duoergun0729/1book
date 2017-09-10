@@ -1,0 +1,6 @@
+Subject: revised deal tickets
+volumes have been revised on the following deal tickets effective 12 / 6 / 00 :
+deal # meter # trade zone from to
+126281 6296 1 4 , 000 4 , 500
+126289 9757 23 2 , 455 1 , 955
+bob

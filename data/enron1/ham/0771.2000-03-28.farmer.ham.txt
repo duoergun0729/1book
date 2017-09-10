@@ -1,0 +1,39 @@
+Subject: fyi - new product on eol
+just so everyone is on the same page :
+based on jennifer and dale ' s discussions with eric bass , a new " tokenized
+period " will be set up in eol . the intent of this period ( quick overview ) is
+to allow for gas flow monday through friday and no flow on the weekends .
+this will generally be traded for in full month or rest of the month
+increments .
+it is my understanding the although the trade can be conveyed correctly to
+the customer and priced accordingly using eol , the trade itself ( with
+multiple monday - friday , no flow during weekend periods ) cannot be handled
+internally by eol . just as eol is not able to handle this trade , the sitara
+bridge from eol cannot handle this trade . because of this , there should be
+heighten attention by trade capture given to the eol bridge monitor . these
+trades will error out and will have to be entered manually .
+an effort needs to be evaluated and prioritized by both applications ( eol and
+sitara ) on how a deal with multi - periods can flow without human
+intervention . this has not been started . in the meantime , a deal of this
+nature will have to be entered manually .
+how do i know that a particular deal has multi - period flow ? once the eol
+product has been set up , jennifer and / or dale will let all involved know .
+the person ( s ) responsible for entering the deal will have to understand what
+is meant by the eol product ' s delivery period and enter the deal
+accordingly .
+for example , assume that a deal has been traded for april :
+four delivery periods ( separate lines ) should be included in the sitara
+ticket
+start : 04 / 03 stop : 04 / 07
+04 / 10 04 / 14
+04 / 17 04 / 21
+04 / 24 04 / 28
+each delivery period ( line ) should have the same pricing
+remember to enter the eol deal number when creating the sitara trade .
+also remember that paths created in unify assume the stop date is open
+ended . every effort needs to be made to make sure the appropriate end date
+is on the path ; otherwise
+the number of reconciling items will increase .
+please forward this information to anyone else you think might be impacted .
+any concerns , please contact sheri thomas or myself .
+srm ( x 33548 )

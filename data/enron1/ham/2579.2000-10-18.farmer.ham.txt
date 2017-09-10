@@ -1,0 +1,9 @@
+Subject: re : saxet canales meter 980437 for august , 2000
+fred ,
+now that daren has the purchase in , i have added august to the deal ticket
+386540 which is the desk to desk at the meter ( 4584 on humble p / l , pathed as
+a buy / sell ) , and to deal ticket 386269 which is the transport usage ticket
+( from 4584 to meter 12 at the plant inlet , pathed on humble contract 401 ) .
+please set up the appropriate track id ' s . since this is offsystem , that
+should take care of the august issue .
+mary

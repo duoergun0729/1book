@@ -1,0 +1,18 @@
+Subject: enron mid - year 2000 performance management process
+enron ' s mid - year 2000 performance management process has begun . during this
+process , you will be required to select suggested reviewers who can provide
+performance related feedback on you and you may also be requested to provide
+feedback on fellow employees . you will need to do this by accessing the
+performance management system ( pep ) at http : / / pep . enron . com .
+any questions should be directed to the pep help desk at the following
+numbers :
+in the u . s . : 1 - 713 - 853 - 4777 , option 4
+in europe : 44 - 207 - 783 - 4040 , option 4
+in canada : 1 - 403 - 974 - 6724 ( canada employees only )
+or e - mail your questions to : perfmgmt @ enron . com
+to log on to pep , enter your user id and password provided below .
+once you have logged on , you will be immediately prompted to change to a
+secure password .
+your user id & password are :
+user id : jfarmerl 947
+password : welcome

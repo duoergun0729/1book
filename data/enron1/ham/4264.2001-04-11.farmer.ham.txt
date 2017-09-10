@@ -1,0 +1,6 @@
+Subject: duke deliveries to mobil
+apparently , we inadvertently rolled the duke delivery to mobil refinery into april and gas flowed to mobil via centana from duke april 1 , 2 , and 3 . i understand that there were no tickets entered into sitara to cover that flow , so i have captured the transaction in sitara utilizing the following tickets :
+# 727481 reflects the hplc purchase from duke on centana ' s pipe april 1 , 2 , 3 total volume estimated to be 21 , 490 mm
+# 538950 has been updated to show deliveries to mobil refinery off centana ' s pipe for the same time period , same volume
+# 727497 reflects hplc selling the gas back to duke ( payback ) at the same price it was purchased , a volume of 10 , 000 mm for 4 / 12 , at meter 7001
+please let me know if there are any questions . if i ' ve screwed something up , my apologies ! !

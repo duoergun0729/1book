@@ -1,0 +1,43 @@
+Subject: fw : unify exception list
+all :
+from matt ' s response it sounds like you might want to specify exception personnel for 8 - 12 , 12 thru 4 : 00 , and 4 thru 6 normal business hours and not end of the month , holidays or long weekends .
+rp
+- - - - - original message - - - - -
+from : pena , matt
+sent : friday , october 12 , 2001 1 : 03 pm
+to : pinion , richard
+subject : re : unify exception list
+yes , you are correct . when we watchdog , we ' ll most likely do vm and settlements and not pm . but , in the afternoon , if they need payments out the door , pm will get it . it goes both ways . so , if you send me who needs to be in the system no matter what , that would help .
+you are correct , 8 - 12 is logistics critical , and after that it ' s anyones guess .
+- - - - - original message - - - - -
+from : pinion , richard
+sent : friday , october 12 , 2001 11 : 38 am
+to : pena , matt
+subject : fw : unify exception list
+based on victor ' s response , i think there is some confusion . there are actually several critical time periods depending on the group and time of day . perhaps to eliminate the confusion you could specify which time period you are going to watchdog . i interpreted it to mean the 8 - 12 am period but victor was thinking the afternoon . depending on the time there might be different people who should be kicked out .
+rp
+- - - - - original message - - - - -
+from : lamadrid , victor
+sent : friday , october 12 , 2001 11 : 00 am
+to : sullivan , patti ; pena , matt
+cc : warner , john ; hall , bob m ; rao , ramesh ; sengupta , jayanta ; nguyen , ben ; melethil , anwar ; baxter , bryce ; bussell l , kathryn ; dawes , cheryl ; greif , donna ; hall , bob m ; heal , kevin ; jaquet , tammy ; kinsey , lisa ; lakho , shahnaz ; machleit , shirley ; mcclure , mark ; olinger , kimberly s . ; pinion , richard ; reeves , leslie ; smith , george f . ; staab , theresa ; superty , robert ; wynne , rita
+subject : re : unify exception list
+the critical users on the east desk using path manager will be meredith homco , clarissa garcia , christina sanchez and victor lamadrid . if you could alert us as to when y ' all are invoking watchdog to kick logistics out , that would be great . thanks
+- - - - - original message - - - - -
+from : sullivan , patti
+sent : friday , october 12 , 2001 9 : 42 am
+to : pena , matt
+cc : warner , john ; hall , bob m ; rao , ramesh ; sengupta , jayanta ; nguyen , ben ; melethil , anwar ; baxter , bryce ; bussell l , kathryn ; dawes , cheryl ; greif , donna ; hall , bob m ; heal , kevin ; jaquet , tammy ; kinsey , lisa ; lakho , shahnaz ; lamadrid , victor ; machleit , shirley ; mcclure , mark ; olinger , kimberly s . ; pinion , richard ; reeves , leslie ; smith , george f . ; staab , theresa ; superty , robert ; wynne , rita
+subject : re : unify exception list
+the west desk critical users will all use path manager . the users will be shannon groenewold , daniel lisk , suzanne christiansen , corey wilkes , jackie adams , shelly mendel , stacey brewer , walt spiegelhauer and starting next week joshua blair .
+- - - - - original message - - - - -
+from : pena , matt
+sent : thursday , october 11 , 2001 8 : 37 pm
+to : baxter , bryce ; bussell l , kathryn ; dawes , cheryl ; greif , donna ; hall , bob m ; heal , kevin ; jaquet , tammy ; kinsey , lisa ; lakho , shahnaz ; lamadrid , victor ; machleit , shirley ; mcclure , mark ; olinger , kimberly s . ; pinion , richard ; reeves , leslie ; smith , george f . ; staab , theresa ; sullivan , patti ; superty , robert ; wynne , rita
+cc : warner , john ; hall , bob m ; rao , ramesh ; sengupta , jayanta ; nguyen , ben ; melethil , anwar
+subject : unify exception list
+going forward , as a precautionary measure , we will begin locking users out of the system if the need arises . we will use our watchdog application in order to initiate this process . we will do so only as a last resort and will notify you that we will be doing this . our reasons for doing this are mainly to ensure the critical system resources are provided to the users that need them the most .
+the old list we had from sybase no longer exists . i need your help in putting together a new list . please provide the list of people who are absolutely critical users that have to be on the system . obviously , the situation isn ' t remedied if everyone is an exception user : )
+please provide user name and application they need ( i . e . volume management , settlements , path manager ) .
+the sooner i get this , the sooner we can get this implemented .
+thanks !

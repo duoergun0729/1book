@@ -1,0 +1,14 @@
+Subject: enrononline - change to autohedge
+effective monday , october 22 , 2001 the following changes will be made to the autohedge functionality on enrononline .
+the volume on the hedge will now respect the minimum volume and volume increment settings on the parent product . see rules below :
+? if the transaction volume on the child is less than half of the parent ' s minimum volume no hedge will occur .
+? if the transaction volume on the child is more than half the parent ' s minimum volume but less than half the volume increment on the parent , the hedge will volume will be the parent ' s minimum volume .
+? for all other volumes , the same rounding rules will apply based on the volume increment on the parent product .
+please see example below :
+parent ' s settings :
+minimum : 5000
+increment : 1000
+volume on autohedge transaction volume hedged
+1 - 2499 0
+2500 - 5499 5000
+5500 - 6499 6000

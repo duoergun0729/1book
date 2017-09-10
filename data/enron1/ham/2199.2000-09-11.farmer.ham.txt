@@ -1,0 +1,84 @@
+Subject: re : duke exchange deal
+daren -
+thanks for completing feb 2000 cashout .
+could you also enter a demand fee into sitara for march and april 2000 ?
+march 2000
+sales ticket # 157278
+$ 0 . 00 dollars due hplc
+purchase ticket # 157288
+$ 3 , 526 . 98 dollars due duke
+i have attached my spreadsheet for support :
+column h is the over - delivery quantity total is 24 , 452 mmbtus
+column t is the daily dollar amount for the over - delivery quantity due hplc
+$ 0 . 00
+column u is the daily dollar amount for the over - delivery quantity due the
+customer $ 3 , 526 . 98 .
+april 2000
+sales ticket # 157278
+$ 1 , 507 . 56 dollars due hplc
+purchase ticket # 157288
+$ 1 , 549 . 82 dollars due duke
+i have attached my spreadsheet for support :
+column h is the over - delivery quantity total is 53 , 206 mmbtus
+column t is the daily dollar amount for the over - delivery quantity due hplc
+$ 1 , 507 . 56
+column u is the daily dollar amount for the over - delivery quantity due the
+customer $ 1 , 549 . 82
+thanks -
+katherine
+5 - 8643
+- - - - - - - - - - - - - - - - - - - - - - forwarded by katherine herrera / corp / enron on
+09 / 11 / 2000 09 : 12 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+daren j farmer @ ect
+09 / 05 / 2000 11 : 25 am
+to : katherine herrera / corp / enron @ enron
+cc :
+subject : re : duke exchange deal feb . 2000 prod .
+done .
+katherine herrera @ enron
+09 / 05 / 2000 10 : 14 am
+to : daren j farmer / hou / ect @ ect
+cc : kristen j hanson / hou / ect @ ect
+subject : re : duke exchange deal feb . 2000 prod .
+daren ,
+i believe the best way to enter the fee into sitara would be as a demand fee
+in your example # 1 .
+if we do the fee this way , we will not double up the volumes .
+i have attached my spreadsheet for support :
+the most current worksheet is tab # 2 marked final
+column g is the over - delivery quantity total is 17 , 278 mmbtus
+column s is the daily dollar amount for the over - delivery quantity due hplc
+$ 1 , 008 . 87
+column t is the daily dollar amount for the over - delivery quantity due the
+customer $ 519 . 73 .
+thanks -
+katherine
+5 - 8643
+daren j farmer @ ect
+08 / 31 / 2000 05 : 49 pm
+to : katherine herrera / corp / enron @ enron
+cc :
+subject : re : duke exchange deal feb . 2000 prod .
+katherine ,
+there are 2 ways that i can enter this fee into sitara :
+1 ) i can put the dollar amount in on day 1 as a demand or facility fee .
+2 ) i need you to give me volume ( s ) and a price to input into the deal . i
+can ' t just input a dollar amount in sitara .
+let me know how you want to handle it .
+d
+katherine herrera @ enron
+08 / 31 / 2000 05 : 28 pm
+to : daren j farmer / hou / ect @ ect
+cc : kristen j hanson / hou / ect @ ect
+subject : duke exchange deal feb . 2000 prod .
+cashout
+please add the following fees for feb . 2000 :
+fee type :
+natural gas
+physical forward
+penalty for over / under take
+sales ticket # 157278
+$ 1 , 008 . 87 dollars due hplc
+purchase ticket # 157288
+$ 519 . 73 dollars due duke
+thanks - katherine

@@ -1,0 +1,34 @@
+Subject: sitara position
+please use the position manager home button .
+when using the sitara position manager , and you drill down to view details
+or change the dates , the position manager keeps
+all your views running in the background . this feature allows you to use the
+back and forward buttons to keep your views running .
+on the downside , if you keep these views running but do not really intend to
+go back to look at them , the system and your pc are working harder
+to keep all the old views active and updated .
+the home button sends you back to your default view - the first view you had
+up when you hit apply . by clicking this button , your
+position manager will clear out the old views the next time you drill in .
+this is the only way to clear out the old views that you no longer need .
+if you do not use the home key , and keep drilling in and changing the dates ,
+the position manager is still keeping all the your views for
+the day running in the backgound .
+what we have found is by the end of the day , a user that does not clear out
+the old views can have well over 30 views open , which is like having
+30 position managers up on your pc . when that user closes down , the position
+gets locked up for a while as it tries to clear out all the old views .
+we will be making some changes soon to that should resolve this issue as far
+as the sitara machine is concerned ; however , your pc may still be
+slow with excessive unneccessary views open . we could make a change to
+limit the number of active views you can have open , but at this time
+i am not sure that is necessary ; regardless , in the mean time , please
+remember to use your home button .
+other helpful hints -
+did you know you can shrink you tool bar ? tools options - uncheck show tool
+bar text labels -
+did you know you can split your position screen to have pipes on top and
+zones and meters below ? tools options - show drill down second panel -
+if you have an omicron position porfolio - your min / max button shows you
+actual - and min / max for your day swing deals .
+same works for nom flex portfolio .

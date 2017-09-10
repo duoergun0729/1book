@@ -1,0 +1,208 @@
+Subject: 
+to _ cc _ default _ handler
+subject : [ spam ? ] no prescription required on u . s . based pharmacy
+date : tue , 10 feb 2004 10 : 12 : 43 + 0600
+mime - version : 1 . 0
+content - type : multipart / alternative ;
+boundary = - - 0614842809561657
+x - originating - ip : 143 . 233 . 6 . 1
+- - - - 0614842809561657
+content - type : text / html ;
+content - transfer - encoding : quoted - printable
+htmlheadtitle 4 n / title
+meta http - equiv = 3 dcontent - type content = 3 dtext / html ; charset = 3 dwindows - 12 =
+52
+meta content = 3 dmshtml 6 . 00 . 2600 . 0 name = 3 dgenerator / head
+body bgcolor = 3 d # ffffff leftmargin = 3 do topmargin = 3 do marginheight = 3 do ma =
+rginwidth = 3 do
+pfont color = 3 d # fffffc size = 3 d 26 s oz lq
+2 o 8 f / font / p
+div
+table cellspacing = 3 d 2 cellpadding = 3 d 2 width = 3 d 600 border = 3 do
+tbody
+tr
+td width = 3 d 72 % div align = 3 dcenter / div
+table width = 3 d 98 % border = 3 do align = 3 dcenter cellpadding = 3 d =
+2 cellspacing = 3 d 2
+tr
+td width = 3 d 55 % valign = 3 dtoppfont color = 3 d # ffo 000 =
+size = 3 d 4 face = 3 darial , helvetica , sans - serifbdiscount
+prices on popular meds from a u . s . pharmacy . / b / font =
+/ p
+pfont face = 3 darial size = 3 d 2 join the millions of people =
+who are
+tired of the hassle with the insurance companies and doc =
+tors ! br
+br
+/ fontfont face = 3 darial color = 3 d # 000000 size = 3 d 2 a
+href = 3 dhttp : / / www . getwebrx . com / target = 3 d _ blankfont size = 3 d =
+4 pay
+less for your drugs amp ; get more for your $ $ $ br
+br
+/ font / a / fontfont face = 3 darial size = 3 d 2 we carry a =
+ll of the
+well - known drugs available and most of the unknown as we =
+ll . br
+br
+/ fontfont color = 3 d # ffo 000 size = 3 d 4 face = 3 darial , =
+helvetica , sans - serifstrongdon ' t
+waste your time at the doctor ' s office ! / strong / font =
+br
+font face = 3 darial size = 3 d 2 br
+all prescriptions are free ! our qualified physicians are =
+standing
+by to serve you . / fontfont face = 3 darial
+color = 3 dwhite size = 3 dle / font / p
+pfont face = 3 darial size = 3 d 2 a
+href = 3 dhttp : / / www . getwebrx . com / target = 3 d _ blankvisit our site tod =
+ay / a
+and let us help you help yourself ! / fontfont face = 3 dar =
+ial
+color = 3 dwhite size = 3 dlcall / fontfont face = 3 darial size = 3 d 2 br
+/ fontfont face = 3 darial size = 3 d 2 / font / p / td
+td width = 3 d 45 % valign = 3 dtop div align = 3 dcenterfon =
+t face = 3 darial color = 3 dnavy size = 3 d 3 strongwe
+currently have specials on the following items : / strong =
+/ fontbr
+/ div
+table width = 3 dl 02 % border = 3 do cellspacing = 3 d 3 cellp =
+adding = 3 d 3
+tr bgcolor = 3 dflf 1 f 5
+td width = 3 d 50 % div align = 3 dleftfont color = 3 d # =
+ffffffstrongfont color = 3 d # 000000 size = 3 d 2 face = 3 darialfioricet
+/ fontfont size = 3 d 2 face = 3 darialfont color = 3 d =
+# ffffffstrongfont color = 3 d # cco 033 gt ; / fontfont color = 3 d # ccffo 0 =
+font color = 3 d # ffo 000 gt ; / font / font / strong / font
+/ font / strong / fontfont color = 3 d # 000000 siz =
+e = 3 d 2 face = 3 darialbr
+relieves headache pain and migraine headaches / fon =
+t / div / td
+td width = 3 d 50 % valign = 3 dtopdiv align = 3 dleft =
+font color = 3 d # ffffffstrongfont color = 3 d # 000000 size = 3 d 2 face = 3 dari =
+alambien
+/ fontfont size = 3 d 2 face = 3 darialfont color = 3 d =
+# ffffffstrongfont color = 3 d # ffffffstrongfont color = 3 d # ffffff =
+strongfont size = 3 d 2 face = 3 darialfont color = 3 d # ffffffstrongfont c =
+olor = 3 d # cco 033 gt ; / fontfont color = 3 d # ccffo 0 font color = 3 d # ffo 000 =
+gt ; / font / font / strong / font / font / strong / fontfont color = 3 d =
+# ccffo 0 / font / strong / font / strong / font
+/ font / strong / fontfont color = 3 d # 000000 siz =
+e = 3 d 2 face = 3 darialbr
+cures insomnia amp ; other sleep disorders / font =
+/ div / td
+/ tr
+tr bgcolor = 3 dflf 1 f 5
+tddiv align = 3 dleftfont color = 3 d # ffffffstron =
+gfont color = 3 d # 000000 size = 3 d 2 face = 3 darialtramadol
+/ fontfont size = 3 d 2 face = 3 darialfont color = 3 d =
+# ffffffstrongfont color = 3 d # ffffffstrongfont size = 3 d 2 face = 3 dari =
+alfont color = 3 d # ffffffstrongfont color = 3 d # cco 033 gt ; / fontfon =
+t color = 3 d # ccffo 0 font color = 3 d # ffo 000 gt ; / font / font / strong / f =
+ont / font / strong / fontfont color = 3 d # ccffo 0 / font / strong / font =
+/ font / strong / fontfont color = 3 d # 000000 siz =
+e = 3 d 2 face = 3 darialbr
+alleviates mild / mild - severe levels of pain through =
+out
+body / font / div / td
+td valign = 3 dtopdiv align = 3 dleftfont color = 3 d =
+# ffffffstrongfont color = 3 d # 000000 size = 3 d 2 face = 3 darialprilosec
+/ fontfont size = 3 d 2 face = 3 darialfont color = 3 d =
+# ffffffstrongfont color = 3 d # ffffffstrongfont color = 3 d # ffffff =
+strongfont size = 3 d 2 face = 3 darialfont color = 3 d # ffffffstrongfont c =
+olor = 3 d # cco 033 gt ; / fontfont color = 3 d # ccffo 0 font color = 3 d # ffo 000 =
+gt ; / font / font / strong / font / font / strong / fontfont color = 3 d =
+# ccffo 0 / font / strong / font / strong / font
+/ font / strong / fontfont color = 3 d # 000000 siz =
+e = 3 d 2 face = 3 darialbr
+treats acid reflux disease , extreme heartburn / fon =
+t / div / td
+/ tr
+tr bgcolor = 3 dflf 1 f 5
+tddiv align = 3 dleftfont face = 3 darial size = 3 d 2 s =
+trongdidrex / strong
+font color = 3 d # ffffffstrong font color = 3 d # f =
+fffffstrongfont color = 3 d # ffffffstrongfont color = 3 d # ffffffst =
+rongfont size = 3 d 2 face = 3 darialfont color = 3 d # ffffffstrongfont col =
+or = 3 d # cco 033 gt ; / fontfont color = 3 d # ccffo 0 font color = 3 d # ffo 000 =
+gt ; / font / font / strong / font / font / strong / fontfont color = 3 d # c =
+font face = 3 darial size = 3 d 2 br
+an appetite suppressant to help reduce weight / fon =
+tfont face = 3 darial color = 3 dwhite
+size = 3 dlnbsp ; / font / div / td
+td valign = 3 dtopdiv align = 3 dleftfont color = 3 d =
+# ffffffstrongfont color = 3 d # 000000 size = 3 d 2 face = 3 darialprozac / fon =
+tfont size = 3 d 2 face = 3 darial
+/ fontfont color = 3 d # ffffffstrongfont size = 3 d =
+2 face = 3 darialfont color = 3 d # ffffffstrongfont color = 3 d # cco 033 gt =
+; / fontfont color = 3 d # ccffo 0 font color = 3 d # ffo 000 gt ; / font / font =
+/ strong / font / font / strong / font / strong / fontfont color = 3 d # 000 =
+000 size = 3 d 2 face = 3 darialbr
+for depression , ocd and / or eating disorders / font =
+font face = 3 darial color = 3 d # 000000
+size = 3 dlnbsp ; / font / div / td
+/ tr
+tr bgcolor = 3 dflf 1 f 5
+td colspan = 3 d 2 div align = 3 dleftfont color = 3 d # =
+ffffffstrongfont color = 3 d # 000000 size = 3 d 2 face = 3 darialphentermine =
+/ fontfont size = 3 d 2 face = 3 darialfont color = 3 d =
+# ffffffstrongfont size = 3 d 2 face = 3 darialfont color = 3 d # ffffffstro =
+ngfont color = 3 d # cco 033 gt ; / fontfont color = 3 d # ccffo 0 font color = 3 d =
+# ffo 000 gt ; / font / font / strong / font / font / strong / fontfont c =
+olor = 3 d # ccffo 0 / font
+/ font / strong / fontfont color = 3 d # 000000 siz =
+e = 3 d 2 face = 3 darialbr
+helps eliminate excess body - fat / font / div / td
+/ tr
+/ table
+p align = 3 dcenterfont face = 3 darial size = 3 d 2 / fontf =
+ont face = 3 darial size = 3 dla href = 3 dhttp : / / to . getwebrx . com /
+target = 3 d _ / a / fontfont face = 3 d =
+arial size = 3 d 2
+/ font / p
+/ td
+/ tr
+/ table
+font face = 3 darial size = 3 dlnbsp ; / font / td
+/ tr
+tr
+td pfont face = 3 darial color = 3 dwhite size = 3 dlatbukwvlkcg / fo =
+nt / p
+pfont face = 3 darial size = 3 dl / td
+/ tr
+/ tbody
+/ table
+/ div
+div class = 3 dsectionl
+table cellspacing = 3 do cellpadding = 3 do width = 3 d 89 % border = 3 do
+tbody
+tr
+td
+pnbsp ; / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenter . / p
+p align = 3 dcenternbsp ; / p
+p align = 3 dcenterfont color = 3 d # ccffff size = 3 d 29 m 5 t
+7 e ot 8 n 6 f
+6 h 2 a lv ly 6 k
+9 e 2 h 4 g 2 x 2 g
+4 x 4 h 5 p / font / p
+p align = 3 dcenter . / p
+pnbsp ; / p
+p align = 3 dleftfont color = 3 d # ffffff size = 3 dl - - - - - begin pgp
+signature - - - - - brversion : pgp 8 . 0 . 2 - not licensed for commercial u =
+se :
+www . pgp . com / font / p
+pfont color = 3 d # ffffff
+pgp signature - - - - - / fontfont color = 3 d # cccccc size = 3 dlbr / font =
+font
+size = 3 dl / font / p / td / tr / tbody / table
+pnbsp ; / p
+pfont face = 3 darial size = 3 dl / font / p / div / body / html
+tttl 08 l 2 m
+- - - - 0614842809561657 - -

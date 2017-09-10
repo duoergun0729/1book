@@ -1,0 +1,10 @@
+Subject: enron / hpl actuals for september 29 - october 1 , 2000 - revision # 1
+friday , september 29 , 2000
+teco tap 16 . 187 / enron ; 94 . 230 / hpl gas daily
+hpl ls katy no flow
+saturday , september 30 , 2000
+teco tap 47 . 917 / hpl gas daily
+hpl ls katy no flow
+sunday , october 1 , 2000
+teco tap 45 . 000 / enron ; 7 . 083 / hpl iferc
+hpl ls katy 15 . 000 / enron

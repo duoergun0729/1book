@@ -1,0 +1,14 @@
+Subject: deals under wrong counterparty from weekend
+i need some assistance getting these deals corrected in the system for the
+weekend , so that i can get my errors clear . i have tried to change the
+counterparty , but i am not able . jackie is out again today , so , i will be
+behind the proverbial 8 - ball and would greatly appreciate your help clearing
+these things up .
+deal ticket 468688 p - mgi is in system as hplc purch . the correct entity is
+ena im texas , ena made the orig . sale
+deal ticket 468110 d 2 d to deliver to central desk at humble is on ena , these
+tickets have always been hplc and not ena .
+please let me know if there is anything that i can do to speed the process .
+i need to have all of my errors clean today .
+thank you ,
+mary

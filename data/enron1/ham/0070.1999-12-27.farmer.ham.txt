@@ -1,0 +1,42 @@
+Subject: re : ua 4 - meter 1441 for 11 / 97 - falfurrias
+howard - the above meter indicates a daily swing with no one in volume
+management ' s initials in oss . i need some information for daren before it
+can be determined if a deal should be set up to cover the 089 contract for
+11 / 97 forward .
+i ' ve done some research as follows :
+1 / 95 shows delivery on transport contract # 012 - 82269 - 02 - 002 ( southeastern
+marketing co . as counterparty )
+1 / 96 thru 10 / 31 / 97 shows delivery on transport contract # 012 - 27182 - 02 - 001
+( esperanza marketing corp as counterparty ) .
+11 / 97 thru 12 / 97 shows delivery on 089 - 41500 - 102
+1 / 98 shows delivery on 089 - 41500 - 101
+no other transactions at this meter since 1 / 98 .
+some questions i need answered are - why was volume allocated to transport
+contracts through 10 / 31 / 97 and then started to be allocated to the 089
+contract later ? are the transport contracts no longer valid to allocate to
+and is that the reason the 089 contract was used ? or should the transport
+contract be allocated to instead of the 089 contract for 11 / 97 forward ? each
+item indicates a delivered volume , so either a transport or sale is taking
+place .
+all the information that is supplied on the ua 4 report is need a contract for
+9 , 448 mmbtu .
+since the meter was assigned to someone else during this timeframe before it
+was assigned to me , it ' s difficult to know why the 089 contract was ever used
+for allocation and since there are no other records such as deal tickets in
+cpr or oss .
+need help , stella
+daren j farmer
+12 / 22 / 99 07 : 14 am
+to : stella l morris / hou / ect @ ect
+cc :
+subject : re : ua 4 - meter 1441 for 11 / 97 - falfurrias
+what occurred at this point in prior months ? who was allocated the volume ?
+d
+from : stella l morris 12 / 16 / 99 06 : 04 pm
+to : daren j farmer / hou / ect @ ect
+cc : mary m smith / hou / ect @ ect , howard b camp / hou / ect @ ect
+subject : ua 4 - meter 1441 for 11 / 97 - falfurrias
+daren - i need your help in resolving this issue . there wasn ' t any deal in
+oss for the above reference meter , nor could i find anything in cpr . the
+contract shows 089 - 41500 - 102 representing a sale in the amount of 9448 .
+thanks , stella

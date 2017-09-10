@@ -1,0 +1,6 @@
+Subject: attention : changes in remote access
+please be aware that remote connectivity into the enron network has changed , ipass is no longer available . remote connectivity into enron may be obtained by using the econnect solution . authorization to use econnect may be requested via the erequest system ( you will find a link to erequest on http : / / itcentral . enron . com ) .
+email is accessible from any computer with internet connectivity by logging into outlook web access http : \ \ mail . enron . com with your nt login id and password . accessing owa does not require an econnect connection .
+please direct all questions or concerns to the resolution center at 713 - 853 - 1411
+ets customers should direct inquiries to the ets solution center at 713 - 345 - 4745
+we appreciate your cooperation in advance

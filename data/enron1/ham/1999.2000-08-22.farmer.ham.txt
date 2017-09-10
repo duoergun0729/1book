@@ -1,0 +1,8 @@
+Subject: revision # 2 - enron / hpl actuals for august 21 , 2000
+correct numbers :
+teco tap 31 . 876 / hpl gas daily ; 44 . 374 / hpl iferc
+20 . 000 / enron @ teco tap
+ls hpl lsk ic 20 . 000 / enron
+previous numbers :
+teco tap 76 . 250 / hpl iferc ; 20 . 000 / enron
+ls hpl lsk ic 20 . 000 / enron

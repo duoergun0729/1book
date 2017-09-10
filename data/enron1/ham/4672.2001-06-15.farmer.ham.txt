@@ -1,0 +1,25 @@
+Subject: re : gas nom ' s
+we ' ve talked this over at this end and agree we should be taking the following approach :
+remind brazos that under exhibit 7 . 12 , page 2 of the ppa , brazos is precluded on any gas day from taking a greater volume of gas than the plant ' s mdq ( 45 , 000 dth / d ) less the amount needed to satisfy its generation request .
+the partnership will accept total gas nominations as generation first , gas for resale second . if brazos ' electric nominations by hour would , given ambient conditions , cause us to use at or above the plant ' s mdq under its contracts with apache / williams ( 45 , 000 dth / d ) , gas nominations will be zero . this needs to be handled between the operators . i ' ve emphasized " at or above " on purpose ; if an all electric nomination would cause brazos to burn in excess of 45 , 000 dth per day , we will honor that request ( we ' re looking at this with the attorneys and may choose at a future date to change the way this has been administered in the past , as this situation currently causes the partnership to incur an economic loss ) .
+after being notified of the need for a schedule adjustment , brazos is free to reset its hourly electric nominations to allow for gas deliveries to the extent it desires ( provided they ' re still capped at 45 , 000 dth / d if they take gas ) . whenever they go this route , however , we need to hold them to the electric nomination ( i . e . , they should get a courtesy call from an operator each and every time they go over the nominated electricity amount ) . remind brazos that under the ppa , they will be billed for penalties associated with not adhering to their electric nominations on days on which they ' ve elected to take gas .
+if the issue of precedent comes up , remind them that we ' re operating in a new territory and that electric - gas nominations have only been made over the past 7 months ; it wasn ' t until recently that we ' ve been able to attribute imbalance penalties to brazos , which has caused us to look at the scheduling provisions of the agreement much more closely .
+as a show of good faith , we should also make an attempt to track gas consumed / nominated for redelivery and advise them toward the end of the month of opportunities to up their gas nominations .
+hope this helps to clarify where we are .
+rh
+- - - - - original message - - - - -
+from : " ken riesz " @ enron [ mailto : imceanotes - + 22 ken + 20 riesz + 22 + 20 + 3 cken + 2 eriesz + 40 naes + 2 ecom + 3 e + 40 enron @ enron . com ]
+sent : friday , june 15 , 2001 4 : 27 pm
+to : mazowita , mike ; hill , garrick ; ward , charles
+subject : gas nom ' s
+chuck ,
+i just wanted to make sure everyone has the same undertstanding of the gas
+nominations and usage issue . today with this most recent daily nomination
+revision from brazos , brazos ( waco ) now understands that we are going to hold
+them to 45 , 000 mbtu ' s when they are requesting electrical generation and gas
+energy . however , i want everone of us to understand that a nomination from
+brazos for a 6312 mwh , s ( 263 / hr ) , will require the plant to utilize 47 , 500 to
+48 , 500 mbtu ' s at this ambient temperature to deliver the requested energy .
+to allow brazos any gas the total delivered electrical energy would have to
+be something less than 258 mw loading per hour .
+regards , ken

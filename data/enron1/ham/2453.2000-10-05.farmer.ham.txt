@@ -1,0 +1,7 @@
+Subject: re : duke cashout entries 5 / 00 and 6 / 00
+i am having trouble pulling in the demand charge for 6 / 00 on deal 157278 for
+$ 1 , 129 . 09 . the only thing that is different from may is that the demand
+volume is 0 . i think it needs to be a 1 for the charge to come through .
+please take a look .
+thanks ,
+megan

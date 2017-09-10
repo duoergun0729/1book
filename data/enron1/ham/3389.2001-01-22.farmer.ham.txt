@@ -1,0 +1,27 @@
+Subject: weekend oncall notes
+friday 1 / 19 / 01 - received a call from sheila at basin regarding a well which
+may be coming on this weekend ( meter 9696 ) . phone lee in gas control
+regarding same . lee informed me that hpl would prefer that the volumes are
+not brought on until a field tech can pull a sample and verify that there are
+no liquids involved . lee further informed me that the same day to tejas at
+hardy was not in the system , and , per gary hanks , needed to be corrected .
+lee informed me that the volumes were actually split 10 m at hardy / tejas and
+10 m at lomax . i went into sitara and updated the deal ticket , pathed and
+nominated over to pops .
+saturday 1 / 20 / 01 - 8 : 30 am sean paged regarding the nomination at dow
+freeport , he was questioning the validity , as we do not often flow at this
+meter . i checked and the nomination was good for saturday ' s gas day . sean
+informed me that the valero refinery was up and down and would be going
+completely down on sunday .
+10 : 00 am - sean called regarding tejas laporte , meter 665 . apparently , the
+meter had a confirmed volume of 20 m and hpl / ena had no deal at the meter .
+checked in pops and discovered that the deal was confirmed at 20 m on a deal
+volume of zero . informed sean that the tejas volume was confirmed . also ,
+per sean koch george west ( meter 6722 ) had a nomination increase of 10 m ,
+which he wanted to confirm .
+sunday 1 / 21 / 01 10 : 00 am sean paged regarding the dow meter 1442 , pops still
+showed a confirmed voume of 10 m which dow and oasis showed at zero for
+sunday . i checked the system and confirmed that the meter was indeed at
+zero and phoned sean back to confirm . checked on mtp hardy , sean informed me
+that we came in on rate for saturday and that current meter activity looked
+good .

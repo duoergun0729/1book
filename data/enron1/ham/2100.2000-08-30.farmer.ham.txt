@@ -1,0 +1,22 @@
+Subject: done : new sitara desk request ( ref cc # 20000813 )
+carey ,
+per scott ' s request below the following business unit ( aka : desk id ,
+portfolio ) was added to global production and unify development , test ,
+production and stage . please copy to the other global environments .
+thanks ,
+dick , x 3 - 1489
+updated in global production environment gcc code desc :
+p ent subenti data _ cd ap data _ desc code _ id
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+a sit deskid imcl a ena - im cleburne 9273
+from : scott mills 08 / 30 / 2000 08 : 27 am
+to : samuel schott / hou / ect @ ect , richard elwood / hou / ect @ ect , debbie r
+brackett / hou / ect @ ect , judy rose / hou / ect @ ect , vanessa
+schulte / corp / enron @ enron , david baumbach / hou / ect @ ect , daren j
+farmer / hou / ect @ ect , dave nommensen / hou / ect @ ect , donna greif / hou / ect @ ect ,
+shawna johnson / corp / enron @ enron , russ severson / hou / ect @ ect
+cc :
+subject : new sitara desk request
+this needs to be available in production by early afternoon . sorry for the
+short notice .
+srm ( x 33548 )

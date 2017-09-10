@@ -1,0 +1,21 @@
+Subject: re : physical curve mappings _ sitara
+i would much rather add the thompsonville now . . . o
+- - - - - original message - - - - -
+from : farmer , daren j .
+sent : monday , january 7 , 2002 2 : 04 pm
+to : winfree , o ' neal d .
+subject : re : physical curve mappings _ sitara
+ow ,
+i went through the list on the sort by pipe and highlighted the curves / mapping we can delete ( yellow ) and those we can change ( orange ) . the only curves we will have left are katy , waha , hsc , agua dulce , and thompsonville . i expect to be using thompsonville in 6 months to a year . if it easier or cleaner to delete that curve and add it when we need it , that will be fine . let me know if you have any questions .
+>
+d
+- - - - - original message - - - - -
+from : winfree , o ' neal d .
+sent : monday , january 07 , 2002 12 : 55 pm
+to : farmer , daren j . ; baumbach , david ; olsen , michael
+cc : martin , thomas a .
+subject : physical curve mappings _ sitara
+hey gang ,
+attached are the physical curve mappings as provided by russ severson . . . please take a peek and let us know if we need to change , add / delete , update any points / mappings going forward in a netco environment . . . for instance , i would like to change texoma to carthage on the curve mappings . . . also , i would like to delete all derived curves , leaving only carthage , katytailgate , and agua dulce .
+the other physical locations would be shipchannel , waha and katy ( non - tailgate ) . . . let me know your thoughts . . . o ' neal 3 - 9686
+>

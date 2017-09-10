@@ -1,0 +1,30 @@
+Subject: re : january spot purchases - deals needed
+vance ,
+deals have been created and entered in sitara as noted below :
+julie ,
+please edit deal # 553552 to reflect tiered pricing . thanks .
+bob
+vance l taylor
+02 / 06 / 2001 02 : 24 pm
+to : robert cotten / hou / ect @ ect
+cc : julie meyers / hou / ect @ ect , lisa hesse / hou / ect @ ect , cynthia
+hakemack / hou / ect @ ect , susan smith / hou / ect @ ect , melissa graves / hou / ect @ ect
+subject : january spot purchases - deals needed
+bob ,
+hplc purchased wellhead gas from the producer listed below for the production
+month of january , 2001 . this production wasl purchased on a " spot " basis and
+a deal ticket should be created and entered into sitara based on the
+following information :
+counterparty meter volume price deal #
+crosstex energy svcs . , ltd . 0435 682 mmbtu / d 100 % if / hsc $ 0 . 065 608779
+tri - union development 0435 60 mmbtu / d 100 % if / hsc less $ 0 . 055 608800
+additionally , the following production is now on - line and a ticket should be
+created and entered into sitara based on the following :
+counterparty meter volumes price period deal #
+ranger oil company 9871 200 mmbtu / d 85 % gas daily if 300 / d
+ranger oil company 9871 200 mmbtu / d 85 % if / hsc if 300 / d
+additionally , these are producer svcs . deal and should be tracked in the im
+wellhead portfolio . . . attached to the gathering contract .
+thanks ,
+vlt
+x 3 - 6353

@@ -1,0 +1,15 @@
+Subject: proposed solution
+pat ,
+i have been working with volume management , settlements , vance , and bob to
+clean up some prior period and prior - to - current month issues . this process
+should result in a correction to booked profit / loss for vance and the desk .
+this has brought to my attention that we have been paying some parties
+manually for volumes when deals are not correctly entered . i would propose
+that logistics be included in the communication of when checks are manually
+cut . it would be especially beneficial if we tracked manual checks by
+counterparty , meter , and / or deal ticket id or price . i feel that this will
+allow us to spot and resolve potential issues more effectively .
+please let me know what your thoughts are on this matter .
+thank you for your time ,
+mary
+ext 35251

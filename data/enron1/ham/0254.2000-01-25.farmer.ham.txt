@@ -1,0 +1,22 @@
+Subject: mobil - beaumont - fyi
+fyi - i ' ve entered estimated vols into sitara based on the following info
+from mobil :
+jan 28 - their takes will be down by 15 , 000 / d from current takes , due to one
+of their crude units coming down
+jan 29 - their takes will be down by an adiitional 5 , 000 / d on top of that ,
+due to their coker coming down
+for febo 0 , they estimated the following vols :
+feb 1 - 5 115 , 000 / d
+feb 6 - 11 120 , 000 / d
+feb 12 - 14 105 , 000 / d
+feb 15 - 18 110 , 000 / d
+feb 19 - 21 105 , 000 / d
+feb 22 - 23 115 , 000 / d
+feb 24 - 26 105 , 000 / d
+feb 27 - 29 115 , 000 / d
+based on assuming :
+- centana delivery point @ zero for all of feb ,
+- high pressure delivery @ meter 1576 @ 15 , 000 / d for all of feb ,
+- eog transport of 10 , 000 / d @ meter 1040 for all of feb ,
+. . . . i then entered the remaining daily vols for meter 1040 .
+lee

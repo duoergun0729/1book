@@ -1,0 +1,58 @@
+Subject: re : 1 / 2000 meter 9643 three rivers issues
+fred , this info was forwarded to you a while ago . i sent it return receipt .
+i never saw where you opened your e - mail . i know you ' re been busy .
+thanks , stella
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stella l morris / hou / ect on 03 / 03 / 2000
+03 : 03 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : stella l morris 02 / 25 / 2000 08 : 35 am
+to : fred boas / hou / ect @ ect
+cc : howard b camp / hou / ect @ ect , robert e lloyd / hou / ect @ ect , daren j
+farmer / hou / ect @ ect
+subject : re : 1 / 2000 meter 9643 three rivers issues
+fred , i hope this is the information that you needed to complete january
+business . i have already set up track i . d . 80705 per your first request .
+thanks , stella
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stella l morris / hou / ect on 02 / 25 / 2000
+08 : 31 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+daren j farmer
+02 / 24 / 2000 06 : 58 pm
+to : stella l morris / hou / ect @ ect
+cc :
+subject : re : 1 / 2000 meter 9643 three rivers issues
+the purchase from swift was shown at mtr 3405 during dec and jan . i have
+created a new deal ( # 204777 ) to add mtr 9643 to the deal .
+deal 114096 is the purchase from hplr liquids . this purchase is on 138544
+for jan 2000 forward .
+d
+from : stella l morris 02 / 24 / 2000 02 : 39 pm
+to : daren j farmer / hou / ect @ ect
+cc : fred boas / hou / ect @ ect , howard b camp / hou / ect @ ect , robert e
+lloyd / hou / ect @ ect
+subject : 1 / 2000 meter 9643 three rivers issues
+fred is trying to set up accounting arrangments to cover the swift deal . can
+you please verify that you made this purchase from swift ? if so , is there
+another deal to replace deal # 114096 of should this deal be extended into
+january . if i should forward this to someone else , please let me know .
+thanks for you help , stella
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stella l morris / hou / ect on 02 / 24 / 2000
+02 : 33 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+fred boas
+02 / 24 / 2000 11 : 25 am
+to : stella l morris / hou / ect @ ect
+cc : robert e lloyd / hou / ect @ ect , howard b camp / hou / ect @ ect
+subject : 1 / 2000 meter 9643 three rivers issues
+stella :
+the swift deal is not pathed correctly in pops . i set up an accounting
+arrangement on the 012 - 41500 - 02 - 015 contract with the track id 80705 . would
+you put the contract in pops with the associated track id ?
+the transportation contract ( 012 - 41500 - 02 - 003 ) for the liquids replacement
+gas is not pops . i looked in path manager and there is no deal for it
+either . in december , the deal for this gas was 114096 . could you extend the
+deal or get me the number for the new deal if there is one ? i need to set up
+an accounting arrangement so i will need for you to verify the deal number
+and transportation contract that this gas is supposed to go on . when i set
+up the accounting arrangement i will let you know what the track id is so you
+can put the contract at meter 9643 .
+let me know when all of this is done so that i can reallocate the meter .
+thanks ,
+fred

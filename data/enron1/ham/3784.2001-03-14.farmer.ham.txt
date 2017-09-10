@@ -1,0 +1,39 @@
+Subject: re : tenaska iv 1 / 01
+txu revised their rates for jan 2001 . they are now billing us at $ 0 . 10 and
+$ 0 . 08 for contract 1671 . this was previously billed all at $ 0 . 10 . please
+change the demand fee on deal 384258 from $ 3 , 841 , 888 . 11 to $ 3 , 830 , 131 . 18 .
+also , i spoke to txu about the rate on contract 1856 ( deal 452475 ) . they
+have been billing us $ 0 . 11 and we have $ 0 . 10 . the extra cent is for the el
+paso header fee . the pricing you gave me is for contract 1671 , but also has
+the header fee if you look on page 5 of 6 . you ' ll see a a section called
+" compression & header expense if utilized " . the current rate for 1856 is
+$ 0 . 01 and 0 % fuel . i will leave a copy of the contract in your chair .
+thanks ,
+megan
+daren j farmer @ ect
+03 / 13 / 2001 10 : 54 am
+to : megan parker / corp / enron @ enron
+cc :
+subject : re : tenaska iv 1 / 01
+i have made the changes mentioned below . i ' ve also adjusted the spreadsheet
+based on our conversation yesterday . take a look at it when you get a chance .
+d
+enron north america corp .
+from : megan parker @ enron 03 / 13 / 2001 09 : 06 am
+to : daren j farmer / hou / ect @ ect
+cc :
+subject : tenaska iv 1 / 01
+we need to change the demand fees for tenaska iv based on actuals for jan
+2001 . tenaska owes us some additional money . i have attached my netting
+spreadsheet if you need it .
+deal 514353 change mmbtu from 45 , 000 to 46 , 113
+deal 384258 change amount from $ 3 , 934 , 644 . 50 to $ 3 , 841 , 888 . 11
+i got your message regarding apache . i will just leave the pay the lesser
+ofs there until they come back for it . also , mark checked with txu and we
+do not have the rights to get dailies for the tenaska meters . he said that
+only the interconnecting pipes get dailies . for the spreadsheet , i am just
+going to prorate the actuals based on the noms .
+i will let you know when we receive the payment from brazos for feb 2001 , so
+you can enter the demand fee to forward the cash to tenaska iv .
+thanks ,
+megan

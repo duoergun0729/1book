@@ -1,0 +1,71 @@
+Subject: re : gas message board
+the problem has been corrected , please try to login . let me know if you have
+anymore problems .
+ina
+- - - - - - - - - - - - - - - - - - - - - - forwarded by ina rangel / hou / ect on 01 / 19 / 2001 10 : 39 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : fangming zhu @ enron on 01 / 18 / 2001 09 : 27 am
+to : ina rangel / hou / ect @ ect
+cc : dutch quigley / hou / ect @ ect
+subject : re : gas message board
+http : / / gasmsgboard . corp . enron . com
+thanks ,
+fangming
+ina rangel @ ect
+01 / 18 / 2001 08 : 07 am
+to : andrea ring / hou / ect @ ect , andrew h lewis / hou / ect @ ect , brad
+mckay / hou / ect @ ect , craig breslau / hou / ect @ ect , chris germany / hou / ect @ ect ,
+carey m metz / hou / ect @ ect , charles t muzzy / hou / ect @ ect , daren j
+farmer / hou / ect @ ect , dick jenkins / hou / ect @ ect , dan junek / hou / ect @ ect , dutch
+quigley / hou / ect @ ect , eric bass / hou / ect @ ect , edward d gottlob / hou / ect @ ect ,
+elsa villarreal / hou / ect @ ect , frank ermis / hou / ect @ ect , george n
+gilbert / hou / ect @ ect , gary w lamphier / hou / ect @ ect , geoff storey / hou / ect @ ect ,
+hunter s shively / hou / ect @ ect , john arnold / hou / ect @ ect , jared
+kaiser / hou / ect @ ect , jay reitmeyer / hou / ect @ ect , jim schwieger / hou / ect @ ect ,
+jennifer shipos / hou / ect @ ect , john craig taylor / hou / ect @ ect , jane m
+tholt / hou / ect @ ect , judy townsend / hou / ect @ ect , janet h wallis / hou / ect @ ect ,
+jason williams / hou / ect @ ect , kate fraser / hou / ect @ ect , kevin
+ruscitti / hou / ect @ ect , kelli stevens / hou / ect @ ect , lauri a allen / hou / ect @ ect ,
+martin cuilla / hou / ect @ ect , mike grigsby / hou / ect @ ect , monique
+sanchez / hou / ect @ ect , phillip k allen / hou / ect @ ect , peter f keavey / hou / ect @ ect ,
+patrice l mims / hou / ect @ ect , robin barbe / hou / ect @ ect , sandra f
+brawner / hou / ect @ ect , scott hendrickson / hou / ect @ ect , sarah
+mulholland / hou / ect @ ect , jennifer fraser / hou / ect @ ect , scott neal / hou / ect @ ect ,
+stacey neuweiler / hou / ect @ ect , susan w pereira / hou / ect @ ect , sylvia s
+pollan / hou / ect @ ect , steven p south / hou / ect @ ect , tom donohoe / hou / ect @ ect , tori
+kuykendall / hou / ect @ ect , thomas a martin / hou / ect @ ect , victoria
+versen / hou / ect @ ect , barry tycholiz / na / enron @ enron , caroline
+abramo / corp / enron @ enron , danny conner / na / enron @ enron , bill
+berkeland / corp / enron @ enron , joe parks / corp / enron @ enron , kevin
+brady / na / enron @ enron , liz bellamy / na / enron @ enron , larry may / corp / enron @ enron ,
+mark smith / corp / enron @ enron , mike maggi / corp / enron @ enron , nelson
+ferries / corp / enron @ enron , paul t lucci / na / enron @ enron , robyn
+zivic / na / enron @ enron , scott goodell / corp / enron @ enron , troy
+black / corp / enron @ enron , tammi depaolis / corp / enron @ enron , sean
+boyle / corp / enron @ enron , fangming zhu / corp / enron @ enron , allen
+elliott / hou / ect @ ect , michael sellers / lon / ect @ ect , deirdre
+mccaffrey / hou / ect @ ect , kirk lenart / hou / ect @ ect , bryan powell / hou / ect
+cc :
+subject : gas message board
+a message board has been set up for the natural gas trading floor . this is a
+secure internal enron board with viewing rights only for personal on the
+natural gas trading floor , both traders and marketers . please follow the
+steps outlined here to access the gas message board .
+steps to launch gas msg board :
+1 ) launch internet explorer
+2 ) type : http : / / gasmsgboard . corp . enron . com / msgframe . asp ( or just click on
+this url link )
+3 ) you should see the messages if there are any new messages for that day .
+if you don ' t see any messages , there are two reasons :
+a . you are not a valid user , contact ina rangel at ext . 3 - 7257
+b . there are no new messages added for that given day yet .
+4 ) sending a message :
+a . just simply enter a message in the test box at the lower portion of the
+web page
+b . click on the " send " button to send the message .
+5 ) once the message has been sent it will be displayed on the main window
+immediately and all people who are on - line will get the new message on the
+next refresh cycle .
+6 ) all messages will be cleared daily at 6 : 00 pm
+dutch quigley
+ext . 3 - 9257

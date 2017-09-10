@@ -1,0 +1,11 @@
+Subject: epgt
+mike :
+i have terminated about 12 to 13 inactive inter pipe / internal pools effective 12 / 01 / 01 . there are several other inactive pools which i did not eliminate because
+they had balances in it .
+i also spoke to jim tobacco at epgt for at least an hour or so , going over every line item which was rejected , please get with me once you are back in the office
+and i will go over the " correct " pathing procedures .
+i met with richard and reviewed november transactions for epgt to determine if we could eliminate the external pools but unfortunately we cannot do this .
+if we transport then we must use the external pool . however , you do not need to use internal pools but must use the imbalance pools which you are currently
+using , therefore , i have terminated the internal pools .
+please review the changes and let me know if this will work for you . .
+i will be in touch with you after i meet with el paso .

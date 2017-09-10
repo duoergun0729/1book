@@ -1,0 +1,145 @@
+Subject: bpa rate case - seasonal rates
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mary hain / hou / ect on 03 / 14 / 2000 08 : 48 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron capital minnesota power
+and light co . , opinion no . 12 , issued april 14 , 1978 , mimeo at 24 - 5 .
+[ 65 , 229 ]
+in both cases , the commission rejected rate design features where there was
+no evidence in the record showing that the rate design features reflected
+cost incurrence , id . in its order setting this proceeding for hearing , the
+commission took note of edison ' s proposed seasonal differential and
+specifically directed that the parties fully address the issues related to
+the cost support for the seasonal rate design , commission order issued march
+30 , 1979 , mimeo at 4 - 5 . on october 9 , 1980 , the parties were directed by the
+presiding judge to identify in their initial briefs the portions of the
+record that relate to cost support for the seasonal differential .
+the requirement that edison provide cost support for its seasonal
+differential , as discussed supra , is also set forth in the commission ' s
+filing requirements for rate schedules : if the rate design is intended to
+reflect costs , the applicant must show how it reflects costs ; if the rate
+design is not intended to reflect costs , the applicant must justify the
+departure from costbased rates , 18 cfr o 35 . 13 ( b ) ( 4 ) ( iii ) statement p .
+edison ' s seasonal differential is intended to lessen the costs imposed upon
+it by its prominent summer peak . edison reasons that , since it must build
+capacity to meet its prominent summer peak , charging more in the summer would
+give customers an incentive to control their summer demands and , therefore ,
+edison ' s cost of adding capacity would be reduced ( tr . 169 ) . accordingly ,
+edison must show how its seasonal differential reflects the costs imposed on
+it by summer demand , under the commission ' s filing requirements in 18 cfr o 35 .
+13 ( b ) ( 4 ) ( iii ) statement p . further , even purpa section 111 ( d ) ( 4 ) relied upon
+by edison states that rates " shall be on a seasonal basis which reflects the
+costs of providing service to such class of consumers at different seasons of
+the year to the extent that such costs vary seasonally for such utility . "
+( emphasis added . )
+further , support for relying on marginal rather than average costs comes from
+the commission itself . in its order of march 30 , 1979 setting this cause for
+hearing , mimeo at 4 , 5 , the commission , in commenting on time of day and
+seasonal rates , mentioned that it encourage innovative rate design to match
+more closely rates to costs . in this regard , the commission cited its order
+no . 537 , supra at 4 , which specifically suggests use of pricing mechanisms
+based on marginal cost principles
+[ 65 , 236 ]
+for jurisdictional wholesale sales . under the circumstances in this case ,
+where the sale of economy energy is related to edison ' s costs in adding or
+eliminating additional excess capacity , it is appropriate to establish the
+price for economy transactions on marginal costs . this provides a more close
+matching of the rate to the cost than would a rate design based on average
+costs . accordingly , winnetka ' s position on pricing of economy energy will not
+be adopted .
+affirmed and reversed - see next paragraph
+comm - opinion - order , 23 ferc ? 61 , 219 , commonwealth edison company , docket nos .
+er 79 - 182 - 000 and er 80 - 106 - 000 , ( may 12 , 1983 )
+turning to commonwealth ' s exceptions , we find that the judge correctly
+rejected the seasonal differential . even if we accept the company ' s
+interpretation of purpa , it still has not cited any record evidence
+whatsoever of a difference in costs between summer and nonsummer months .
+without at least some showing of a cost difference , it is impossible to make
+a judgment on the reasonableness of the company ' s 15 . 25 % proposal . we
+therefore uphold the judge on this point .
+we reverse the judge ' s adoption of a price set at 110 % of the utility ' s
+incremental costs , however , and approve the type - b split - savings method
+proposed by commonwealth . under this method , economy transactions are
+arranged for a 12 - hour or similar period at a fixed price based on cost
+estimates at the time of the agreement . if the utility ' s incremental costs
+rise to the point that continued supply would become burdensome , the utility
+may terminate supply . we find this method superior to that proposed by staff
+in that implementation is greatly simplified . cost determinations need not be
+made as frequently .
+related to pmas
+reg - preamble , fercsr ? 36 , 710 , procedures for public participation in power
+and transmission rate adjustments and extensions , december 31 , 1980 , 10 cfr
+903 , 45 fr 86976
+[ 36 , 741 ]
+historically , many purpa - type standards have been used in designing wholesale
+rates for the sale of federal hydroelectric power . pmas analyze costs to
+establish revenue requirements and consider this information in designing
+rates . declining block rates for energy were once used by the pmas but
+subsequently were found inappropriate and eliminated from rate schedules .
+many of the pmas for years have been effectively using various forms of load
+management measures in their rate schedules , such as scheduling limitations ,
+loadshaping , capacity and energy overrun charges , etc . bpa has had a history
+of using seasonal rates for wholesale firm capacity and energy and also
+offered its direct service industrial customers interruptible rates some time
+ago . southwestern has had interruptible capacity rates in effect since 1957 .
+these examples demonstrate the willingness of the pmas to implement
+purpa - type standards where applicable .
+many of these purpa - type standards , when applied appropriately in the design
+of pma rates , can serve to implement the purposes of purpa by encouraging
+conservation of energy , efficient use of resources and facilities , and
+equitable rates . the public participation process will provide an opportunity
+to examine these and other appropriate concepts .
+the pmas will continue to review and revise their power marketing practices
+on a system - by - system basis to serve the purpa objectives . the assistant
+secretary for resource applications , working with the administrators of the
+power administrations , and after receiving public comment , will consider the
+adoption of rate design guidelines , similar in form to the guidelines in ra
+6120 . 2 on financial accounting and ratemaking , which will reflect the
+experience gained by the pmas in their system - by - system approach to rate
+design .
+related to purpa
+fed - law , fercsr ? 5021 , purpa , sec . 111 . consideration and determination
+respecting certain ratemaking standards .
+( 4 ) seasonal rates . - - the rates charged by an electric utility for providing
+electric service to each class of electric consumers shall be on a seasonal
+basis which reflects the costs of providing service to such class of
+consumers at different seasons of the year to the extent that such costs vary
+seasonally for such utility .
+fed - reg - notice , fercsr ? 37 , 503 , doe responsibilities under title i of purpa
+( 4 ) seasonal rates shall be established where costs vary by season ;
+prop - reg - preamble , fercsr 1988 - 1998 ? 32 , 457 , administrative determination of
+full avoided costs , sales of power to qualifying facilities , and
+inter - connection facilities , march 16 , 1988 , docket no . rm 88 - 6 - 000 , 53 fr
+9331 , 55 fr 31882
+pricing flexibility may take several different forms . for instance , a
+contract could provide qfs with a price floor applicable to all the power
+supplied to the utility , but still provide for higher variable unit prices
+reflecting daily or seasonal periods . the price floor would provide the
+revenue stream necessary for the qf to secure financial support while
+[ 32 , 174 ]
+the price variability would induce the qf to maximize deliveries in peak - load
+periods when the utility values additional supplies most . of course , the
+price floor should not exceed the minimum value of the utility ' s avoided
+cost . similarly , a contract could provide for a two part price - - a fixed
+payment for capacity and an energy price for power delivered . the qf would be
+assured a minimum revenue stream based on the value of its capacity . the
+variable energy component would allow the utility to dispatch the qf capacity
+only when it was economic . whatever the pattern of contract payments , rates
+for purchases from qfs should always reflect how well the characteristics of
+the suppliers ' power match the purchasing utility ' s need . this will ensure
+that the qf will make most production decisions on the basis of rates
+reflecting avoided costs ( rather than the guaranteed average rate ) and , at
+the same time , will receive revenues sufficient to attract investors .
+to avoid problems such as those associated with take - or - pay contracts in the
+natural gas industry , the commission wishes to stress the danger of including
+forecasted fuel costs in the fixed rate structure of long - term contracts ,
+especially in combination with the specification of minimum purchase
+quantities . the commission also encourages the use of time - of - day and
+seasonal rates in flexible pricing structures for long - term contracts .
+reg - preamble , fercsr 1977 - 1981 ? 30 , 128 , small power production and
+cogeneration facilities ; regulations implementing section 210 of the public
+utility regulatory policies act of 1978 , order no . 69 , february 25 , 1980 ,
+docket no . rm 79 - 55 , 18 cfr 292 , 45 fr 12214 , 45 fr . . .
+rather than specifying that exact time - of - day or seasonal rates for purchases
+are required , however , the commission believes that the selection of a
+methodology is best left to the state regulatory authorities and nonregulated
+electric utilities charged with the implementation of these provisions .

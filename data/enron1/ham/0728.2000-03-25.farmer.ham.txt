@@ -1,0 +1,53 @@
+Subject: your membership on woodtips has been put on hold
+this email message is to notify you that your membership to woodtips
+has been put on " hold " .
+this means that you will not receive mail from ' woodtips ' .
+your subscription has been held because at least 1 recent messages have been
+either bounced by your email system , or could not be delivered at all .
+your membership can be restored to " normal " , by sending the command " unhold "
+to lyris @ listserv . augusthome . com
+note that if your email address continues to reject mail your subscription
+will
+once again be " held " .
+you may want to contact the people responsible for your electronic mail to
+determine
+why your email address has been having trouble .
+- - - for your information , a non - delivery report is included below :
+- - -
+message body :
+return - path :
+received : from listserv . augusthome . com ( [ 127 . 0 . 0 . 1 ] ) by localhost with smtp
+( lyris server version 3 . 43 - apr 6 1999 10 : 07 : 17 ) ; sat , 25 mar 2000 02 : 23 : 54
+- 0600
+received : from mailman . enron . com ( mailman . enron . com [ 192 . 152 . 140 . 66 ] )
+by listserv . augusthome . com ( 8 . 9 . 3 / 8 . 9 . 3 ) with esmtp id caa 29035
+for ; sat , 25 mar 2000
+02 : 23 : 53 - 0600
+received : from dservl . ect . enron . com ( dservl . ect . enron . com [ 172 . 16 . 1 . 37 ] )
+by mailman . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 / corp - 1 . 03 ) with esmtp id haa 25648
+for ; sat , 25 mar 2000
+07 : 33 : 10 gmt
+received : from notes . ect . enron . com ( notes . ect . enron . com [ 172 . 16 . 4 . 33 ] )
+by dservl . ect . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 ) with smtp id baa 23447
+for ; sat , 25 mar 2000
+01 : 33 : 52 - 0600 ( cst )
+received : by notes . ect . enron . com ( lotus smtp mta v 4 . 6 . 5 ( 863 . 2 5 - 20 - 1999 ) )
+id 862568 ad . 00298 c 81 ; sat , 25 mar 2000 01 : 33 : 49 - 0600
+x - lotus - fromdomain : ect
+from : " ect notes admin "
+reply - to : daren . j . farmer @ enron . com
+to : bounce - woodtips - 30771 @ listserv . augusthome . com
+message - id :
+date : sat , 25 mar 2000 01 : 02 : 42 - 0600
+subject : we are one @ enron . com !
+mime - version : 1 . 0
+content - type : text / plain ; charset = us - ascii
+content - disposition : inline
+this message is an automated response to the email you recently sent to me . i
+received the message but the email address you used has been changed to
+daren . j . farmer @ enron . com .
+please update your address book ( s ) to reflect this change .
+this will ensure that i receive your emails in the future .
+thank you
+daren j farmer
+please do not reply to this message as it was automatically generated .

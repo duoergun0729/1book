@@ -1,0 +1,85 @@
+Subject: project hurricane / bridgeline status
+fyi .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod / hou / ect on 01 / 20 / 2000
+02 : 48 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron technology
+from : tommy j yanowski 01 / 20 / 2000 12 : 22 pm
+to : john tollefsen , arshak sarkissian , keith dziadek / hou / ees @ ees , scott
+mills , stephen schwarz , michael eiben / hou / ect @ ect , brenda herod , inja chun ,
+dave nommensen , brent a price / hou / ect @ ect , scotty gilbert , jim
+fussell / hou / ect @ ect , steve venturatos / hou / ect @ ect , connie sutton / hou / ect @ ect ,
+donna consemiu / hou / ect @ ect , antoine v pierre / hou / ect @ ect , mary solmonson ,
+susan harrison / hou / ect @ ect , edward de
+valcourt / enron _ development @ enron _ development , jim coffey / hou / ect @ ect , julie
+ferrara / hou / ect @ ect , romeo d ' souza / hou / ect @ ect , ,
+wrighcs @ texaco . com , robert d morgan / hou / ect @ ect , wanda curry , james
+mckay / hou / ect @ ect
+cc : harold bertram / hou / ect @ ect , philippe bibi , beth perlman , robert
+shiring / hou / ect @ ect , shonnie daniel / hou / ect @ ect , sally beck
+subject : project hurricane / bridgeline status
+here is a quick status and list of to do ' s related to setting up the new j . v .
+between enron & texaco which will be combining the lrc and bridgeline
+pipeline systems :
+summary : the lrc & bridgeline pipeline systems will be combined under the
+name of bridgeline llc . ownership in the jv will be split 60 % texaco & 40 %
+enron . bridgeline gas marketing llc will be the entity that will be trading
+on the pipelines under the new j . v . contracts and service agreements are in
+the process of being drafted .
+enron will be providing the trading and commercial operations systems to
+support this j . v . texaco will be providing the scada system . i understand
+that accounting is still being discussed . the trading , risk , & perhaps
+scheduling personnel for this jv will be initially relocated to the 21 st
+floor of the enron building and will eventually move to probably the 3 allen
+center once a more permanent spot can be built out . trading for the new jv
+will start in early february for march production .
+to do ' s :
+accounting : i ' ve asked jim coffey to set up two work orders to capture it
+transition and ongoing costs . texaco is also trying to set up a meeting next
+monday to step through the accounting flow so that we are all on the same
+page and make sure there is nothing that will fall through the cracks .
+pc ' s : jim fussell is in the process of ordering the pc ' s for this jv at my
+request . i will need the work order numbers to track these costs .
+networks : i ' m coordinating with arshak and his team to make sure that the
+voice and data networks are in place for eb 21 . once the more permanent spot
+is nailed down we will then need to do the same for that location . a
+combination of trader phones , lucent phones , stenfons and amtels have been
+requested .
+location on eb 21 : i ' m waiting on a call back from chris larson from
+facilities to find out what locations on 21 will be assigned to the new jv .
+currently half of the floor is empty but they are set up with high wall
+cubes . there may need to be some build out for the traders to low wall
+cubes . we can ' t set up the pc ' s , phones , amtels , etc until this is done .
+data conversion : i have requested from texaco the contract , deal and
+meter / facility information we will need to set up in our systems to begin
+trading for march production . it may be possible to get an electronic dump
+of this data from texaco if enron defines the data fields that we will need .
+we also need to set up the trading entities and portfolios . i will also need
+to know who will need to have access to this data so that we can set up the
+system security . i have received the names of the traders but i don ' t know
+who else will need access .
+interface between enron ' s unify pop ' s application and bridgeline ' s scada
+application : i ' ve asked dave nommensen from enron to get with carryn wright
+from texaco to begin the process of defining the interface between the two
+applications and estimate the time to build and implement the interface .
+there will also need to be a transition plan put in place where lrc ' s
+rtu ' s / efm is redirected to the bridgeline scada system . in the meantime
+there will be two scada systems and perhaps two gas controls until everything
+is merged into one . this will probably mean some manual interfaces between
+pop ' s and scada for confirmed noms and efm volumes until the transition is
+complete .
+scada communications : currently the lrc rtu ' s / efm communicate back to
+enron ' s scada system via leased lines . bridgelines rtu ' s communicate back to
+them via a microwave system . the new jv could save on communications costs
+by switching lrc ' s rtu communication to the microwave . perhaps this is best
+done as a part of the scada transition .
+accounting data needed by texaco for royalty purposes : this data needs to be
+better defined . i will follow up with john ledoux from texaco to get this
+process started .
+hourly volumes : bridgeline currently has one utility customer who may be
+billed on an hourly basis depending on the amount of swing . we need to talk
+through this process to see what enhancements may be needed . at least
+initially there will need to be some manual processes in place to support the
+billing for this one customer .
+please let me know if you ' d like to meet on any of these topics . i can have
+my assistant set up the meeting if needed . in the mean time i can be reached
+at 713 - 853 - 6858 . thanks ! - tommy

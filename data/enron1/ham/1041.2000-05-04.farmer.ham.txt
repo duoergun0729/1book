@@ -1,0 +1,16 @@
+Subject: new hpl meter - vidor city gate - check ( meter 098 - 8746 )
+fyi
+the below houston pipe line meter has been set up in global facilities .
+meter : 098 - 8746
+facility number : 513445
+name : vidor city gate check
+type : check
+system : 765 - texoma pipeline
+rate zone : 40 ( vidor )
+trade zone : 8 ( east texas )
+flow direction : delivery
+lateral :
+work order # :
+note : meter 0988746 is the check meter to 098 - 0413 .
+please call me at ext . 3 - 3446 if you have any questions .
+donna

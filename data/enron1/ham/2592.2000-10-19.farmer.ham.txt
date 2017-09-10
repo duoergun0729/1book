@@ -1,0 +1,37 @@
+Subject: pops production downtime request
+the pops production database server will be down over the weekend for a 3
+hour period
+for memory upgrade . please let me know if there is a preferred 3 hr window , if
+there is
+no problem with y ' all , can we will request the maintenance between 12 - 3 pm
+saturday 10 / 21 / 00 .
+i ' ll inform y ' all of the actual timeframe once its finalized , since there are
+other systems
+running on that server .
+thanks
+romeo
+- - - - - - - - - - - - - - - - - - - - - - forwarded by romeo d ' souza / hou / ect on 10 / 19 / 2000 02 : 47
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : neil leininger @ enron on 10 / 19 / 2000 02 : 01 pm
+to : christine pham / hou / ect @ ect , romeo d ' souza / hou / ect @ ect
+cc :
+subject : downtime request
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by neil leininger / na / enron on 10 / 19 / 2000
+02 : 02 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+malcolm . wells @ enron . com on 10 / 19 / 2000 01 : 54 : 49 pm
+to : dba @ enron . com
+cc :
+subject : downtime request
+the unix infrastructure team would like to request downtime on system
+' aurora ' this weekend . the system has 2 faulty memory simms that we need
+to replace before they cause a problem . we are requesting 3 hours to
+perform the memory replacement . the following databases would be effected :
+eqtprod
+dcfprod
+popprod
+trdprod
+semprod
+sitprod 2
+infprd 53
+please let me know if / when we can have time for this maintenance .

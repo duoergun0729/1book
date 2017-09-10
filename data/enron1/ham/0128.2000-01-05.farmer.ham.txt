@@ -1,0 +1,14 @@
+Subject: real time deal updates to path manager - test group
+beginning this week , we are actively testing the changes to path manager to
+receive real - time deal updates from sitara . to prepare for this , we would
+like to have a limited group of schedulers from each desk go thru a quick
+walkthru / training of the new features sometime early next week . this should
+only take about 30 minutes . once they are comfortable with the features and
+performance , and once the testing is complete , we would like to migrate this
+to unify production either next week or the week after . this should give us
+an adequate adjustment period prior to the next bid week .
+once it is migrated to production , we can either roll it out to all
+schedulers or to selected schedulers via security .
+heather , could you please schedule some time with the designated schedulers ,
+scotty , and myself early next week . a room with a projector would work best .
+thanks , d . n .

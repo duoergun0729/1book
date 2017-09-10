@@ -1,0 +1,27 @@
+Subject: re : september spot purchases
+vance ,
+deal tickets have been created and entered in sitara as follows :
+bob
+vance l taylor
+08 / 28 / 2000 04 : 33 pm
+to : robert cotten / hou / ect @ ect
+cc : elizabeth l hernandez / hou / ect @ ect , lisa hesse / hou / ect @ ect , trisha
+hughes / hou / ect @ ect , susan smith / hou / ect @ ect , donald p reinhardt / hou / ect @ ect ,
+melissa graves / hou / ect @ ect
+subject : september spot purchases
+bob ,
+hplc will be purchasing wellhead gas from the producers listed below for the
+production month of september . this production will be purchased on a " spot "
+basis and deal tickets should be created and entered into sitara based on the
+following information :
+counterparty meter volume deal # price
+whiting petroleum corp 6523 200 mmbtu / d 382601 91 % if / hsc
+engage energy us , lp 5923 775 mmbtu / d 382610 100 % if / hsc less $ 0 . 24
+engage energy us , lp 5848 240 mmbtu / d 382621 100 % if / hsc less $ 0 . 24
+swift energy 2630 21 mmbtu / d 382627 90 % if / hsc less $ 0 . 258
+duke energy trading & marketing 6347 200 mmbtu / d 382631 85 % if / hsc
+additionally , this are producer svcs . deals and should be tracked in the im
+wellhead portfolio . . . attached to the gathering contract .
+thanks ,
+vlt
+x 3 - 6353

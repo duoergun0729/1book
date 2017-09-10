@@ -1,0 +1,10 @@
+Subject: meter 8022 - bad scada feedback to sitara
+beginning on january 14 th at meter 988022 ( united salt ) , the bav feed into
+pops shows excessive flow ( over 200 m / day beginning the 15 th ) . o ' neal brought
+this to my attention this evening . this issue will blow out our ua 4 number ,
+and probably our p & l . i phoned lee in gas control to make sure a tech was
+sent out to check calibration and scada feed . i would like to have better
+estimates from the 14 th through the 19 th asap so that we can make corrections
+to all pertinent numbers .
+thank you ,
+mary

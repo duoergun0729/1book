@@ -1,0 +1,10 @@
+Subject: oasis contract imbalance update
+. . . . this just in . . . .
+here are our updated imbalances per contract & total :
+historical current mth cumul .
+201 k : ( 12 . 807 ) ( 8 . 181 ) ( 20 . 988 )
+202 k : ( 13 . 951 ) 7 . 879 ( 6 . 072 )
+203 k : ( 6 . 152 ) ( 267 ) ( 6 . 419 )
+204 k : 27 . 392 ( 6 . 306 ) 21 . 088
+total : ( 5 . 516 ) ( 6 . 875 ) ( 12 . 391 )
+due oasis

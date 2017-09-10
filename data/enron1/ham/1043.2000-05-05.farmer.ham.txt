@@ -1,0 +1,42 @@
+Subject: unify performance problem on wednesday
+fyi .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod / hou / ect on 05 / 05 / 2000
+09 : 01 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+rita wynne
+05 / 05 / 2000 08 : 11 am
+to : brenda f herod / hou / ect @ ect
+cc :
+subject : unify performance problem on wednesday
+fyi . . . . . . . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rita wynne / hou / ect on 05 / 05 / 2000 08 : 10 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : dave nommensen 05 / 04 / 2000 06 : 56 pm
+to : george smith / hou / ect @ ect , edward terry / hou / ect @ ect , tricia
+bowen / hou / ect @ ect , randall l gay / hou / ect @ ect , patti sullivan / hou / ect @ ect , pat
+clynes / corp / enron @ enron , carlos j rodriguez / hou / ect @ ect , robert
+superty / hou / ect @ ect , bryce baxter / hou / ect @ ect , rita wynne / hou / ect @ ect , donna
+greif / hou / ect @ ect
+cc : jeff johnson / corp / enron @ enron , tommy j yanowski / hou / ect @ ect , beth
+perlman / hou / ect @ ect , scott williamson / hou / ect @ ect , jim ogg / hou / ect @ ect , regan
+m smith / hou / ect @ ect , kenneth m harmon / hou / ect @ ect
+subject : unify performance problem on wednesday
+as you are aware , the unify system experienced significant performance
+problems wednesday from approx 9 : 30 am - 11 : 20 am . the duration of the
+problem was due to a type of system behavior we had not experienced before .
+the problem was exacerbated by a multitude of additional user logins thinking
+that a fresh login might work better . additional logins never improve
+performance and generally degrade it , but that is another story . ( there was
+actually a single user with 21 sessions ! ) we had to " bounce " the server
+twice to bring the system back to its normal level of performance .
+the good news is that we found out what caused the problem . it was not a
+particular user or a particular report or process . it was actually an
+intentional change to a specific table that we have done numerous times in
+the past , but this particular change had drastic side effects . we have
+contacted sybase with this problem to see if they can help determine if the
+behavior is a " feature " or a bug . in the meanwhile , we will do these types
+of changes at night during scheduled outages .
+i apologize for the frustration , anxiety , and extra work brought on by this
+problem and will take every precaution to see that it does not happen again .
+if you have any further questions or comments , please feel free to give me a
+call .
+dave n .

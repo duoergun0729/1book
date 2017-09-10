@@ -1,0 +1,9 @@
+Subject: panenergy marketing exchange deal
+sitara # 157288
+could you pls . have the rate for the following point adjusted ?
+the following point should be adjusted to reflect a price of $ 2 . 52 , per the
+contract .
+pipe : pgev
+point : ( carthage / pgev )
+sitara / unify rate : $ 2 . 53 ( hsc , idx - . 05 )
+contract rate : $ 2 . 52 ( hsc , idx - . 06 )

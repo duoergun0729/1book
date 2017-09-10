@@ -1,0 +1,3 @@
+Subject: enron / hpl actuals for august 28 , 2000
+teco tap 20 . 000 / enron ; 120 . 000 / hpl gas daily
+ls hpl lsk ic 20 . 000 / enron

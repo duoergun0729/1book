@@ -1,0 +1,76 @@
+Subject: flexible physical us nat gas products on enrononline
+wanted to give you a heads up to these flexible physical deals that might
+involve your desks via eol in the near future . we already have one in the
+east . i stressed to the sitara / eol folks the importance of adding comments
+to the term sections of these baseload and term tickets so we know what is
+happening . one side of these buy / sell or exchange deals will be ratable and
+the corresponding partner ticket will have the optionality . comments will
+include the corresponding deal number , that it is in fact a buy / sell or
+exchange deal and the delivery time period ( 3 , 5 or 10 days ) that the
+counterparty desires .
+i hope this helps . . . thanks !
+- - - - - - - - - - - - - - - - - - - - - - forwarded by victor lamadrid / hou / ect on 06 / 27 / 2000
+02 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : thomas engel 06 / 26 / 2000 11 : 49 am
+to : linda s bryan / hou / ect @ ect , karen lambert / hou / ect @ ect , larry joe
+hunter / hou / ect @ ect , dale neuner / hou / ect @ ect , victor lamadrid / hou / ect @ ect
+cc : bob bowen / hou / ect @ ect , scott mills / hou / ect @ ect
+subject : flexible physical us nat gas products on enrononline
+can you all meet this afternoon or tomorrow to discuss this .
+call me 3 - 1488 .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by thomas engel / hou / ect on 06 / 26 / 2000 11 : 42
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : scott mills 06 / 23 / 2000 09 : 51 am
+to : thomas engel / hou / ect @ ect , linda s bryan / hou / ect @ ect , karen
+lambert / hou / ect @ ect , bob bowen / hou / ect @ ect
+cc :
+subject : flexible physical us nat gas products on enrononline
+got any ideas on how this transaction should look . this looks like a monthly
+volume that would be further refined to daily on the expected volumes once
+the counterparty has made their decision ( i would imagine logistics will be
+the one communicating with the counterparty ) . we probably need eol to
+indicate whether it is a 3 , 5 , 10 day delivery cycle and then indicate this
+as comments .
+linda / karen - what are your thoughts on how separate gtc would work on this .
+if we could all do a little homework . i will get something scheduled for
+next week to discuss further .
+srm ( x 33548 )
+- - - - - - - - - - - - - - - - - - - - - - forwarded by scott mills / hou / ect on 06 / 23 / 2000 09 : 37
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+dale neuner 06 / 23 / 2000 08 : 40 am
+to : david forster / corp / enron @ enron , sheri thomas / hou / ect @ ect , scott
+mills / hou / ect @ ect , bjorn hagelmann / hou / ect @ ect , tom moran / hou / ect @ ect , debbie
+r brackett / hou / ect @ ect , mark taylor / hou / ect @ ect , stacy e dickson / hou / ect @ ect ,
+jeffrey t hodge / hou / ect @ ect , jeff blumenthal / hou / ect @ ect , stephen h
+douglas / hou / ect @ ect , rudi zipter / hou / ect @ ect , imelda frayre / hou / ect @ ect ,
+larrissa sharma / hou / ect @ ect , torrey moorer / hou / ect @ ect , frank l
+davis / hou / ect @ ect , melba lozano / hou / ect @ ect , robert b cass / hou / ect @ ect ,
+jefferson d sorenson / hou / ect @ ect , bob bowen / hou / ect @ ect , larry joe
+hunter / hou / ect @ ect , jennifer blay / hou / ect @ ect
+cc : scott hendrickson / hou / ect @ ect
+subject : flexible physical us nat gas products on enrononline
+we are positioning ourselves to release a new product type that we will refer
+to as a flexible physical gas product . legal is in the process of drafting a
+gtc and product type description that will be used with this product type . i
+will start the building process once legal provides the gtc and product type
+description ; but in the interim , here ' s a broadstroke description of how the
+transaction works :
+party a and party b exchange gas during the month of june 2000 .
+party a buys 10 , 000 mmbtu per day ( or 300 , 000 total mmbtu ) at tco pool index
+party b has the right to notify party a of when party b wants to take
+delivery during the month of june , and may take delivery in one of three
+forms : 3 - day delivery , 5 - day delivery , or 10 - day delivery . the gas nominated
+for each such day would be a percentage of the total 300 , 000 mmbtu ( i . e . ; if
+party b chooses 5 days for nomination , party a would deliver 20 % of the
+300 , 000 mmbtu on each of those 5 days for a total nom of 100 % ) . party b pay
+tco pool index plus a premium .
+i understand that this type of transaction is currently done
+over - the - counter . scott mills has previously issued an explanatory e - mail of
+sitara concerns and we should begin to address those issues .
+bjorn - if you could ask someone to prepare a sigma factor in advance , then
+my turn around time to for the product type should be reduced . also , due to
+the varying ' optionality ' , do you think these three different products will
+require three different product types ?
+please feel free to call if you have any questions .
+dale
+3 - 9746

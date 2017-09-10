@@ -1,0 +1,17 @@
+Subject: aep _ hpl transition issues
+attached is an updated transitions list .
+please review and send any changes so i can update .
+i will update again thursday and will include a column for status .
+we are in the process of drafting procedures which will have to become a formal protocol for aep .
+these are :
+request for new / maintenance of counterparties . once web page is developed , procedures will
+be completed .
+request for new portfolios ( books ) after close . drafting procedures .
+request for new employee security .
+request to change curve mapping in erms / cps . drafting procedures .
+also , it appears the it service agreement may have to be amended to cover the
+web pages used to push operational data to customers ( if aep wants to continue
+the service ) and the tariff filing system we just put into production .
+also , we will need to resolve how we handle counterparties that enron credit has request we suspend trading when
+aep wants to continue trading .
+we have had discussions with aep about all of these issues and procedures .

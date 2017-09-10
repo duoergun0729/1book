@@ -1,0 +1,11 @@
+Subject: unify enhancement tracking list for ena upstream
+hi everyone ,
+see attached a listing of the documented enhancements that pertain to ena
+upstream . what we need to do next is develop an impact for each one that
+gives an estimate of the number of hours saved for each item . please supply
+these savings where your name is listed if you haven ' t already done so . the
+vision and purpose of this list is to provide holland & davis ( a consultant
+) and upper management with the necessary information to determine the extent
+of it resources that would be needed to enhance unify . i will need your
+replies by cob may 31 st .
+thanks , mve

@@ -1,0 +1,15 @@
+Subject: meter 8743 dec 99
+here are the days i have discrepancies with pg & e . please let me know which
+numbers are good . thanks
+thu
+3 - 7159
+day pg & e hpl
+12 - 05 145833 120000
+12 - 10 60000 35000
+12 - 11 70000 80000
+12 - 17 3125 3100
+12 - 21 50000 70000
+12 - 22 0 20000
+12 - 25 0 30000
+12 - 26 0 30000
+12 - 27 31375 63000

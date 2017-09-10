@@ -1,0 +1,49 @@
+Subject: re : united oil & minerals , inc . , chapman unit # 1
+vance ,
+deal # 357904 has been created and entered in sitara .
+bob
+vance l taylor
+08 / 04 / 2000 04 : 06 pm
+to : robert cotten / hou / ect @ ect , hillary mack / corp / enron @ enron , lisa
+hesse / hou / ect @ ect , trisha hughes / hou / ect @ ect
+cc : susan smith / hou / ect @ ect , donald p reinhardt / hou / ect @ ect , melissa
+graves / hou / ect @ ect , tom acton / corp / enron @ enron
+subject : united oil & minerals , inc . , chapman unit # 1
+bob ,
+the following production commenced to flow on friday and a ticket should be
+created and entered into sitara based on the following :
+counterparty meter volumes price period
+united oil & minerals , inc . 9846 1 , 500 mmbtu / d 100 % gas daily less $ 0 . 12
+8 / 4 - 8 / 31
+fyi , susan will create and submit a committed reserves firm ticket for the
+remaining term of the deal beginning with the month of september .
+additionally , this is a producer svcs . deal and should be tracked in the im
+wellhead portfolio . . . attached to the gathering contract .
+thanks ,
+vlt
+x 3 - 6353
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vance l taylor / hou / ect on 08 / 04 / 2000
+03 : 54 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron north america corp .
+from : melissa graves 08 / 03 / 2000 02 : 53 pm
+to : vance l taylor / hou / ect @ ect , jennifer blay / hou / ect @ ect
+cc : donald p reinhardt / hou / ect @ ect , susan smith / hou / ect @ ect , christy
+sweeney / hou / ect @ ect , jill t zivley / hou / ect @ ect
+subject : united oil & minerals , inc . , chapman unit # 1
+vance ,
+per jill and vic , tomorrow we will be getting a first turn on notice for the
+united oil & minerals , chapman unit # 1 well ( meter 9846 ) .
+when you see this notice , please prepare your usual spot ticket request per
+the following :
+term : 8 / 4 / 00 - 8 / 31 / 00
+price : gas daily less $ 0 . 12
+expected volumes : 1 , 500 mmbtu / d ( please alter per esther ' s notice as
+necessary )
+jennifer ,
+once vance requests the sitara ticket and provides you with the sitara deal
+number , please ensure that a gtc spot is sent to doyle valdez at united oil &
+minerals , inc . ( fax # : 361 - 328 - 8189 ) .
+please also provide a copy of the gtc for our records ( hpl ' s fax # :
+713 - 345 - 7040 ) .
+thank you ,
+melissa

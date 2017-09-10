@@ -1,0 +1,66 @@
+Subject: 24 x 5 products
+please make sure this is clearly understood by the schedulers .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brenda f herod / hou / ect on 05 / 23 / 2000
+09 : 52 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : jennifer deboisblanc denny
+05 / 23 / 2000 05 : 11 pm
+to : steve venturatos / hou / ect @ ect , david baumbach / hou / ect @ ect , o ' neal d
+winfree / hou / ect @ ect , michael walters / hou / ect @ ect , bryan hull / hou / ect @ ect ,
+jeff a crook / hou / ect @ ect , julie meyers / hou / ect @ ect , ami
+chokshi / corp / enron @ enron
+cc : torrey moorer / hou / ect @ ect , tara sweitzer / hou / ect @ ect , brenda f
+herod / hou / ect @ ect , sheri thomas / hou / ect @ ect , imelda frayre / hou / ect @ ect , scott
+mills / hou / ect @ ect
+subject : 24 x 5 products
+eric bass , texas desk trader , requested the following product described below
+be traded on enrononline . this product will not bridge into sitara and will
+have to be put in manually .
+the reason it will not bridge is due to the fact that it can have multiple
+stripes of start & end dates rather than one start & end date . currently ,
+enrononline can
+only send one start & end date per deal therefore it will fail in the bridge
+monitor and will have to be manually entered into sitara & subsequently
+cleared out of the monitor .
+since these transactions could flow next day , it is imperative that these
+transactions get into sitara as soon as possible . please read the full
+description below . ( this product looks like a month long deal but excludes
+weekends . the " wkd " is short for week days . )
+we do not anticipate a large volume of these transactions but need to be
+prepared to react quickly when they do . for the future , we are looking into
+the cost / benefit of enrononline having the capability of sending multiple
+dates for these types of products .
+if you have any questions , please call me at 3 - 5824
+thank you .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jennifer deboisblanc denny / hou / ect on
+05 / 23 / 2000 02 : 05 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+dale neuner 05 / 23 / 2000 10 : 26 am
+to : david forster / corp / enron @ enron , sheri thomas / hou / ect @ ect , jennifer
+deboisblanc denny / hou / ect @ ect , jason althaus / corp / enron @ enron , jason
+althaus / corp / enron @ enron , melba lozano / hou / ect @ ect
+cc : eric bass / hou / ect @ ect
+subject : 24 x 5 products
+we are rolling out the use of the 24 x 5 nat gas product commencing tomorrow ,
+may 24 th .
+the product is a month - long physical nat gas product traded off the texas
+desk . it will be identified as follows :
+us gas phy exxon katy wkd juno 0 usd / mm
+this product is different from the usual products traded on the texas desk in
+that the product description has an
+indicator of wkd , which designates that the product only moves gas on a day
+that is a monday , tuesday , wednesday ,
+thursday or friday .
+these products will not bridge into sitara . risk personnel will need to be
+diligent to identify these products based
+on the information in the product description to ensure that the products are
+entered into sitara correctly ( presumably -
+strips of monday - friday trades and the corresponding month - starting days
+and / or month - ending days ) .
+we understand the potential impact of having to manually input these
+transactions and have asked the appropriate
+systems personnel to examine the links between eol and sitara and consider
+building bridge capability . in the
+interim , we anticipate that the trading volume on these products will be low ,
+and will ask for higher prioritization of the
+bridging in the event that volumes increase .
+dale
+3 - 9746

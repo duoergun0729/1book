@@ -1,0 +1,19 @@
+Subject: update - supported internet email addresses
+earlier this week , enron global technology announced the plan to decommission the use of all non - standard internet email address formats . as mentioned in the previous communication , this was the first of several communications to be sent by the enron global technology group and we will continue to provide more details in the coming weeks regarding this significant but necessary change to our email environment .
+we are working toward a cut - off date of january 14 , 2002 , at which time we will no longer support email addresses that do not follow the standard format of firstname . lastname @ enron . com ( or firstname . middleinitial . lastname @ enron . com if your name in lotus notes or outlook has a middle initial in it ) . we understand that it will take time to make the necessary arrangements to begin using the standard email address format , but it is important to begin making the change now .
+if you have questions , please send an email to enron . messaging . administration @ enron . com .
+thank you for your support .
+enron global technology
+- - - - - original message - - - - -
+from : enron announcements / corp / enron @ enron on behalf of enron messaging administration
+sent : mon 10 / 15 / 2001 9 : 15 pm
+to : all enron worldwide @ enron
+cc :
+subject : supported internet email addresses
+enron global technology is in the process of decommissioning the support for all non - standard internet email address formats . the only internet email address format that will be supported , once this effort is completed , is firstname . lastname @ enron . com . we will no longer support internet email address formats such as name @ enron . com , name @ ect . enron . com , name @ ei . enron . com ( where " name " is an abbreviation , acronym or alternative to an employees firstname and / or lastname ) . every enron employee has an internet email address of firstname . lastname @ enron . com and must begin making the necessary arrangements to start using this internet address format if they are not using it already .
+any new / existing application systems or business cards that reference a non - supported internet email address will need to be changed to reference the only supported firstname . lastname @ enron . com internet address format . it is important to remember to also notify any external contacts who are currently sending internet email to any non - supported internet email addresses .
+to determine what your supported internet email address is , take your name as it appears in outlook or lotus notes and replace any " spaces " that appear in your name with periods and append @ enron . com . for example in outlook , alan smith , robert ( firstname = robert , lastname = alan smith ) will have a supported internet email address of robert . alan . smith @ enron . com .
+important : if you need to update your business card ( s ) to reflect your supported internet email address , please ensure you test & confirm the delivery of internet email to your supported email address prior to updating your business cards . if you experience any issues with delivery of internet email to your supported internet email address , please contact the resolution center .
+we will communicate further details , including the cut - off date , in the coming weeks . meanwhile , it is imperative that you begin making the necessary arrangements to change over to using the firstname . lastname @ enron . com internet email address format . if you have questions regarding this email , send an email to enron . messaging . administration @ enron . com .
+thank you for participation , cooperation and support .
+enron messaging administration

@@ -1,0 +1,30 @@
+Subject: spot deals - april , 2001
+the following have been entered as spot deals for april , 2001 :
+deal # counterparty meter # trade zone volume
+689849 amerada hess 0435 09 2 , 714
+689850 anadarko 0435 09 1 , 104
+689851 apache corp 0435 09 1 , 326
+689893 barrett res 0435 09 1 , 536
+690252 stone energy 9696 06 4 , 030
+691156 cima energy 6284 05 361
+689894 crosstex 0435 09 656
+691773 crosstex 6519 05 1
+691813 crosstex 9843 05 106
+692651 comstock 9878 08 500
+691873 duke energy 6347 21 144
+691982 embassy 6598 22 1
+692011 el paso mer 5848 05 203
+692026 el paso mer 5923 05 622
+688602 four square 9705 08 776
+692207 helmerich & p 9841 06 6 , 500
+692215 hesco 9876 05 85
+692246 hurd ent 5427 18 4
+689896 ocean en 0435 09 3 , 607
+689508 phillips 6782 06 4 , 013
+692461 ranger oil 9871 09 147
+689898 seneca res 0435 09 3 , 073
+692844 houston ex 9696 06 5 , 000
+689814 pure res 9685 05 139
+689905 tri - union 0435 09 149
+692898 whiting petr 6523 12 113
+bob

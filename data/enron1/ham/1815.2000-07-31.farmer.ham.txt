@@ -1,0 +1,11 @@
+Subject: enron / hpl actuals for july 28 - 30 , 2000
+july 28 , 2000
+teco tap 10 . 000 / enron ; 61 . 250 / hpl iferc ; 8 . 750 / hpl gas
+daily
+ls hpl lsk ic 30 . 000 / enron
+july 29 , 2000
+teco tap 10 . 000 / enron ; 100 . 000 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron
+july 30 , 2000
+teco tap 10 . 000 / enron ; 110 . 000 / hpl gas daily
+ls hpl lsk ic 30 . 000 / enron

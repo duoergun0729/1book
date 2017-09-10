@@ -1,0 +1,46 @@
+Subject: hpl meter # 986240 el campo / shanghai commonpoint
+daren :
+during the period of 9 / 1 / 99 to 9 / 30 / 99 , the above meter has recorded flow on
+the following days with no deals attached :
+days mmbtus
+9 / 1 / 99 0
+9 / 2 / 99 29
+9 / 3 / 99 4
+9 / 4 / 99 4
+9 / 5 / 99 4
+9 / 6 / 99 40
+9 / 7 / 99 27
+9 / 8 / 99 0
+9 / 9 / 99 30
+9 / 10 / 99 69
+9 / 11 / 99 71
+9 / 12 / 99 79
+9 / 13 / 99 68
+9 / 14 / 99 73
+9 / 15 / 99 97
+9 / 16 / 99 99
+9 / 17 / 99 93
+9 / 18 / 99 96
+9 / 19 / 99 89
+9 / 20 / 99 57
+9 / 21 / 99 108
+9 / 22 / 99 123
+9 / 23 / 99 111
+9 / 24 / 99 95
+9 / 25 / 99 102
+9 / 26 / 99 80
+9 / 27 / 99 78
+9 / 28 / 99 113
+9 / 29 / 99 194
+9 / 30 / 99 131
+2 , 164
+currently , these volumes are being booked under the hpl strangers gas
+contract . logistics needs either a deal to record these volumes which have
+flowed into hpl ' s pipeline or logistics needs approval to writeoff these
+volumes to unaccounted for gas . ( please print , sign , and return original to
+clem cernosek ) . there was no deal at this meter the previous month or the
+later month .
+deal / dealticket # / customer ( seller / buyer )
+or
+approval to writeoff the volumes to unaccounted for gas loss
+thanks , clem

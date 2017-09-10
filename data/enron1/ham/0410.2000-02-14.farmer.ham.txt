@@ -1,0 +1,65 @@
+Subject: re : sale to shoreline
+daren you are correct in that this was only in mops for the 26 th . it was
+edi ' d over to pops from the 25 th through the 31 st populating all days with
+the 16 , 700 nom . the nom was never - 0 - out in pops therefore the change
+notification process in pops did not pick up a change at this meter . this
+meter is pathed by kim and confirmed by me - it is extremely odd that this
+was missed in mops . the record would have been out of balance and someone ,
+if not several people , normally would make a comment on this . also - all
+of my records indicate that the 16 , 700 was good through the 31 st except the
+mops entry . my confirmations with koch didn ' t reflect the - 0 - ; the last
+report i have from koch indicated the 16 , 700 stayed on , there was no record
+of a phone call indicating anything other than 16 , 700 . it is very odd for
+this many checks and balances to fail . also , the volumes were being sent
+back to mops which no one caught .
+i have spoken with koch today and they agree that the 16 , 700 should have gone
+to - 0 - therefore i have removed the nom from pops confirmed volumes and
+re - allocated the meter . the oba has taken the hit and i am working off the
+imbalance now .
+daren , i am sorry that you had to look into this when you feel this is my
+responsibility . stella was trying to help me out in clearing up errors
+because i was buried in current activity , thus the e - mail to you asking for
+your help .
+if this doesn ' t answer all the questions , just give me a call .
+thanks ,
+charlotte
+daren j farmer
+02 / 14 / 2000 12 : 50 pm
+to : stella l morris / hou / ect @ ect , charlotte hawkins / hou / ect @ ect
+cc : pat clynes / corp / enron @ enron
+subject : re : sale to shoreline
+stella and charlotte ,
+i looked into this deal . we sold this gas for one day only . in mops , the
+path was nominated for 1 / 26 only . however , in pops the path was nominated
+and confirmed for 1 / 26 - 1 / 31 . this should have been showing up as a
+bridgeback error during the month . also , someone should have identified that
+the path / nom in mops wasn ' t the same as the nom in pops . this discrepancy
+should have been found before we closed out january .
+i researched this problem by reviewing both systems ( looking at the path id
+in pops , finding it in mops , and checking the audit on the path in mops ) .
+this type of issue should be researched and solved by the logistics group ,
+who has all the necessary tools to find the problem . the resolution , not the
+problem , should have been presented to myself or the marketer , with an
+explanation of what happened . some one still needs to find out how the gas
+was confirmed for the 27 th - 31 st .
+since the gas apparently flowed , we will have to apply the overflow to the
+oba . unless you can find a missing transport contract .
+d
+from : stella l morris 02 / 10 / 2000 02 : 26 pm
+to : daren j farmer / hou / ect @ ect
+cc : charlotte hawkins / hou / ect @ ect
+subject : sale to shoreline
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stella l morris / hou / ect on 02 / 10 / 2000
+02 : 25 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : sherlyn schumack 02 / 10 / 2000 02 : 21 pm
+to : joanie h ngo / hou / ect @ ect , katherine herrera / corp / enron @ enron
+cc : stella l morris / hou / ect @ ect
+subject : sale to shoreline
+joanie ,
+logistics is waiting to hear from daren on this issue . he will either need
+to extend the deal or maybe there should be another deal in place . this
+deal 155118 is valid on 1 / 26 / 00 only , but the rest of the volume you are
+looking for is scheduled on days 1 / 27 - 1 / 31 . i am sure there is no
+pricing on those days .
+i will let you know as soon as i hear from them .

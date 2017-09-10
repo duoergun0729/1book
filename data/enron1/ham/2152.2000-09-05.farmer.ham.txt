@@ -1,0 +1,4 @@
+Subject: enron / hpl noms . for wed , 9 / 6 / 00
+changed cell formula to correctly sum column of spot sales .
+( see attached file : hplo 906 . xls )
+- hplo 906 . xls

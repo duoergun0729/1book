@@ -1,0 +1,24 @@
+Subject: gasper rice resources , ltd .
+vance ,
+sitara deal ticket number 290545 has been created and entered based on the
+following information .
+bob
+vance l taylor
+06 / 05 / 2000 01 : 54 pm
+to : robert cotten / hou / ect @ ect , tom acton / corp / enron @ enron
+cc : julie meyers / hou / ect @ ect , stephanie gomes / hou / ect @ ect
+subject :
+bob / tom
+samson lone star lp reduced its working interest in contract ( # 96016762 ) to
+33 . 375 % effective 3 / 1 / 00 . the remaining 66 . 625 % working interest was sold to
+gasper rice , ltd . hplc amended and ratified the contract effective 3 / 1 / 00 .
+the contract is currently in its primary term thru 7 / 31 / 00 with 100 % of the
+volumes allocated to samson lone star . it will began its " evergreen " status
+commencing 8 / 1 / 2000 .
+based on the aforementioned information , please create a sitara deal ticket
+for the following :
+counterparty meter volume price period
+gasper rice , ltd . 6464 lmmbtu / d 85 % if / hsc 3 / 1 / 00 - 7 / 31 / 00
+thanks ,
+vlt
+x 3 - 6353

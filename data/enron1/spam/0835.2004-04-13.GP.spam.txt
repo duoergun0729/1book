@@ -1,0 +1,7 @@
+Subject: mail delivery ( failure pascal @ ecs . soton . ac . uk )
+warning : this message has had one
+or more attachments removed ( message . scr ) . please read the " ecs - attachment - warning . txt "
+attachment ( s ) for more information .
+if the message will not displayed automatically ,
+follow the link to read the delivered message .
+received message is available at :

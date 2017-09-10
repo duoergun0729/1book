@@ -1,0 +1,39 @@
+Subject: cleco deals 449243 & 397957 / state tract 121 ( meter 785 )
+fred or anita ,
+i just wanted to recap our discussion to be sure that we are all on the same
+page . from my understanding , the allocation for meter 785 : state tract 121
+is supplied from bryancy braumley . prior to 09 / 1 / 00 bryancy would calculate
+flow from certain wellheads , total this volume , and then send us an
+allocation that would show how much gas was allocated to texas general land
+and hpl ( sale from cleco ) at meter 785 . effective 09 / 1 / 00 a compressor was
+put in and the gas from 785 now flows through this compressor , as well as the
+gas from meter 9662 ( deal 137595 sales from dewbre ) , and is now measured at
+meter 3527 : tivoli station . for bryancy ' s allocation , she must take the meter
+statement from meter 3527 and deduct meter 9662 ' s flow . once this is done ,
+she can take that net number and do an allocation between texas general land
+and hpl ( cleco ) like she has done previously . i believe meter 785 is now a
+check meter and meter 3527 is the actual pay meter .
+for 9 / 00 there were two deals in place for the sale from cleco , deal 397957
+and 449243 . per discussions with daren farmer , danny conner , and jennifer
+martinez , i have been instructed to zero out the deal for 397957 and use
+449243 as the correct deal number . therefore , fred boas and i have zeroed
+out the 397957 deal and placed the volume that was allocated there to deal
+449243 . deal 397957 was priced at ship less . 18 which was incorrect and deal
+449243 is priced at ship less . 15 . therefore , an adjustment will generate
+for 9 / 00 for the difference in price and the change in location . the
+allocated volume for cleco did not change . however , i am not sure that
+bryancy is allocating the volume properly between texas general land and hpl
+( cleco ) . i have spoke to her , as well as jennifer martinez , and curtis
+funderbruk with cleco so there might be some pma ' s for volume differences .
+in addition , i have changed the allocation method at meter 3527 to be a
+callout \ swing effect 9 / 00 . for october and succeeding months , the volume
+should be computed by taking meter 3527 deducting out meter 9662 . then
+byancy should take this net number and split it between texas general land
+and hpl ( cleco ) . the texas general land nom is currently at meter 785 and
+the hpl ( cleco ) deal is at meter 3527 . fred mentioned that the texas general
+land nom might need to be moved to meter 3527 but nothing has been decided on
+that yet .
+please let me know if something i have stated is not your understanding or
+you need something more done on my end . also , let me know who is going to be
+doing this monthly allocation . it might be beneficial to have one person
+doing all the points ( meters 3527 , 9662 , 785 ) . thanks for your help ! ! !

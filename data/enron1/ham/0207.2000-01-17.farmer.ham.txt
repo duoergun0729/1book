@@ -1,0 +1,26 @@
+Subject: 2000 plan allocations
+attached is a file with my allocations of texas operations to be used for the
+2000 plan . however , please note that their are some problems / clean - up that
+needs to occur that i could not do .
+as you requested , i have taken the % we allocated to gas assets last year and
+put the appropriate % ' s into the appropriate group within gas assets as you
+have broken them out . please note : gas network trading is the same group as
+st gastexas ( group 8 ) - tom martin is responsible for both . i have indicated
+the appropriate % ' s into the new buckets , but i was not able to zero out the
+st gastexas group as the cells are protected . consequently , the total column
+indicates that i have allocated over 100 % . the # ' s in gas network trading
+are correct . will you please delete st gastexas so that no one will allocate
+to it ?
+when the plan allocations were submitted last year , there was an error in
+rcl 160 - volume management . i thought we corrected it but it is still
+showing up incorrectly . please move the 8 % under east origin to st gaseast .
+i was not able to correct this either as the cells have been protected .
+please note : this is not a change from the plan , but a correction of an
+error .
+i would appreciate you correcting these things for me , and forwarding the
+corrected version back to me for my records . i will be working with our
+management team on the 1 / 00 allocations , and will provide you those by
+friday . please call me if you have any questions . thanks .
+management team : please review , and work on how we should be allocated for
+1 / 00 . we have changes for denver business , project sally , newco , etc . we
+will discuss in the staff meeting on tuesday , 1 / 18 .
