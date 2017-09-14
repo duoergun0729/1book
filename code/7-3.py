@@ -24,7 +24,7 @@ def load_files(path):
         for file in files:
             if file.endswith('.php'):
                 file_path=path+file
-                print "Load %s" % file_path
+                #print "Load %s" % file_path
                 t=load_file(file_path)
                 files_list.append(t)
     return  files_list
@@ -42,10 +42,11 @@ if __name__ == '__main__':
     vocabulary=webshell_bigram_vectorizer.vocabulary_
 
 
-    wp_bigram_vectorizer = CountVectorizer(ngram_range=(2, 2), decode_error="ignore",
+    wp_bigram_vectorizer = CountVectorizer(ngram_range=(1, 1), decode_error="ignore",
                                         token_pattern = r_token_pattern,min_df=1,vocabulary=vocabulary)
     wp_files_list=load_files("../data/wordpress/")
-    x2=wp_bigram_vectorizer.fit_transform(wp_files_list).toarray()
+    x2=wp_bigram_vectorizer.transform(wp_files_list).toarray()
+    #print x2
     y2=[0]*len(x2)
 
     x=np.concatenate((x1,x2))
