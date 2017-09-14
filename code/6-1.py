@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
 from sklearn.datasets import load_iris
 from sklearn import tree
 import pydotplus
+
+#mac下执行下列命令
+#brew install graphviz
+#pip install - -upgrade graphviz
 
 iris = load_iris()
 
