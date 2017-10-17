@@ -6,45 +6,72 @@ import os
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import cross_validation
 import os
-from sklearn.naive_bayes import GaussianNB
+from sklearn.datasets import load_iris
+from sklearn import tree
+import pydotplus
+import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 
 
-def load_kdd99(filename):
+def load_one_flle(filename):
     x=[]
     with open(filename) as f:
-        for line in f:
-            line=line.strip('\n')
-            line=line.split(',')
-            x.append(line)
-    return x
+        line=f.readline()
+        line=line.strip('\n')
+    return line
 
-def get_rootkit2andNormal(x):
-    v=[]
-    w=[]
+def load_adfa_training_files(rootdir):
+    x=[]
     y=[]
-    for x1 in x:
-        if ( x1[41] in ['rootkit.','normal.'] ) and ( x1[2] == 'telnet' ):
-            if x1[41] == 'rootkit.':
-                y.append(1)
-            else:
-                y.append(0)
+    list = os.listdir(rootdir)
+    for i in range(0, len(list)):
+        path = os.path.join(rootdir, list[i])
+        if os.path.isfile(path):
+            x.append(load_one_flle(path))
+            y.append(0)
+    return x,y
 
-            x1 = x1[9:21]
-            v.append(x1)
+def dirlist(path, allfile):
+    filelist = os.listdir(path)
 
-    for x1 in v :
-        v1=[]
-        for x2 in x1:
-            v1.append(float(x2))
-        w.append(v1)
-    return w,y
+    for filename in filelist:
+        filepath = os.path.join(path, filename)
+        if os.path.isdir(filepath):
+            dirlist(filepath, allfile)
+        else:
+            allfile.append(filepath)
+    return allfile
+
+def load_adfa_webshell_files(rootdir):
+    x=[]
+    y=[]
+    allfile=dirlist(rootdir,[])
+    for file in allfile:
+        if re.match(r"../data/ADFA-LD/Attack_Data_Master/Web_Shell_\d+/UAD-W*",file):
+            x.append(load_one_flle(file))
+            y.append(1)
+    return x,y
+
+
 
 if __name__ == '__main__':
-    v=load_kdd99("../data/kddcup99/corrected")
-    x,y=get_rootkit2andNormal(v)
+
+    x1,y1=load_adfa_training_files("../data/ADFA-LD/Training_Data_Master/")
+    x2,y2=load_adfa_webshell_files("../data/ADFA-LD/Attack_Data_Master/")
+
+    x=x1+x2
+    y=y1+y2
+    #print x
+    vectorizer = CountVectorizer(min_df=1)
+    x=vectorizer.fit_transform(x)
+    x=x.toarray()
+    #print y
     clf = KNeighborsClassifier(n_neighbors=3)
-    print  cross_validation.cross_val_score(clf, x, y, n_jobs=-1, cv=10)
+    scores=cross_validation.cross_val_score(clf, x, y, n_jobs=-1, cv=10)
+    print scores
+    print np.mean(scores)
+
+
 
 
 
