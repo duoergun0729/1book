@@ -17,7 +17,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 
 #测试样本数
-N=96
+N=90
 
 def load_user_cmd_new(filename):
     cmd_list=[]
