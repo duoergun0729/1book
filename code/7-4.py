@@ -33,7 +33,7 @@ def load_alexa(filename):
     csv_reader = csv.reader(open(filename))
     for row in csv_reader:
         domain=row[1]
-        if domain >= MIN_LEN:
+        if len(domain） >= MIN_LEN:
             domain_list.append(domain)
     return domain_list
 
@@ -65,7 +65,7 @@ def load_dga(filename):
     with open(filename) as f:
         for line in f:
             domain=line.split(",")[0]
-            if domain >= MIN_LEN:
+            if len(domain） >= MIN_LEN:
                 domain_list.append(domain)
     return  domain_list
 
