@@ -1,3 +1,4 @@
+#-*- coding:utf-8 –*-
 from apriori import apriori
 from apriori import generateRules
 import re
