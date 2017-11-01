@@ -48,7 +48,7 @@ keep_prob=tf.placeholder(tf.float32)
 
 hidden1=tf.nn.relu(tf.matmul(x,W1)+b1)
 hidden2=tf.nn.relu(tf.matmul(hidden1,W2)+b2)
-hidden3=tf.nn.relu(tf.matmul(hidden2,W3)+b3)
+hidden3=tf.nn.relu(tf.matmul(hidden3,W3)+b3)
 hidden_drop=tf.nn.dropout(hidden3,keep_prob)
 
 
