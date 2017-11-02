@@ -1,77 +1,69 @@
 import tensorflow as tf
-import pickle
-import gzip
+from tensorflow.examples.tutorials.mnist import input_data
+mnist = input_data.read_data_sets("../data/mnist",one_hot= True)
+
+learning_rate = 0.001
+training_epochs = 10
+batch_size = 100
+display_step = 1
+
+n_hidden_1 = 256
+n_hidden_2 = 256
+n_input = 784
+n_classes = 10
+
+x = tf.placeholder("float",[None,784])
+y = tf.placeholder("float",[None,n_classes])
 
 
+def multilayer_perceptron(x,weights,biases):
+    layer_1 = tf.add(tf.matmul(x,weights['h1']),biases['b1'])
+    layer_1 = tf.nn.relu(layer_1)
 
-def get_one_hot(x,size=10):
-    v=[]
-    for x1 in x:
-        x2=[0]*size
-        x2[(x1-1)]=1
-        v.append(x2)
-    return v
+    layer_2 = tf.add(tf.matmul(layer_1,weights['h2']),biases['b2'])
+    layer_2 = tf.nn.relu(layer_2)
 
+    #layer_3 = tf.add(tf.matmul(layer_2,weights['h3']),biases['b3'])
+    #layer_3 = tf.nn.relu(layer_3)
 
-def load_data():
-    with gzip.open('../data/MNIST/mnist.pkl.gz') as fp:
-        training_data, valid_data, test_data = pickle.load(fp)
-    return training_data, valid_data, test_data
+    #out_layer = tf.matmul(layer_3,weights['out']) + biases['out']
+    out_layer = tf.matmul(layer_2, weights['out']) + biases['out']
+    return out_layer
 
-training_data, valid_data, test_dat=load_data()
+weigths = {
+    'h1': tf.Variable(tf.random_normal([n_input,n_hidden_1])),
+    'h2': tf.Variable(tf.random_normal([n_hidden_1,n_hidden_2])),
+    #'h3': tf.Variable(tf.random_normal([n_hidden_2,n_hidden_3])),
+    #'out': tf.Variable(tf.random_normal([n_hidden_3,n_classes]))
+    'out': tf.Variable(tf.random_normal([n_hidden_2,n_classes]))
+}
 
-x_training_data,y_training_data=training_data
-x1,y1=test_dat
+biases = {
+    'b1': tf.Variable(tf.random_normal([n_hidden_1])),
+    'b2': tf.Variable(tf.random_normal([n_hidden_2])),
+    #'b3': tf.Variable(tf.random_normal([n_hidden_3])),
+    'out': tf.Variable(tf.random_normal([n_classes]))
+}
 
-y_training_data=get_one_hot(y_training_data)
-y1=get_one_hot(y1)
+pred = multilayer_perceptron(x,weigths,biases)
 
+cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(logits=pred,labels=y))
+train_step = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost)
 
-batch_size=100
+init = tf.global_variables_initializer()
 
-in_units=784
-h1_units=300
-h2_units=200
-h3_units=100
-out_units=10
-W1=tf.Variable(tf.truncated_normal([in_units,h1_units],stddev=0.1))
-b1=tf.Variable(tf.zeros([h1_units]))
-W2=tf.Variable(tf.zeros([h1_units,h2_units]))
-b2=tf.Variable(tf.zeros([h2_units]))
-W3=tf.Variable(tf.zeros([h2_units,h3_units]))
-b3=tf.Variable(tf.zeros([h3_units]))
-W4=tf.Variable(tf.zeros([h3_units,out_units]))
-b4=tf.Variable(tf.zeros([out_units]))
+with tf.Session() as sess:
+    sess.run(init)
+    for epoch in range(training_epochs):
+        avg_cost = 0.
+        total_batch = int(mnist.train.num_examples / batch_size)
+        for i in range(total_batch):
+            batch_x,batch_y = mnist.train.next_batch(batch_size)
+            _,c = sess.run([train_step,cost],feed_dict={x:batch_x,y:batch_y})
+            avg_cost += c/total_batch
+        if epoch % display_step == 0:
+            print("Epoch:",'%04d' % (epoch+1),"cost=","{:.9f}".format(avg_cost))
 
-x = tf.placeholder(tf.float32, [None, in_units])
-keep_prob=tf.placeholder(tf.float32)
-
-hidden1=tf.nn.relu(tf.matmul(x,W1)+b1)
-hidden2=tf.nn.relu(tf.matmul(hidden1,W2)+b2)
-hidden3=tf.nn.relu(tf.matmul(hidden2,W3)+b3)
-hidden_drop=tf.nn.dropout(hidden3,keep_prob)
-
-
-y = tf.nn.softmax(tf.matmul(hidden_drop,W4) + b4)
-y_ = tf.placeholder(tf.float32, [None,10])
-
-cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_*tf.log(y),reduction_indices=[1]))
-train_step = tf.train.AdagradOptimizer(0.3).minimize(cross_entropy)
-
-init = tf.initialize_all_variables()
-sess = tf.Session()
-sess.run(init)
-
-
-
-for i in range(int(len(x_training_data)/batch_size)):
-    batch_xs=x_training_data[(i*batch_size):((i+1)*batch_size)]
-    batch_ys=y_training_data[(i*batch_size):((i+1)*batch_size)]
-
-    sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys,keep_prob:0.75})
-
-
-correct_prediction = tf.equal(tf.argmax(y, 1), tf.argmax(y_, 1))
-accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
-
-print(sess.run(accuracy, feed_dict={x: x1, y_: y1,keep_prob:1.0}))
+    correct_prediction = tf.equal(tf.argmax(pred,1),tf.argmax(y,1))
+    accuracy = tf.reduce_mean(tf.cast(correct_prediction,"float"))
+    print("Accuracy:",accuracy.eval({x:mnist.test.images,y:mnist.test.labels}))
