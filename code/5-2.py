@@ -15,8 +15,11 @@ from nltk.probability import FreqDist
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.neighbors import KNeighborsClassifier
 
+from sklearn.metrics import classification_report
+from sklearn import metrics
+
 #测试样本数
-N=90
+N=100
 
 """
 def load_alexa(filename):
@@ -118,3 +121,7 @@ if __name__ == '__main__':
     print y_test
     print y_predict
     print score
+
+    print classification_report(y_test, y_predict)
+
+    print metrics.confusion_matrix(y_test, y_predict)
