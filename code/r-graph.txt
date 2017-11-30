@@ -1,0 +1,11 @@
+- -> http://180.76.190.79/wordpress/wp-admin/1.php
+- -> http://180.76.190.79/wordpress/wp-admin/admin-ajax.php
+- -> http://180.76.190.79/wordpress/wp-admin/customize.php
+- -> http://180.76.190.79/wordpress/wp-admin/load-styles.php
+- -> http://180.76.190.79/wordpress/wp-admin/post-new.php
+- -> http://180.76.190.79/wordpress/wp-login.php
+http://180.76.190.79/wordpress/ -> http://180.76.190.79/wordpress/wp-admin/edit-comments.php
+http://180.76.190.79/wordpress/ -> http://180.76.190.79/wordpress/wp-admin/profile.php
+http://180.76.190.79/wordpress/ -> http://180.76.190.79/wordpress/wp-login.php
+http://180.76.190.79/wordpress/ -> http://180.76.190.79/wordpress/xmlrpc.php
+http://180.76.190.79/wordpress/wp-admin/ -> http://180.76.190.79/wordpress/wp-login.php
