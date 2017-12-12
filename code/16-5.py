@@ -85,7 +85,7 @@ def do_rnn(trainX, testX, trainY, testY):
 
     net = tflearn.input_data([None, max_sequences_len])
     net = tflearn.embedding(net, input_dim=max_sys_call+1, output_dim=128)
-    net = tflearn.lstm(net, 128, dropout=0.8)
+    net = tflearn.lstm(net, 128, dropout=0.3)
     net = tflearn.fully_connected(net, 2, activation='softmax')
     net = tflearn.regression(net, optimizer='adam', learning_rate=0.1,
                              loss='categorical_crossentropy')
@@ -113,8 +113,8 @@ def do_rnn(trainX, testX, trainY, testY):
 
     print(classification_report(testY_old, y_predict))
     print metrics.confusion_matrix(testY_old, y_predict)
-    print metrics.recall_score(testY_old, y_predict)
-    print metrics.accuracy_score(testY_old, y_predict)
+    #print metrics.recall_score(testY_old, y_predict)
+    #print metrics.accuracy_score(testY_old, y_predict)
 
 
 if __name__ == '__main__':
