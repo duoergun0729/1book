@@ -14,6 +14,8 @@ import tflearn
 from tflearn.data_utils import to_categorical, pad_sequences
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+from sklearn import metrics
 
 max_sequences_len=300
 max_sys_call=0
@@ -74,6 +76,7 @@ def do_rnn(trainX, testX, trainY, testY):
     testX = pad_sequences(testX, maxlen=max_sequences_len, value=0.)
     # Converting labels to binary vectors
     trainY = to_categorical(trainY, nb_classes=2)
+    testY_old=testY
     testY = to_categorical(testY, nb_classes=2)
 
     # Network building
@@ -94,6 +97,25 @@ def do_rnn(trainX, testX, trainY, testY):
     model = tflearn.DNN(net, tensorboard_verbose=3)
     model.fit(trainX, trainY, validation_set=(testX, testY), show_metric=True,
              batch_size=32,run_id="maidou")
+
+    y_predict_list = model.predict(testX)
+    #print y_predict_list
+
+    y_predict = []
+    for i in y_predict_list:
+        #print  i[0]
+        if i[0] > 0.5:
+            y_predict.append(0)
+        else:
+            y_predict.append(1)
+
+    #y_predict=to_categorical(y_predict, nb_classes=2)
+
+    print(classification_report(testY_old, y_predict))
+    print metrics.confusion_matrix(testY_old, y_predict)
+    print metrics.recall_score(testY_old, y_predict)
+    print metrics.accuracy_score(testY_old, y_predict)
+
 
 if __name__ == '__main__':
     x1,y1=load_adfa_training_files("../data/ADFA-LD/Training_Data_Master/")

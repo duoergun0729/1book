@@ -7,8 +7,8 @@ training_epochs = 10
 batch_size = 100
 display_step = 1
 
-n_hidden_1 = 256
-n_hidden_2 = 256
+n_hidden_1 = 128
+n_hidden_2 = 32
 n_input = 784
 n_classes = 10
 
