@@ -2,6 +2,9 @@
 # 京东链接
 [https://item.jd.com/12158965.html](https://item.jd.com/12158965.html)
 
+# 国内同步
+[https://gitee.com/duoergun0729/1book/blob/master/README.md](https://gitee.com/duoergun0729/1book/blob/master/README.md)
+
 # 目录
 
 ![img](https://github.com/duoergun0729/1book/raw/master/photo/1.jpeg)
